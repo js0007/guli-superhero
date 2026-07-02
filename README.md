@@ -47,13 +47,16 @@ python -m http.server 8080
 
 ## GitHub Pages 部署
 
-1. 运行 `python scripts/build_all.py`
-2. 提交并推送到 GitHub
-3. 仓库 **Settings → Pages → Build and deployment**
-4. Source 选 **GitHub Actions**（工作流 `.github/workflows/pages.yml` 会自动发布 `site/`）
-5. 推送后打开 **Actions** 页，等 Deploy 变绿，即可访问站点 URL
+线上地址：**https://js0007.github.io/guli-superhero/**
 
-> 说明：GitHub 分支部署只支持根目录或 `/docs`，本项目用 Actions 发布 `site/` 子目录。
+站点内容发布在 `gh-pages` 分支（`site/` 目录内容）。更新后执行：
+
+```powershell
+python scripts/build_all.py
+powershell -File scripts/deploy_pages.ps1
+```
+
+或在 GitHub 仓库 **Settings → Pages** 确认 Source 为 `gh-pages` 分支、`/` 根目录。
 
 ## 依赖
 - `pip install deep-translator`（翻译步骤需要）
