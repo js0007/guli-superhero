@@ -22,7 +22,9 @@ def collect_books() -> list[dict]:
         book_dir = BOOKS / folder
         if not book_dir.is_dir():
             continue
-        cover = f"books/{folder}/images/0-1.jpg"
+        cover_webp = f"books/{folder}/images/cover.webp"
+        cover_jpg = f"books/{folder}/images/0-1.jpg"
+        cover = cover_webp if (SITE / cover_webp).exists() else cover_jpg
         if not (SITE / cover).exists():
             continue
         title = book_display(folder)
@@ -44,7 +46,7 @@ def collect_books() -> list[dict]:
 def book_card(b: dict) -> str:
     return f"""            <a class="book-card" href="{b['href']}" title="{b['title']}">
               <div class="cover-wrap">
-                <img class="cover" src="{b['cover']}" alt="{b['title']}">
+                <img class="cover" src="{b['cover']}" alt="{b['title']}" loading="lazy" decoding="async">
               </div>
               <div class="book-title">{b['title']}</div>
             </a>"""

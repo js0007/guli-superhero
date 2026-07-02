@@ -95,6 +95,90 @@ html, body {
   margin-bottom: 10px;
 }
 
+.flow-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.flow-card {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 10px 10px 8px;
+}
+
+.flow-step {
+  display: inline-block;
+  font-size: 0.64rem;
+  font-weight: 700;
+  color: white;
+  background: var(--green);
+  padding: 2px 8px;
+  border-radius: 999px;
+  margin-bottom: 6px;
+}
+
+.flow-say-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+}
+
+.flow-say-en {
+  flex: 1;
+  font-family: var(--font-serif);
+  font-size: 0.9rem;
+  line-height: 1.45;
+  color: var(--text-en);
+  font-weight: 700;
+}
+
+.flow-say-zh {
+  font-size: 0.74rem;
+  color: var(--zh);
+  line-height: 1.38;
+  margin-top: 2px;
+}
+
+.flow-coach {
+  margin-top: 8px;
+  border-radius: 8px;
+  padding: 7px 9px;
+  background: #FFF7DF;
+  border: 1px solid #F3DFA1;
+  font-size: 0.72rem;
+  color: #7C6112;
+  line-height: 1.4;
+}
+
+.flow-coach::before { content: '互动：'; font-weight: 700; }
+
+.flow-next {
+  margin-top: 7px;
+  font-size: 0.69rem;
+  color: #8A8E9B;
+  line-height: 1.35;
+}
+
+.flow-next::before { content: '下一句：'; }
+
+.flow-more-btn {
+  margin: 10px auto 2px;
+  display: block;
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--green);
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
+.flow-more-btn[hidden] {
+  display: none !important;
+}
+
 .extend-scroll {
   max-height: clamp(140px, 34vh, 240px);
   overflow-y: auto;
@@ -355,8 +439,23 @@ html, body {
   gap: 5px;
   box-shadow: 0 3px 10px rgba(61,153,112,0.25);
 }
-.btn-full-audio.playing { background: #2D6A4F; }
+.btn-full-audio.playing {
+  background: #2D6A4F;
+  box-shadow: 0 4px 14px rgba(45,106,79,0.42);
+}
+.btn-full-audio.playing svg {
+  animation: pulse-audio 0.9s ease-in-out infinite;
+}
+.btn-full-audio.error {
+  background: #B45309;
+  box-shadow: 0 4px 14px rgba(180,83,9,0.3);
+}
 .btn-full-audio svg { width: 16px; height: 16px; fill: white; }
+
+@keyframes pulse-audio {
+  0%, 100% { transform: scale(1); opacity: 0.85; }
+  50% { transform: scale(1.16); opacity: 1; }
+}
 
 .cheat-panel .section-head:first-child { margin-top: 12px; }
 

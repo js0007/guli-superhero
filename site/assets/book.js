@@ -17,6 +17,22 @@ const BookApp = (() => {
       .replace(/"/g, '&quot;');
   }
 
+  function setFullAudioState(state) {
+    const btn = $('btnFullAudio');
+    const txt = $('btnFullAudioText');
+    if (!btn || !txt) return;
+    btn.classList.remove('playing', 'error');
+    if (state === 'playing') {
+      btn.classList.add('playing');
+      txt.textContent = '播放中...';
+    } else if (state === 'error') {
+      btn.classList.add('error');
+      txt.textContent = '音频不可用';
+    } else {
+      txt.textContent = '整页原音';
+    }
+  }
+
   function stopAudio() {
     if (audio) {
       audio.pause();
@@ -24,7 +40,7 @@ const BookApp = (() => {
       audio.onended = null;
       audio = null;
     }
-    $('btnFullAudio')?.classList.remove('playing');
+    setFullAudioState('idle');
   }
 
   function playFull(onEnd) {
@@ -38,8 +54,15 @@ const BookApp = (() => {
       stopAudio();
       if (onEnd) onEnd();
     };
-    audio.play().catch(() => {});
-    $('btnFullAudio')?.classList.add('playing');
+    audio.onerror = () => {
+      stopAudio();
+      setFullAudioState('error');
+    };
+    setFullAudioState('playing');
+    audio.play().catch(() => {
+      stopAudio();
+      setFullAudioState('error');
+    });
   }
 
   function speak(text) {
@@ -50,52 +73,98 @@ const BookApp = (() => {
     window.speechSynthesis?.speak(u);
   }
 
-  function renderExtendText(lines) {
-    $('extendText').innerHTML = lines
-      .map(
-        (l, i) => `
-        <div class="text-line">
-          <div class="text-line-row">
-            <div class="en">${esc(l.en)}</div>
-            <button class="btn-speak" data-idx="${i}" aria-label="朗读">${SPEAKER_SVG}</button>
-          </div>
-          <div class="zh">${esc(l.zh || '')}</div>
-        </div>`
-      )
-      .join('');
-
-    $('extendText').querySelectorAll('.btn-speak').forEach((btn) => {
-      btn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        $('extendText').querySelectorAll('.btn-speak').forEach((b) => b.classList.remove('playing'));
-        btn.classList.add('playing');
-        speak(lines[+btn.dataset.idx].en);
-        setTimeout(() => btn.classList.remove('playing'), 2000);
-      });
-    });
+  function normalize(s) {
+    return String(s || '')
+      .toLowerCase()
+      .replace(/[“”"]/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
   }
 
-  function renderGuides(guides) {
-    $('guideCard').innerHTML = guides
-      .map(
-        (g, i) => `
-        <div class="guide-item">
-          <span class="guide-step">${esc(g.step)}</span>
-          <div class="guide-action">${esc(g.action)}</div>
-          <div class="guide-say-en" data-idx="${i}">${esc(g.en)}</div>
-          <div class="guide-say-zh">${esc(g.zh || '')}</div>
-          <div class="guide-note">${esc(g.note || '')}</div>
-        </div>`
-      )
-      .join('');
+  function buildFlow(page) {
+    if (Array.isArray(page.flow) && page.flow.length) return page.flow;
+    const extend = page.extendText || [];
+    const guides = page.guides || [];
+    const guideMap = new Map(guides.map((g) => [normalize(g.en), g]));
+    const flow = [];
 
-    $('guideCard').querySelectorAll('.guide-say-en').forEach((el) => {
-      el.addEventListener('click', () => {
-        $('guideCard').querySelectorAll('.guide-say-en').forEach((x) => x.classList.remove('active'));
-        el.classList.add('active');
-        speak(guides[+el.dataset.idx].en);
+    extend.forEach((x, i) => {
+      const k = normalize(x.en);
+      const g = guideMap.get(k);
+      flow.push({
+        step: g?.step || '',
+        sayEn: x.en || '',
+        sayZh: x.zh || g?.zh || '',
+        coach: g?.action || '',
+        next: i < extend.length - 1 ? (extend[i + 1].en || '') : '',
       });
     });
+
+    // 极少数 guide 句子不在 extend 中，兜底补到末尾，但不加“补充”标签
+    const existed = new Set(flow.map((f) => normalize(f.sayEn)));
+    guides.forEach((g) => {
+      const k = normalize(g.en);
+      if (!k || existed.has(k)) return;
+      flow.push({
+        step: g.step || '',
+        sayEn: g.en || '',
+        sayZh: g.zh || '',
+        coach: g.action || '',
+        next: '',
+      });
+    });
+    return flow;
+  }
+
+  function renderFlow(page) {
+    const flow = buildFlow(page);
+    const coreCount = 5;
+    const list = $('flowList');
+    const btn = $('flowMoreBtn');
+    let expanded = false;
+
+    function draw() {
+      const visible = expanded ? flow : flow.slice(0, coreCount);
+      list.innerHTML = visible
+        .map(
+          (f, i) => `
+          <div class="flow-card">
+            ${f.step ? `<span class="flow-step">${esc(f.step)}</span>` : ''}
+            <div class="flow-say-row">
+              <div class="flow-say-en">${esc(f.sayEn || '')}</div>
+              <button class="btn-speak" data-idx="${i}" aria-label="朗读">${SPEAKER_SVG}</button>
+            </div>
+            <div class="flow-say-zh">${esc(f.sayZh || '')}</div>
+            ${f.coach ? `<div class="flow-coach">${esc(f.coach)}</div>` : ''}
+            ${f.next ? `<div class="flow-next">${esc(f.next)}</div>` : ''}
+          </div>`
+        )
+        .join('');
+
+      list.querySelectorAll('.btn-speak').forEach((sBtn) => {
+        sBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          list.querySelectorAll('.btn-speak').forEach((b) => b.classList.remove('playing'));
+          sBtn.classList.add('playing');
+          const idx = +sBtn.dataset.idx;
+          speak(visible[idx].sayEn);
+          setTimeout(() => sBtn.classList.remove('playing'), 2000);
+        });
+      });
+      if (btn) {
+        const hasMore = flow.length > coreCount;
+        btn.hidden = !hasMore;
+        if (hasMore) btn.textContent = expanded ? '收起补充句子' : `展开更多句子（+${flow.length - coreCount}）`;
+      }
+    }
+
+    if (btn) {
+      btn.onclick = () => {
+        expanded = !expanded;
+        draw();
+      };
+    }
+    draw();
   }
 
   function renderVocab(vocab) {
@@ -122,12 +191,9 @@ const BookApp = (() => {
     $('pageNum').textContent = `${idx + 1} / ${pages.length}`;
     $('btnPrev').disabled = idx === 0;
     $('btnNext').disabled = idx === pages.length - 1;
-    renderExtendText(p.extendText || []);
-    renderGuides(p.guides || []);
+    renderFlow(p);
     renderVocab(p.vocab || []);
     $('scrollBody').scrollTop = 0;
-    const extendScroll = $('extendScroll');
-    if (extendScroll) extendScroll.scrollTop = 0;
     stopAudio();
   }
 
