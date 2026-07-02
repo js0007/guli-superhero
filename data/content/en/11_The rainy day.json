@@ -66,6 +66,30 @@
         {
           "en": "Does Bella look bored, too?",
           "zh": ""
+        },
+        {
+          "en": "No, she looks happy!",
+          "zh": ""
+        },
+        {
+          "en": "Bella likes the rain!",
+          "zh": ""
+        },
+        {
+          "en": "She's pointing outside.",
+          "zh": ""
+        },
+        {
+          "en": "It looks like she wants to play outside!",
+          "zh": ""
+        },
+        {
+          "en": "Do you think the others want to play outside with her?",
+          "zh": ""
+        },
+        {
+          "en": "Hm...probably not.",
+          "zh": ""
         }
       ],
       "guides": [
@@ -126,6 +150,34 @@
         },
         {
           "en": "Can you find the rain hats?",
+          "zh": ""
+        },
+        {
+          "en": "Yes!",
+          "zh": ""
+        },
+        {
+          "en": "What about the rain boots?",
+          "zh": ""
+        },
+        {
+          "en": "Yes!",
+          "zh": ""
+        },
+        {
+          "en": "How many pairs of rain boots are there?",
+          "zh": ""
+        },
+        {
+          "en": "Yes, three pairs!",
+          "zh": ""
+        },
+        {
+          "en": "Now everyone can stay nice and dry in the rain!",
+          "zh": ""
+        },
+        {
+          "en": "Hooray!",
           "zh": ""
         }
       ],
@@ -188,6 +240,30 @@
         {
           "en": "Do you have a rain coat, too?",
           "zh": ""
+        },
+        {
+          "en": "What color is your rain coat?",
+          "zh": ""
+        },
+        {
+          "en": "Oh no!",
+          "zh": ""
+        },
+        {
+          "en": "He isn't wearing boots!",
+          "zh": ""
+        },
+        {
+          "en": "Oh, that's ok.",
+          "zh": ""
+        },
+        {
+          "en": "Ducky is a duck...and ducks are used to having wet feet.",
+          "zh": ""
+        },
+        {
+          "en": "Whose pinktummy is that coming down the stairs?",
+          "zh": ""
         }
       ],
       "guides": [
@@ -248,6 +324,42 @@
         },
         {
           "en": "Jump, jump, jump!",
+          "zh": ""
+        },
+        {
+          "en": "Splash, splash, splash!",
+          "zh": ""
+        },
+        {
+          "en": "It's good she's wearing rain boots.",
+          "zh": ""
+        },
+        {
+          "en": "Uh oh...she isn't wearing a rain coat!",
+          "zh": ""
+        },
+        {
+          "en": "I guess she likes to feel the rain.",
+          "zh": ""
+        },
+        {
+          "en": "She has a rain hat though!",
+          "zh": ""
+        },
+        {
+          "en": "What color is it?",
+          "zh": ""
+        },
+        {
+          "en": "Yeah, it's orange!",
+          "zh": ""
+        },
+        {
+          "en": "Do you like jumping in puddles, too?",
+          "zh": ""
+        },
+        {
+          "en": "Molly:",
           "zh": ""
         }
       ],
@@ -310,6 +422,42 @@
         {
           "en": "Jojo has a green one, and Leo has a purple one!",
           "zh": ""
+        },
+        {
+          "en": "What?",
+          "zh": ""
+        },
+        {
+          "en": "No?",
+          "zh": ""
+        },
+        {
+          "en": "Leo's umbrella isn't purple?",
+          "zh": ""
+        },
+        {
+          "en": "Oh, what color is it?",
+          "zh": ""
+        },
+        {
+          "en": "Yeah, it's blue!",
+          "zh": ""
+        },
+        {
+          "en": "Can you find Teeny?",
+          "zh": ""
+        },
+        {
+          "en": "There he is!",
+          "zh": ""
+        },
+        {
+          "en": "He's keeping dry under Leo's umbrella!",
+          "zh": ""
+        },
+        {
+          "en": "He's too small to hold an umbrella!",
+          "zh": ""
         }
       ],
       "guides": [
@@ -370,6 +518,42 @@
         },
         {
           "en": "Boom!",
+          "zh": ""
+        },
+        {
+          "en": "Crash!",
+          "zh": ""
+        },
+        {
+          "en": "Crack!!!",
+          "zh": ""
+        },
+        {
+          "en": "What was that?!",
+          "zh": ""
+        },
+        {
+          "en": "Yeah, it was lightning!!",
+          "zh": ""
+        },
+        {
+          "en": "That was LOUD!",
+          "zh": ""
+        },
+        {
+          "en": "Everyone is scared!",
+          "zh": ""
+        },
+        {
+          "en": "They think lightning is scary!",
+          "zh": ""
+        },
+        {
+          "en": "Gyuri!!!",
+          "zh": ""
+        },
+        {
+          "en": "Help us!!!!",
           "zh": ""
         }
       ],
@@ -432,6 +616,22 @@
         {
           "en": "Oh, here comes Gyuri!",
           "zh": ""
+        },
+        {
+          "en": "He's flying in the sky!",
+          "zh": ""
+        },
+        {
+          "en": "And he has a big, rainbow umbrella!",
+          "zh": ""
+        },
+        {
+          "en": "The storm cloud is so much bigger than Gyuri!",
+          "zh": ""
+        },
+        {
+          "en": "Be careful, Gyuri!!!",
+          "zh": ""
         }
       ],
       "guides": [
@@ -493,6 +693,22 @@
         {
           "en": "Go away, big storm cloud!!!",
           "zh": ""
+        },
+        {
+          "en": "Oh!",
+          "zh": ""
+        },
+        {
+          "en": "The lightning and clouds are breaking apart!",
+          "zh": ""
+        },
+        {
+          "en": "The sun is coming out!",
+          "zh": ""
+        },
+        {
+          "en": "Now that big, mean storm cloud is running away!",
+          "zh": ""
         }
       ],
       "guides": [
@@ -553,6 +769,26 @@
         },
         {
           "en": "A big, beautiful, colorful rainbow.",
+          "zh": ""
+        },
+        {
+          "en": "Red, orange, yellow, green, blue, indigo, and violet!",
+          "zh": ""
+        },
+        {
+          "en": "What's your favorite color in the rainbow?",
+          "zh": ""
+        },
+        {
+          "en": "Thank you so much for saving us, Gyuri!",
+          "zh": ""
+        },
+        {
+          "en": "Now, let's slide down the rainbow like a big slide!",
+          "zh": ""
+        },
+        {
+          "en": "See you next time!",
           "zh": ""
         }
       ],

@@ -20,28 +20,64 @@
         {
           "en": "The trees!",
           "zh": "树木！"
+        },
+        {
+          "en": "The bushes!",
+          "zh": "灌木丛！"
+        },
+        {
+          "en": "Who's that?",
+          "zh": "那是谁？"
+        },
+        {
+          "en": "Oh, it's Jojo!",
+          "zh": "噢，是乔乔！"
+        },
+        {
+          "en": "Hi, Jojo!",
+          "zh": "嗨，乔乔！"
+        },
+        {
+          "en": "He's looking between his legs at the ground!",
+          "zh": "他正看着两腿之间的地面！"
+        },
+        {
+          "en": "What does he see in the snow?",
+          "zh": "他在雪地里看到了什么？"
+        },
+        {
+          "en": "Tracks!",
+          "zh": "曲目！"
+        },
+        {
+          "en": "Lots of tracks!",
+          "zh": "很多曲目！"
+        },
+        {
+          "en": "Can you count all the tracks?1-10...10 tracks!",
+          "zh": "你能数出所有曲目吗？1-10...10首曲目！"
         }
       ],
       "guides": [
         {
-          "step": "① 观察暖场",
-          "action": "先不急着读字，让孩子看纸质书跨页图，说出看到了什么；再播放「整页原音」",
-          "en": "MTE Brrr...what a cold, snowy day!",
-          "zh": "MTEBrrr...多么寒冷的雪天啊！",
-          "note": "第一遍允许只听不说，建立「看图→听→说」的顺序"
+          "step": "① 数数互动",
+          "action": "指着纸质书上的树，和孩子一起大声数，数完击掌庆祝",
+          "en": "Can you count all the tracks?1-10...10 tracks!",
+          "zh": "你能数出所有曲目吗？1-10...10首曲目！",
+          "note": "数错不要紧，重点是开口跟节奏；可以中英文混着说数字"
         },
         {
-          "step": "② 跟读互动",
-          "action": "指着树，邀请孩子跟读这句，等几秒给孩子思考时间",
-          "en": "Everything is covered in snow!",
-          "zh": "一切都被雪覆盖了！",
-          "note": "不会说就重复关键词，或点英文听发音"
+          "step": "② 提问互动",
+          "action": "指着树提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Who's that?",
+          "zh": "那是谁？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
         },
         {
           "step": "③ 重点跟读",
           "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
-          "en": "The ground!",
-          "zh": "地面！",
+          "en": "MTE Brrr...what a cold, snowy day!",
+          "zh": "MTEBrrr...多么寒冷的雪天啊！",
           "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
         }
       ],
@@ -81,29 +117,57 @@
         {
           "en": "Was it a cat?",
           "zh": "这是一只猫吗？"
+        },
+        {
+          "en": "A snake?",
+          "zh": "一条蛇？"
+        },
+        {
+          "en": "A kangaroo?",
+          "zh": "袋鼠？"
+        },
+        {
+          "en": "I don't know!",
+          "zh": "我不知道！"
+        },
+        {
+          "en": "Ducky wants follow the tracks and find out!",
+          "zh": "鸭子想要追踪踪迹并找出答案！"
+        },
+        {
+          "en": "Do you want to go with him?",
+          "zh": "你想和他一起去吗？"
+        },
+        {
+          "en": "Ok!",
+          "zh": "好的！"
+        },
+        {
+          "en": "Let's go!",
+          "zh": "我们走吧！"
         }
       ],
       "guides": [
         {
           "step": "① 观察找一找",
-          "action": "在纸质书上用手指圈出脚印，让孩子找全、找齐再往下讲",
-          "en": "Hm...",
-          "zh": "嗯...",
+          "action": "在纸质书上用手指圈出蛇，让孩子找全、找齐再往下讲",
+          "en": "Ducky wants follow the tracks and find out!",
+          "zh": "鸭子想要追踪踪迹并找出答案！",
           "note": "找物游戏让页面「活」起来，别一直线性往下读"
         },
         {
           "step": "② 提问互动",
-          "action": "指着脚印提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "action": "指着蛇提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
           "en": "What do you think?",
           "zh": "你怎么认为？",
           "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
         },
         {
-          "step": "③ 重点跟读",
-          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
-          "en": "I wonder who made those tracks!",
-          "zh": "我想知道这些曲目是谁制作的！",
-          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+          "step": "③ 一起做",
+          "action": "妈妈说 Let's...，带孩子完整做一遍动作或跟读整句",
+          "en": "Let's go!",
+          "zh": "我们走吧！",
+          "note": "「一起做」比「听我讲」更能留住注意力"
         }
       ],
       "vocab": [
@@ -142,15 +206,39 @@
         {
           "en": "Where is she going?",
           "zh": "她要去哪里？"
+        },
+        {
+          "en": "She's going home to her den to take care of her babies!",
+          "zh": "她要回家照顾她的孩子了！"
+        },
+        {
+          "en": "How many babies does she have?",
+          "zh": "她有几个孩子？"
+        },
+        {
+          "en": "Yes, 3!",
+          "zh": "是的，3！"
+        },
+        {
+          "en": "She has 3 baby rabbits.",
+          "zh": "她有3只小兔子。"
+        },
+        {
+          "en": "And, shh...they're sleeping.",
+          "zh": "而且，嘘……他们正在睡觉。"
+        },
+        {
+          "en": "They're so sweet.",
+          "zh": "他们太甜蜜了。"
         }
       ],
       "guides": [
         {
-          "step": "① 观察找一找",
-          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
-          "en": "Oh, look!",
-          "zh": "哦，看！",
-          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+          "step": "① 数数互动",
+          "action": "指着纸质书上的画面细节，和孩子一起大声数，数完击掌庆祝",
+          "en": "How many babies does she have?",
+          "zh": "她有几个孩子？",
+          "note": "数错不要紧，重点是开口跟节奏；可以中英文混着说数字"
         },
         {
           "step": "② 提问互动",
@@ -162,8 +250,8 @@
         {
           "step": "③ 重点跟读",
           "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
-          "en": "What's that!",
-          "zh": "那是什么！",
+          "en": "Oh, look!",
+          "zh": "哦，看！",
           "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
         }
       ],
@@ -203,6 +291,38 @@
         {
           "en": "Let's go back a page and compare them.",
           "zh": "让我们返回一页并比较它们。"
+        },
+        {
+          "en": "What do you think?",
+          "zh": "你怎么认为？"
+        },
+        {
+          "en": "Yeah, I think they look different, too.",
+          "zh": "是的，我也觉得他们看起来不一样。"
+        },
+        {
+          "en": "Hm...",
+          "zh": "嗯..."
+        },
+        {
+          "en": "I wonder what animal left these tracks in the snow.",
+          "zh": "我想知道是什么动物在雪地里留下了这些脚印。"
+        },
+        {
+          "en": "Ducky wants to follow these tracks, too.",
+          "zh": "鸭子也想追踪这些足迹。"
+        },
+        {
+          "en": "Should we follow him?",
+          "zh": "我们应该跟随他吗？"
+        },
+        {
+          "en": "Ok!",
+          "zh": "好的！"
+        },
+        {
+          "en": "Let's go!",
+          "zh": "我们走吧！"
         }
       ],
       "guides": [
@@ -216,15 +336,15 @@
         {
           "step": "② 一起做",
           "action": "妈妈说 Let's...，带孩子完整做一遍动作或跟读整句",
-          "en": "Let's go back a page and compare them.",
-          "zh": "让我们返回一页并比较它们。",
+          "en": "Let's go!",
+          "zh": "我们走吧！",
           "note": "「一起做」比「听我讲」更能留住注意力"
         },
         {
           "step": "③ 互动拓展",
           "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
-          "en": "Hey!",
-          "zh": "嘿！",
+          "en": "What do you think?",
+          "zh": "你怎么认为？",
           "note": "关键词跟读即可，不必整句一次说对"
         }
       ],
@@ -264,6 +384,18 @@
         {
           "en": "He's in his little hole...munch. munch, munching away on some acorns.",
           "zh": "他在他的小洞里……咀嚼。咀嚼，咀嚼一些橡子。"
+        },
+        {
+          "en": "Squirrels are so cute.",
+          "zh": "松鼠真可爱。"
+        },
+        {
+          "en": "Bye, little squirrel!",
+          "zh": "再见，小松鼠！"
+        },
+        {
+          "en": "See you later!",
+          "zh": "稍后见！"
         }
       ],
       "guides": [
@@ -325,14 +457,42 @@
         {
           "en": "Yeah, they're really big.",
           "zh": "是的，它们真的很大。"
+        },
+        {
+          "en": "What do you think made those tracks?",
+          "zh": "你认为这些曲目是由什么创作的？"
+        },
+        {
+          "en": "An elephant?",
+          "zh": "大象？"
+        },
+        {
+          "en": "A whale?",
+          "zh": "鲸鱼？"
+        },
+        {
+          "en": "Ducky wants to follow these tracks too.",
+          "zh": "鸭子也想追踪这些踪迹。"
+        },
+        {
+          "en": "Do you want to go with him?",
+          "zh": "你想和他一起去吗？"
+        },
+        {
+          "en": "Well, ok.",
+          "zh": "好吧，好吧。"
+        },
+        {
+          "en": "But, I hope we don't find something scary!",
+          "zh": "但是，我希望我们不会发现可怕的事情！"
         }
       ],
       "guides": [
         {
           "step": "① 观察找一找",
           "action": "在纸质书上用手指圈出脚印，让孩子找全、找齐再往下讲",
-          "en": "Oh!",
-          "zh": "哦！",
+          "en": "But, I hope we don't find something scary!",
+          "zh": "但是，我希望我们不会发现可怕的事情！",
           "note": "找物游戏让页面「活」起来，别一直线性往下读"
         },
         {
@@ -345,8 +505,8 @@
         {
           "step": "③ 重点跟读",
           "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
-          "en": "Even MORE tracks!",
-          "zh": "更多曲目！",
+          "en": "Oh!",
+          "zh": "哦！",
           "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
         }
       ],
@@ -354,17 +514,17 @@
         {
           "w": "even",
           "ipa": "",
-          "cn": "甚至"
+          "cn": "even"
         },
         {
           "w": "tracks",
           "ipa": "",
-          "cn": "曲目"
+          "cn": "tracks"
         },
         {
           "w": "whoa",
           "ipa": "",
-          "cn": "哇哦"
+          "cn": "whoa"
         }
       ]
     },
@@ -386,46 +546,78 @@
         {
           "en": "BEAR!",
           "zh": "熊！"
+        },
+        {
+          "en": "And he doesn't look happy!",
+          "zh": "而且他看上去并不高兴！"
+        },
+        {
+          "en": "He looks angry!",
+          "zh": "他看起来很生气！"
+        },
+        {
+          "en": "Bears are so fast!",
+          "zh": "熊的速度真快！"
+        },
+        {
+          "en": "We can't outrun a bear!",
+          "zh": "我们跑不过熊！"
+        },
+        {
+          "en": "What are we going to do!",
+          "zh": "我们要做什么！"
+        },
+        {
+          "en": "We really need some help!",
+          "zh": "我们真的需要一些帮助！"
+        },
+        {
+          "en": "Let's call for Gyuri!",
+          "zh": "我们来呼唤久里吧！"
+        },
+        {
+          "en": "\" Gyuri! Help us! A hungry, angry bear is trying to get us!!!",
+          "zh": "“久里！帮助我们！一只饥饿、愤怒的熊正试图抓住我们！！！"
         }
       ],
       "guides": [
         {
           "step": "① 观察找一找",
           "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
-          "en": "Oh no!!!",
-          "zh": "哦不！",
+          "en": "And he doesn't look happy!",
+          "zh": "而且他看上去并不高兴！",
           "note": "找物游戏让页面「活」起来，别一直线性往下读"
         },
         {
-          "step": "② 跟读互动",
-          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
-          "en": "What is it!",
-          "zh": "这是什么！",
-          "note": "不会说就重复关键词，或点英文听发音"
+          "step": "② 情绪共鸣",
+          "action": "指着Gyuri的表情，问 happy 还是 sad，让孩子说说为什么",
+          "en": "Oh no!!!",
+          "zh": "哦不！",
+          "note": "情绪词用表情比划比翻译更有效，允许孩子用中文回答"
         },
         {
-          "step": "③ 重点跟读",
-          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
-          "en": "BEAR!",
-          "zh": "熊！",
-          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+          "step": "③ 一起做",
+          "action": "妈妈说 Let's...，带孩子完整做一遍动作或跟读整句",
+          "en": "Let's call for Gyuri!",
+          "zh": "我们来呼唤久里吧！",
+          "note": "「一起做」比「听我讲」更能留住注意力"
         }
       ],
       "vocab": [
         {
           "w": "it's",
           "ipa": "",
-          "cn": "它是"
+          "cn": "it's"
         },
         {
           "w": "bear",
           "ipa": "",
-          "cn": "熊"
+          "cn": "bear"
         },
         {
           "w": "doesn't",
           "ipa": "",
-          "cn": "不"
+          "cn": "doesn't"
         }
       ]
     },
@@ -476,12 +668,12 @@
         {
           "w": "here",
           "ipa": "",
-          "cn": "这里"
+          "cn": "here"
         },
         {
           "w": "comes",
           "ipa": "",
-          "cn": "来了"
+          "cn": "comes"
         },
         {
           "w": "gyuri",
@@ -508,28 +700,64 @@
         {
           "en": "Hop on the rocks to cross the stream!",
           "zh": "跳上岩石，过溪流！"
+        },
+        {
+          "en": "Quietly tiptoe through the snow!",
+          "zh": "悄悄踮起脚尖穿过雪地！"
+        },
+        {
+          "en": "And then...",
+          "zh": "进而..."
+        },
+        {
+          "en": "I can see our house!",
+          "zh": "我可以看到我们的房子！"
+        },
+        {
+          "en": "It's time to run as fast as you can!",
+          "zh": "是时候尽可能快地跑了！"
+        },
+        {
+          "en": "Go, go, go!!!",
+          "zh": "去！去！去！！！"
+        },
+        {
+          "en": "Look back!",
+          "zh": "回顾！"
+        },
+        {
+          "en": "Is the bear still following us?",
+          "zh": "熊还在跟着我们吗？"
+        },
+        {
+          "en": "Phew...",
+          "zh": "呼……"
+        },
+        {
+          "en": "I don't think so!",
+          "zh": "我不这么认为！"
         }
       ],
       "guides": [
         {
           "step": "① 观察找一找",
           "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
-          "en": "Gyuri is going to lead us to safety!",
-          "zh": "久里会带领我们到达安全的地方！",
+          "en": "I can see our house!",
+          "zh": "我可以看到我们的房子！",
           "note": "找物游戏让页面「活」起来，别一直线性往下读"
         },
         {
-          "step": "② 跟着做",
-          "action": "妈妈说 Follow me，带孩子做一步动作（走、跳、停），再对照书页",
-          "en": "Hop on the rocks to cross the stream!",
-          "zh": "跳上岩石，过溪流！",
-          "note": "全身参与比坐着听记得牢，注意安全别闹太猛"
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Is the bear still following us?",
+          "zh": "熊还在跟着我们吗？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
         },
         {
           "step": "③ 重点跟读",
           "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
-          "en": "Quick!",
-          "zh": "快的！",
+          "en": "Gyuri is going to lead us to safety!",
+          "zh": "久里会带领我们到达安全的地方！",
           "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
         }
       ],
@@ -542,12 +770,12 @@
         {
           "w": "going",
           "ipa": "",
-          "cn": "去"
+          "cn": "going"
         },
         {
           "w": "lead",
           "ipa": "",
-          "cn": "带领"
+          "cn": "lead"
         }
       ]
     },
@@ -569,6 +797,26 @@
         {
           "en": "Let's get warm!",
           "zh": "让我们取暖吧！"
+        },
+        {
+          "en": "Uh oh...the floor is dirty!",
+          "zh": "呃哦……地板脏了！"
+        },
+        {
+          "en": "Should we clean it now?",
+          "zh": "我们现在应该清理它吗？"
+        },
+        {
+          "en": "No...let's clean it later, after we warm up.",
+          "zh": "不……等我们热身之后再清理吧。"
+        },
+        {
+          "en": "Thank you Gyuri!",
+          "zh": "谢谢你，久里！"
+        },
+        {
+          "en": "You're always there when we need you!",
+          "zh": "当我们需要你的时候你总是在那里！"
         }
       ],
       "guides": [
@@ -580,17 +828,17 @@
           "note": "找物游戏让页面「活」起来，别一直线性往下读"
         },
         {
-          "step": "② 跟读互动",
-          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
-          "en": "ME We're safe in our living room!",
-          "zh": "我：我们在客厅很安全！",
-          "note": "不会说就重复关键词，或点英文听发音"
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Should we clean it now?",
+          "zh": "我们现在应该清理它吗？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
         },
         {
           "step": "③ 互动拓展",
           "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
-          "en": "There are blankets!",
-          "zh": "有毯子！",
+          "en": "ME We're safe in our living room!",
+          "zh": "我：我们在客厅很安全！",
           "note": "关键词跟读即可，不必整句一次说对"
         }
       ],
@@ -598,17 +846,17 @@
         {
           "w": "we're",
           "ipa": "",
-          "cn": "是"
+          "cn": "we're"
         },
         {
           "w": "safe",
           "ipa": "",
-          "cn": "安全的"
+          "cn": "safe"
         },
         {
           "w": "our",
           "ipa": "",
-          "cn": "我们的"
+          "cn": "our"
         }
       ]
     }

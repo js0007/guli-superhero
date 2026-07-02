@@ -6,7 +6,7 @@
       "id": "0-1",
       "extendText": [
         {
-          "en": "Gooow Can you find Bella?",
+          "en": "oow Can you find Bella?",
           "zh": ""
         },
         {
@@ -20,20 +20,48 @@
         {
           "en": "Yes!",
           "zh": ""
+        },
+        {
+          "en": "You found her!",
+          "zh": ""
+        },
+        {
+          "en": "She's in a tent!",
+          "zh": ""
+        },
+        {
+          "en": "Soft, green grass is everywhere!",
+          "zh": ""
+        },
+        {
+          "en": "And I see so many trees!",
+          "zh": ""
+        },
+        {
+          "en": "It looks like Leo, Jojo, Bella, and Teeny are camping!",
+          "zh": ""
+        },
+        {
+          "en": "Are they going to sleep at home in their beds?",
+          "zh": ""
+        },
+        {
+          "en": "No...they are going to sleep outside in the tent!",
+          "zh": ""
         }
       ],
       "guides": [
         {
           "step": "① 导读",
           "action": "对照纸质书画面，先点「整页原音」听一遍",
-          "en": "Gooow Can you find Bella?",
+          "en": "oow Can you find Bella?",
           "zh": "",
           "note": "点击英文可听发音（系统 TTS）"
         },
         {
           "step": "② 互动",
           "action": "指着画面邀请孩子回答或跟读",
-          "en": "Gooow Can you find Bella?",
+          "en": "oow Can you find Bella?",
           "zh": "",
           "note": "不会说就一起听音频再试"
         },
@@ -47,9 +75,9 @@
       ],
       "vocab": [
         {
-          "w": "gooow",
+          "w": "oow",
           "ipa": "",
-          "cn": "gooow"
+          "cn": "oow"
         },
         {
           "w": "find",
@@ -80,6 +108,26 @@
         },
         {
           "en": "I don't know.",
+          "zh": ""
+        },
+        {
+          "en": "It must be hiding somewhere.",
+          "zh": ""
+        },
+        {
+          "en": "I like nighttime so much.",
+          "zh": ""
+        },
+        {
+          "en": "What about you?",
+          "zh": ""
+        },
+        {
+          "en": "It's so quiet and peaceful!",
+          "zh": ""
+        },
+        {
+          "en": "Can you hear anything?",
           "zh": ""
         }
       ],
@@ -128,7 +176,7 @@
       "id": "4-5",
       "extendText": [
         {
-          "en": "Goow There are so many stars out!",
+          "en": "ow There are so many stars out!",
           "zh": ""
         },
         {
@@ -142,13 +190,49 @@
         {
           "en": "There's even a shooting star.",
           "zh": ""
+        },
+        {
+          "en": "Zoom!",
+          "zh": ""
+        },
+        {
+          "en": "Can you find it?",
+          "zh": ""
+        },
+        {
+          "en": "Hey, I know a song about stars!",
+          "zh": ""
+        },
+        {
+          "en": "I think you do, too!",
+          "zh": ""
+        },
+        {
+          "en": "Let's sing,\"Twinkle, Twinkle, Little Star\"!",
+          "zh": ""
+        },
+        {
+          "en": "Twinkle, Twinkle, little star.",
+          "zh": ""
+        },
+        {
+          "en": "How I wonder what you are.",
+          "zh": ""
+        },
+        {
+          "en": "Up above the world so high.",
+          "zh": ""
+        },
+        {
+          "en": "Like a diamond in the sky.",
+          "zh": ""
         }
       ],
       "guides": [
         {
           "step": "① 导读",
           "action": "对照纸质书画面，先点「整页原音」听一遍",
-          "en": "Goow There are so many stars out!",
+          "en": "ow There are so many stars out!",
           "zh": "",
           "note": "点击英文可听发音（系统 TTS）"
         },
@@ -169,11 +253,6 @@
       ],
       "vocab": [
         {
-          "w": "goow",
-          "ipa": "",
-          "cn": "goow"
-        },
-        {
           "w": "there",
           "ipa": "",
           "cn": "there"
@@ -182,6 +261,11 @@
           "w": "many",
           "ipa": "",
           "cn": "many"
+        },
+        {
+          "w": "stars",
+          "ipa": "",
+          "cn": "stars"
         }
       ]
     },
@@ -202,6 +286,22 @@
         },
         {
           "en": "Whoosh!",
+          "zh": ""
+        },
+        {
+          "en": "Can you feel it?",
+          "zh": ""
+        },
+        {
+          "en": "Spread your arms, close your eyes, and feel the breeze.",
+          "zh": ""
+        },
+        {
+          "en": "That feels good!",
+          "zh": ""
+        },
+        {
+          "en": "I hope the wind doesn't get any stronger, or it might blow our tent away!",
           "zh": ""
         }
       ],
@@ -264,6 +364,42 @@
         {
           "en": "What's that sound?",
           "zh": ""
+        },
+        {
+          "en": "Hoot, hoot!",
+          "zh": ""
+        },
+        {
+          "en": "It sounds like an owl!",
+          "zh": ""
+        },
+        {
+          "en": "Yes, it's an owl!",
+          "zh": ""
+        },
+        {
+          "en": "Can you find the owl?",
+          "zh": ""
+        },
+        {
+          "en": "That's right, he's in the tree!",
+          "zh": ""
+        },
+        {
+          "en": "He's sitting on the tree branch!",
+          "zh": ""
+        },
+        {
+          "en": "Can you make an owl sound?",
+          "zh": ""
+        },
+        {
+          "en": "Hoot, hoot!",
+          "zh": ""
+        },
+        {
+          "en": "You sound just like an owl!",
+          "zh": ""
         }
       ],
       "guides": [
@@ -324,6 +460,42 @@
         },
         {
           "en": "I see horns!",
+          "zh": ""
+        },
+        {
+          "en": "I see claws!",
+          "zh": ""
+        },
+        {
+          "en": "What is that!",
+          "zh": ""
+        },
+        {
+          "en": "It looks like a...",
+          "zh": ""
+        },
+        {
+          "en": "MONSTER!",
+          "zh": ""
+        },
+        {
+          "en": "Jojo, Bella, and Teeny are scared!",
+          "zh": ""
+        },
+        {
+          "en": "What about you?",
+          "zh": ""
+        },
+        {
+          "en": "Me too...",
+          "zh": ""
+        },
+        {
+          "en": "I'm a little nervous!",
+          "zh": ""
+        },
+        {
+          "en": "What are we going to do!",
           "zh": ""
         }
       ],
@@ -386,6 +558,18 @@
         {
           "en": "The horns are so long!",
           "zh": ""
+        },
+        {
+          "en": "Who will save us!?",
+          "zh": ""
+        },
+        {
+          "en": "Let's call Gyuri!1, 2, 3...",
+          "zh": ""
+        },
+        {
+          "en": "\"Gyuri! Help us! There's a MONSTER!!!",
+          "zh": ""
         }
       ],
       "guides": [
@@ -406,7 +590,7 @@
         {
           "step": "③ 跟读",
           "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
-          "en": "There's a MONSTER!!!",
+          "en": "\"Gyuri! Help us! There's a MONSTER!!!",
           "zh": "",
           "note": "可配合拍腿或指图增加趣味"
         }
@@ -568,6 +752,34 @@
         },
         {
           "en": "It's not!",
+          "zh": ""
+        },
+        {
+          "en": "Who is it?",
+          "zh": ""
+        },
+        {
+          "en": "Yeah, it's just Leo!",
+          "zh": ""
+        },
+        {
+          "en": "Oh, I'm so relieved!",
+          "zh": ""
+        },
+        {
+          "en": "Phew!",
+          "zh": ""
+        },
+        {
+          "en": "Things always look different in the dark, don't they?",
+          "zh": ""
+        },
+        {
+          "en": "Thank you so much, Gyuri!",
+          "zh": ""
+        },
+        {
+          "en": "You're always there when we need you!",
           "zh": ""
         }
       ],

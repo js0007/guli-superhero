@@ -20,6 +20,10 @@
         {
           "en": "Can you guess?",
           "zh": "你能猜到吗？"
+        },
+        {
+          "en": "And where do you think he's going with that box?",
+          "zh": "你认为他会带着那个盒子去哪里？"
         }
       ],
       "guides": [
@@ -81,14 +85,22 @@
         {
           "en": "Doesn't that sound like fun?",
           "zh": "这听起来不是很有趣吗？"
+        },
+        {
+          "en": "What do we need for a birthday party?",
+          "zh": "生日聚会我们需要什么？"
+        },
+        {
+          "en": "Let's see what Ducky brought.",
+          "zh": "来看看Ducky带来了什么。"
         }
       ],
       "guides": [
         {
           "step": "① 观察找一找",
           "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
-          "en": "Oh!",
-          "zh": "哦！",
+          "en": "Let's see what Ducky brought.",
+          "zh": "来看看Ducky带来了什么。",
           "note": "找物游戏让页面「活」起来，别一直线性往下读"
         },
         {
@@ -99,11 +111,11 @@
           "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
         },
         {
-          "step": "③ 重点跟读",
-          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
-          "en": "It's Jojo's birthday!",
-          "zh": "今天是乔乔的生日！",
-          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "What do we need for a birthday party?",
+          "zh": "生日聚会我们需要什么？",
+          "note": "关键词跟读即可，不必整句一次说对"
         }
       ],
       "vocab": [
@@ -142,14 +154,34 @@
         {
           "en": "What colors did Teeny pick out?",
           "zh": "Teeny挑选了哪些颜色？"
+        },
+        {
+          "en": "Pink, green, orange, and blue!",
+          "zh": "粉色、绿色、橙色、蓝色！"
+        },
+        {
+          "en": "Teeny is blowing up the balloons.",
+          "zh": "蒂尼正在吹气球。"
+        },
+        {
+          "en": "Can you help him?",
+          "zh": "你能帮助他吗？"
+        },
+        {
+          "en": "Oh, not too much!",
+          "zh": "哦，不要太多！"
+        },
+        {
+          "en": "We don't want it to pop!",
+          "zh": "我们不想让它弹出！"
         }
       ],
       "guides": [
         {
           "step": "① 观察找一找",
           "action": "在纸质书上用手指圈出气球，让孩子找全、找齐再往下讲",
-          "en": "First, we need balloons!",
-          "zh": "首先，我们需要气球！",
+          "en": "Can you help him?",
+          "zh": "你能帮助他吗？",
           "note": "找物游戏让页面「活」起来，别一直线性往下读"
         },
         {
@@ -162,8 +194,8 @@
         {
           "step": "③ 重点跟读",
           "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
-          "en": "I love balloons!",
-          "zh": "我喜欢气球！",
+          "en": "First, we need balloons!",
+          "zh": "首先，我们需要气球！",
           "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
         }
       ],
@@ -203,14 +235,26 @@
         {
           "en": "What about you?",
           "zh": "你呢？"
+        },
+        {
+          "en": "Do you like the one with hearts, or the one with stars?",
+          "zh": "你喜欢有心的，还是有星星的？"
+        },
+        {
+          "en": "Oops, that one got knocked over.",
+          "zh": "哎呀，那个被撞倒了。"
+        },
+        {
+          "en": "Let's pick it back up.",
+          "zh": "让我们把它捡回来吧。"
         }
       ],
       "guides": [
         {
           "step": "① 观察找一找",
           "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
-          "en": "We also need 4 hats!",
-          "zh": "我们还需要4顶帽子！",
+          "en": "Let's pick it back up.",
+          "zh": "让我们把它捡回来吧。",
           "note": "找物游戏让页面「活」起来，别一直线性往下读"
         },
         {
@@ -221,11 +265,11 @@
           "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
         },
         {
-          "step": "③ 重点跟读",
-          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
-          "en": "Those hats are cool!",
-          "zh": "那些帽子很酷！",
-          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Do you like the one with hearts, or the one with stars?",
+          "zh": "你喜欢有心的，还是有星星的？",
+          "note": "关键词跟读即可，不必整句一次说对"
         }
       ],
       "vocab": [
@@ -264,29 +308,41 @@
         {
           "en": "Up there on the shelf.",
           "zh": "就在架子上面。"
+        },
+        {
+          "en": "How many cups does Teeny need to get?",
+          "zh": "Teeny需要获得多少个杯子？"
+        },
+        {
+          "en": "That's right, 4!",
+          "zh": "没错，4！"
+        },
+        {
+          "en": "Let's put 4 cups very carefully on the tray. 1,2,3,4...good job!",
+          "zh": "让我们非常小心地将4个杯子放在托盘上。1、2、3、4...干得好！"
         }
       ],
       "guides": [
         {
-          "step": "① 观察找一找",
-          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "step": "① 数数互动",
+          "action": "指着纸质书上的画面细节，和孩子一起大声数，数完击掌庆祝",
+          "en": "How many cups does Teeny need to get?",
+          "zh": "Teeny需要获得多少个杯子？",
+          "note": "数错不要紧，重点是开口跟节奏；可以中英文混着说数字"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
           "en": "Where are they?",
           "zh": "他们在哪里？",
-          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
         },
         {
-          "step": "② 重点跟读",
-          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
-          "en": "Oh, there they are!",
-          "zh": "哦，他们在那里！",
-          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
-        },
-        {
-          "step": "③ 互动拓展",
-          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
-          "en": "We also need cups.",
-          "zh": "我们还需要杯子。",
-          "note": "关键词跟读即可，不必整句一次说对"
+          "step": "③ 一起做",
+          "action": "妈妈说 Let's...，带孩子完整做一遍动作或跟读整句",
+          "en": "Let's put 4 cups very carefully on the tray. 1,2,3,4...good job!",
+          "zh": "让我们非常小心地将4个杯子放在托盘上。1、2、3、4...干得好！",
+          "note": "「一起做」比「听我讲」更能留住注意力"
         }
       ],
       "vocab": [
@@ -325,29 +381,53 @@
         {
           "en": "Knives?",
           "zh": "刀子？"
+        },
+        {
+          "en": "No.",
+          "zh": "不。"
+        },
+        {
+          "en": "Chopsticks?",
+          "zh": "筷子？"
+        },
+        {
+          "en": "No...they're forks!",
+          "zh": "不……它们是叉子！"
+        },
+        {
+          "en": "Can you count them? 1， 2...oh, be careful!",
+          "zh": "你能数一下吗？1，2……哦，小心点！"
+        },
+        {
+          "en": "They're sharp!",
+          "zh": "他们很锋利！"
+        },
+        {
+          "en": "They might POKE you! 3, 4...4 forks!",
+          "zh": "他们可能会戳你！3,4...4叉子！"
         }
       ],
       "guides": [
         {
-          "step": "① 观察找一找",
-          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "step": "① 数数互动",
+          "action": "指着纸质书上的画面细节，和孩子一起大声数，数完击掌庆祝",
+          "en": "Can you count them? 1， 2...oh, be careful!",
+          "zh": "你能数一下吗？1，2……哦，小心点！",
+          "note": "数错不要紧，重点是开口跟节奏；可以中英文混着说数字"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
           "en": "What is Teeny holding?",
           "zh": "蒂尼手里拿着什么？",
-          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
         },
         {
-          "step": "② 互动拓展",
-          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
-          "en": "Are those spoons?",
-          "zh": "那些是勺子吗？",
-          "note": "关键词跟读即可，不必整句一次说对"
-        },
-        {
-          "step": "③ 跟读巩固",
-          "action": "选本页最喜欢的一句，妈妈先说一遍，再请孩子复述 2 遍",
-          "en": "Knives?",
-          "zh": "刀子？",
-          "note": "复述允许中英夹杂，敢说就比说对更重要"
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "No...they're forks!",
+          "zh": "不。",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
         }
       ],
       "vocab": [
@@ -386,29 +466,41 @@
         {
           "en": "We need forks to eat cake!",
           "zh": "我们需要叉子才能吃蛋糕！"
+        },
+        {
+          "en": "But, where's the cake!?",
+          "zh": "但是，蛋糕在哪里！？"
+        },
+        {
+          "en": "We need Gyuri!",
+          "zh": "我们需要久里！"
+        },
+        {
+          "en": "Can you say: \"Gyuri Help us! \"",
+          "zh": "你能说：“Gyuri帮助我们！”"
         }
       ],
       "guides": [
         {
           "step": "① 观察找一找",
           "action": "在纸质书上用手指圈出蛋糕，让孩子找全、找齐再往下讲",
-          "en": "I think everything is ready!",
-          "zh": "我想一切都准备好了！",
+          "en": "But, where's the cake!?",
+          "zh": "但是，蛋糕在哪里！？",
           "note": "找物游戏让页面「活」起来，别一直线性往下读"
         },
         {
-          "step": "② 跟读互动",
-          "action": "指着蛋糕，邀请孩子跟读这句，等几秒给孩子思考时间",
-          "en": "That's everything, except.oh, no!",
-          "zh": "这就是一切，除了……哦，不！",
-          "note": "不会说就重复关键词，或点英文听发音"
+          "step": "② 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "I think everything is ready!",
+          "zh": "我想一切都准备好了！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
         },
         {
-          "step": "③ 重点跟读",
-          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
-          "en": "We need forks to eat cake!",
-          "zh": "我们需要叉子才能吃蛋糕！",
-          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "That's everything, except.oh, no!",
+          "zh": "这就是一切，除了……哦，不！",
+          "note": "关键词跟读即可，不必整句一次说对"
         }
       ],
       "vocab": [
@@ -508,6 +600,22 @@
         {
           "en": "Now he's baking the cake with his fire-breath!",
           "zh": "现在他正在用喷火烤蛋糕！"
+        },
+        {
+          "en": "Take a step back.",
+          "zh": "退一步。"
+        },
+        {
+          "en": "Don't get too close.",
+          "zh": "别靠得太近。"
+        },
+        {
+          "en": "Now he's lighting the candles with his fire-fingers power!",
+          "zh": "现在他正在用火手指的力量点燃蜡烛！"
+        },
+        {
+          "en": "Gyuri really is a superhero!",
+          "zh": "久里真的是超级英雄啊！"
         }
       ],
       "guides": [
@@ -569,6 +677,34 @@
         {
           "en": "Jojo is 4!",
           "zh": "乔乔4岁了！"
+        },
+        {
+          "en": "Can you say, \"Happy birthday, Jojo!\" And how old are you?",
+          "zh": "你能说“乔乔，生日快乐！”你几岁了？"
+        },
+        {
+          "en": "Do you know when your birthday is?",
+          "zh": "你知道你的生日是什么时候吗？"
+        },
+        {
+          "en": "Let's say goodbye to Gyuri, Jojo, Ducky,Teeny, and...",
+          "zh": "让我们告别Gyuri、Jojo、Ducky、Teeny和......"
+        },
+        {
+          "en": "Bella?",
+          "zh": "贝拉？"
+        },
+        {
+          "en": "Where's Bella?",
+          "zh": "贝拉在哪儿？"
+        },
+        {
+          "en": "I don't know.",
+          "zh": "我不知道。"
+        },
+        {
+          "en": "Ok,well, bye everyone!",
+          "zh": "好了，好了，大家再见！"
         }
       ],
       "guides": [
@@ -580,18 +716,18 @@
           "note": "数错不要紧，重点是开口跟节奏；可以中英文混着说数字"
         },
         {
-          "step": "② 提问互动",
-          "action": "指着蛋糕提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
-          "en": "How old is Jojo?",
-          "zh": "乔乔几岁了？",
-          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+          "step": "② 情绪共鸣",
+          "action": "指着Bella、Jojo的表情，问 happy 还是 sad，让孩子说说为什么",
+          "en": "Can you say, \"Happy birthday, Jojo!\" And how old are you?",
+          "zh": "你能说“乔乔，生日快乐！”你几岁了？",
+          "note": "情绪词用表情比划比翻译更有效，允许孩子用中文回答"
         },
         {
-          "step": "③ 重点跟读",
-          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
-          "en": "That cake looks so good!",
-          "zh": "那个蛋糕看起来真好吃！",
-          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+          "step": "③ 一起做",
+          "action": "妈妈说 Let's...，带孩子完整做一遍动作或跟读整句",
+          "en": "Let's say goodbye to Gyuri, Jojo, Ducky,Teeny, and...",
+          "zh": "让我们告别Gyuri、Jojo、Ducky、Teeny和......",
+          "note": "「一起做」比「听我讲」更能留住注意力"
         }
       ],
       "vocab": [

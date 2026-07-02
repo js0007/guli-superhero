@@ -14,11 +14,59 @@
           "zh": ""
         },
         {
-          "en": "Can you say, \"Hello everybody!",
+          "en": "Can you say, \"Hello everybody!\"?",
           "zh": ""
         },
         {
           "en": "This playground looks like a lot of fun!",
+          "zh": ""
+        },
+        {
+          "en": "What's your favorite thing to do at the playground?",
+          "zh": ""
+        },
+        {
+          "en": "Do you like to go down the slide?",
+          "zh": ""
+        },
+        {
+          "en": "Ride the seesaw?",
+          "zh": ""
+        },
+        {
+          "en": "Swing on the swings?",
+          "zh": ""
+        },
+        {
+          "en": "Or play in the sandpit?",
+          "zh": ""
+        },
+        {
+          "en": "Hm...it looks like everyone is holding something.",
+          "zh": ""
+        },
+        {
+          "en": "Bella has a picnic basket.",
+          "zh": ""
+        },
+        {
+          "en": "Jojo has a music player.",
+          "zh": ""
+        },
+        {
+          "en": "Leo has a bucket and fishing pole.",
+          "zh": ""
+        },
+        {
+          "en": "Teeny has a microphone.",
+          "zh": ""
+        },
+        {
+          "en": "And Ducky has a book!",
+          "zh": ""
+        },
+        {
+          "en": "I think they're going to have a busy day",
           "zh": ""
         }
       ],
@@ -33,14 +81,14 @@
         {
           "step": "② 互动",
           "action": "指着画面邀请孩子回答或跟读",
-          "en": "What's your favorite thing to do at the playground?",
+          "en": "Can you say, \"Hello everybody!\"?",
           "zh": "",
           "note": "不会说就一起听音频再试"
         },
         {
           "step": "③ 跟读",
           "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
-          "en": "I think they're going to have a busy",
+          "en": "I think they're going to have a busy day",
           "zh": "",
           "note": "可配合拍腿或指图增加趣味"
         }
@@ -75,11 +123,63 @@
           "zh": ""
         },
         {
-          "en": "Say, \"Hello, Leo!",
+          "en": "Say, \"Hello, Leo!\" Is Leo going down the slide?",
           "zh": ""
         },
         {
-          "en": "\"Is Leo going down the slide?",
+          "en": "No...he's in the sandpit.",
+          "zh": ""
+        },
+        {
+          "en": "What's he doing?",
+          "zh": ""
+        },
+        {
+          "en": "Hm...do you see what he has in his hand?",
+          "zh": ""
+        },
+        {
+          "en": "It's a fishing pole.",
+          "zh": ""
+        },
+        {
+          "en": "He's fishing!",
+          "zh": ""
+        },
+        {
+          "en": "He loves fishing!",
+          "zh": ""
+        },
+        {
+          "en": "It looks like he caught a wiggly fish!",
+          "zh": ""
+        },
+        {
+          "en": "Wiggle wiggle wiggle.",
+          "zh": ""
+        },
+        {
+          "en": "Can you pretend you caught a wiggly fish, too?",
+          "zh": ""
+        },
+        {
+          "en": "Good!",
+          "zh": ""
+        },
+        {
+          "en": "How many fish can you see?",
+          "zh": ""
+        },
+        {
+          "en": "Yes...3 fish.",
+          "zh": ""
+        },
+        {
+          "en": "And...what's that?",
+          "zh": ""
+        },
+        {
+          "en": "It's an octopus!",
           "zh": ""
         }
       ],
@@ -94,7 +194,7 @@
         {
           "step": "② 互动",
           "action": "指着画面邀请孩子回答或跟读",
-          "en": "\"Is Leo going down the slide?",
+          "en": "Say, \"Hello, Leo!\" Is Leo going down the slide?",
           "zh": "",
           "note": "不会说就一起听音频再试"
         },
@@ -141,6 +241,46 @@
         },
         {
           "en": "Yes, good!",
+          "zh": ""
+        },
+        {
+          "en": "What is Bella doing?",
+          "zh": ""
+        },
+        {
+          "en": "Is she on the seesaw?",
+          "zh": ""
+        },
+        {
+          "en": "No...she's on the picnic blanket.",
+          "zh": ""
+        },
+        {
+          "en": "She's holding a pan and frying an egg!",
+          "zh": ""
+        },
+        {
+          "en": "She loves cooking!",
+          "zh": ""
+        },
+        {
+          "en": "What else did she bring for her picnic?",
+          "zh": ""
+        },
+        {
+          "en": "I see 1, 2, 3 cherries.",
+          "zh": ""
+        },
+        {
+          "en": "And 1, 2, 3 acorns.",
+          "zh": ""
+        },
+        {
+          "en": "And 1, 2, 3 teacups.",
+          "zh": ""
+        },
+        {
+          "en": "Do you want to have a picnic with Bella?",
           "zh": ""
         }
       ],
@@ -203,6 +343,30 @@
         {
           "en": "See?",
           "zh": ""
+        },
+        {
+          "en": "He's doing a headstand.",
+          "zh": ""
+        },
+        {
+          "en": "Can you do a headstand, too?",
+          "zh": ""
+        },
+        {
+          "en": "No...",
+          "zh": ""
+        },
+        {
+          "en": "I can't either.",
+          "zh": ""
+        },
+        {
+          "en": "Let's dance right now.",
+          "zh": ""
+        },
+        {
+          "en": "What do you want to listen to?",
+          "zh": ""
         }
       ],
       "guides": [
@@ -263,6 +427,38 @@
         },
         {
           "en": "Is Teeny standing on the ground?",
+          "zh": ""
+        },
+        {
+          "en": "No... she's standing on a tree branch.",
+          "zh": ""
+        },
+        {
+          "en": "What does she have in her hand?",
+          "zh": ""
+        },
+        {
+          "en": "It looks kind of like a carrot.",
+          "zh": ""
+        },
+        {
+          "en": "What?",
+          "zh": ""
+        },
+        {
+          "en": "It isn't a carrot?",
+          "zh": ""
+        },
+        {
+          "en": "Oh, it's a microphone!",
+          "zh": ""
+        },
+        {
+          "en": "Because Teeny loves singing!",
+          "zh": ""
+        },
+        {
+          "en": "What's your favorite song to sing?",
           "zh": ""
         }
       ],
@@ -325,6 +521,30 @@
         {
           "en": "No.",
           "zh": ""
+        },
+        {
+          "en": "Ducky is sitting on the bench reading books.",
+          "zh": ""
+        },
+        {
+          "en": "Ducky loves reading.",
+          "zh": ""
+        },
+        {
+          "en": "How many books did Ducky bring?1, 2, 3, 4...",
+          "zh": ""
+        },
+        {
+          "en": "Ducky brought 4 books.",
+          "zh": ""
+        },
+        {
+          "en": "Do you like to read, too?",
+          "zh": ""
+        },
+        {
+          "en": "What's your favorite book?",
+          "zh": ""
         }
       ],
       "guides": [
@@ -385,6 +605,26 @@
         },
         {
           "en": "Maybe Gyuri can help us!",
+          "zh": ""
+        },
+        {
+          "en": "Let's help Ducky and Teeny call for Gyuri!!1, 2, 3....",
+          "zh": ""
+        },
+        {
+          "en": "GYURI!",
+          "zh": ""
+        },
+        {
+          "en": "Help us!",
+          "zh": ""
+        },
+        {
+          "en": "One more time!",
+          "zh": ""
+        },
+        {
+          "en": "GYURI!",
           "zh": ""
         }
       ],
@@ -447,6 +687,18 @@
         {
           "en": "Wow!",
           "zh": ""
+        },
+        {
+          "en": "Gyuri is so cool!",
+          "zh": ""
+        },
+        {
+          "en": "And he has such a long tail!",
+          "zh": ""
+        },
+        {
+          "en": "Do you think he can save Leo, Bella, and Jojo?",
+          "zh": ""
         }
       ],
       "guides": [
@@ -508,6 +760,14 @@
         {
           "en": "Gyuri pulls Leo out of the slide, POP!",
           "zh": ""
+        },
+        {
+          "en": "Gyuri pulled everyone out!",
+          "zh": ""
+        },
+        {
+          "en": "He saved everyone!!!",
+          "zh": ""
         }
       ],
       "guides": [
@@ -568,6 +828,30 @@
         },
         {
           "en": "And Ducky?",
+          "zh": ""
+        },
+        {
+          "en": "How about Teeny?",
+          "zh": ""
+        },
+        {
+          "en": "What does Leo like to do?",
+          "zh": ""
+        },
+        {
+          "en": "And what's your favorite thing to do?",
+          "zh": ""
+        },
+        {
+          "en": "Yes...everybody likes doing different things But everybody likes to go down the slide!",
+          "zh": ""
+        },
+        {
+          "en": "And they're all sliding down together.",
+          "zh": ""
+        },
+        {
+          "en": "Have fun at the park!!",
           "zh": ""
         }
       ],

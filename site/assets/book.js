@@ -126,6 +126,8 @@ const BookApp = (() => {
     renderGuides(p.guides || []);
     renderVocab(p.vocab || []);
     $('scrollBody').scrollTop = 0;
+    const extendScroll = $('extendScroll');
+    if (extendScroll) extendScroll.scrollTop = 0;
     stopAudio();
   }
 

@@ -20,6 +20,42 @@
         {
           "en": "Hi, everyone!",
           "zh": ""
+        },
+        {
+          "en": "Wow!",
+          "zh": ""
+        },
+        {
+          "en": "What a beautiful day to play outside!",
+          "zh": ""
+        },
+        {
+          "en": "Leo has a really good idea.",
+          "zh": ""
+        },
+        {
+          "en": "He wants to play hide-and-seek.",
+          "zh": ""
+        },
+        {
+          "en": "I love playing hide-and-seek.",
+          "zh": ""
+        },
+        {
+          "en": "What about you?",
+          "zh": ""
+        },
+        {
+          "en": "Leo says he wants to hide, and the others can seek.",
+          "zh": ""
+        },
+        {
+          "en": "Where do you think Leo should hide first?",
+          "zh": ""
+        },
+        {
+          "en": "Hm, let's see!",
+          "zh": ""
         }
       ],
       "guides": [
@@ -80,6 +116,22 @@
         },
         {
           "en": "No, there are some animals there.",
+          "zh": ""
+        },
+        {
+          "en": "Tigers?",
+          "zh": ""
+        },
+        {
+          "en": "No, they're just dogs.",
+          "zh": ""
+        },
+        {
+          "en": "It's the pet shop!",
+          "zh": ""
+        },
+        {
+          "en": "Do you think they look friendly?",
           "zh": ""
         }
       ],
@@ -142,6 +194,42 @@
         {
           "en": "Woof!",
           "zh": ""
+        },
+        {
+          "en": "The dog barks at him!",
+          "zh": ""
+        },
+        {
+          "en": "That dog doesn't look friendly at all!",
+          "zh": ""
+        },
+        {
+          "en": "I think Leo should probably choose a different place to hide.",
+          "zh": ""
+        },
+        {
+          "en": "Where can he go?!",
+          "zh": ""
+        },
+        {
+          "en": "Look!",
+          "zh": ""
+        },
+        {
+          "en": "There's a fire truck!",
+          "zh": ""
+        },
+        {
+          "en": "That must be the fire station.",
+          "zh": ""
+        },
+        {
+          "en": "I'm sure that will be a good place to hide!",
+          "zh": ""
+        },
+        {
+          "en": "Run, Leo, run!",
+          "zh": ""
         }
       ],
       "guides": [
@@ -203,6 +291,34 @@
         {
           "en": "It's an emergency!",
           "zh": ""
+        },
+        {
+          "en": "Leo needs to stay out of their way.",
+          "zh": ""
+        },
+        {
+          "en": "The fire station isn't a good place to hide right now.",
+          "zh": ""
+        },
+        {
+          "en": "Quick, Leo!",
+          "zh": ""
+        },
+        {
+          "en": "Find somewhere else to hide!",
+          "zh": ""
+        },
+        {
+          "en": "The playground is right over there!",
+          "zh": ""
+        },
+        {
+          "en": "Go go go!",
+          "zh": ""
+        },
+        {
+          "en": "Find a good spot where Bella and Jojo can't find you!",
+          "zh": ""
         }
       ],
       "guides": [
@@ -250,19 +366,47 @@
       "id": "8-9",
       "extendText": [
         {
-          "en": "Bella and Jojo say:\"Ready or not!",
-          "zh": ""
-        },
-        {
-          "en": "Here we come!",
-          "zh": ""
-        },
-        {
-          "en": "\" First, they look in the pet shop.",
+          "en": "Bella and Jojo say:\"Ready or not! Here we come! \" First, they look in the pet shop.",
           "zh": ""
         },
         {
           "en": "Is Leo there?",
+          "zh": ""
+        },
+        {
+          "en": "No.",
+          "zh": ""
+        },
+        {
+          "en": "Just a grumpy dog.",
+          "zh": ""
+        },
+        {
+          "en": "Woof, woof!",
+          "zh": ""
+        },
+        {
+          "en": "Then they look in the fire station.",
+          "zh": ""
+        },
+        {
+          "en": "Is Leo there?",
+          "zh": ""
+        },
+        {
+          "en": "No.",
+          "zh": ""
+        },
+        {
+          "en": "Nobody is there.",
+          "zh": ""
+        },
+        {
+          "en": "Where could Leo be?",
+          "zh": ""
+        },
+        {
+          "en": "Let's give Bella and Jojo a clue:\"Hey, Jojo and Bella! I think I saw Leo run to the playground! \"",
           "zh": ""
         }
       ],
@@ -270,7 +414,7 @@
         {
           "step": "① 导读",
           "action": "对照纸质书画面，先点「整页原音」听一遍",
-          "en": "Bella and Jojo say:\"Ready or not!",
+          "en": "Bella and Jojo say:\"Ready or not! Here we come! \" First, they look in the pet shop.",
           "zh": "",
           "note": "点击英文可听发音（系统 TTS）"
         },
@@ -284,7 +428,7 @@
         {
           "step": "③ 跟读",
           "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
-          "en": "I think I saw Leo run to the playground!",
+          "en": "Let's give Bella and Jojo a clue:\"Hey, Jojo and Bella! I think I saw Leo run to the playground! \"",
           "zh": "",
           "note": "可配合拍腿或指图增加趣味"
         }
@@ -324,6 +468,18 @@
         },
         {
           "en": "Hm...look!",
+          "zh": ""
+        },
+        {
+          "en": "There's a big bump in the slide!",
+          "zh": ""
+        },
+        {
+          "en": "That's strange.",
+          "zh": ""
+        },
+        {
+          "en": "What do you think Jojo will see if he looks in the tube?",
           "zh": ""
         }
       ],
@@ -386,6 +542,38 @@
         {
           "en": "Oh no!",
           "zh": ""
+        },
+        {
+          "en": "Leo can't come out...he's STUCK!",
+          "zh": ""
+        },
+        {
+          "en": "Leo looks so nervous.",
+          "zh": ""
+        },
+        {
+          "en": "It's ok, Leo.",
+          "zh": ""
+        },
+        {
+          "en": "Please stay calm.",
+          "zh": ""
+        },
+        {
+          "en": "We know who can help!",
+          "zh": ""
+        },
+        {
+          "en": "We need to call Gyuri!",
+          "zh": ""
+        },
+        {
+          "en": "Shout for Gyuri on 3!1, 2, 3...",
+          "zh": ""
+        },
+        {
+          "en": "\"Gyuri! Help! Leo is stuck!!! \"",
+          "zh": ""
         }
       ],
       "guides": [
@@ -406,7 +594,7 @@
         {
           "step": "③ 跟读",
           "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
-          "en": "Leo is stuck!!!",
+          "en": "\"Gyuri! Help! Leo is stuck!!! \"",
           "zh": "",
           "note": "可配合拍腿或指图增加趣味"
         }
@@ -446,6 +634,14 @@
         },
         {
           "en": "Quick!",
+          "zh": ""
+        },
+        {
+          "en": "Let's put on our cape, too!",
+          "zh": ""
+        },
+        {
+          "en": "Then we can help Gyuri get Leo out!",
           "zh": ""
         }
       ],
@@ -508,6 +704,22 @@
         {
           "en": "And he blows, blows, blows Leo out of the tube with a big pop!",
           "zh": ""
+        },
+        {
+          "en": "Can you do it, too?",
+          "zh": ""
+        },
+        {
+          "en": "POP!",
+          "zh": ""
+        },
+        {
+          "en": "Leo goes flying into the air!",
+          "zh": ""
+        },
+        {
+          "en": "I hope he lands on some soft grass!",
+          "zh": ""
         }
       ],
       "guides": [
@@ -568,6 +780,26 @@
         },
         {
           "en": "Can you ask Leo if he's ok?",
+          "zh": ""
+        },
+        {
+          "en": "\"Leo, are ok? Did you get hurt? \" I think Leo is ok.",
+          "zh": ""
+        },
+        {
+          "en": "Jojo stands on his hands and bella dances around...they're so happy!",
+          "zh": ""
+        },
+        {
+          "en": "Let's all say: \"Thank you, Gyuri!! \" Now, do you want to play hide-and- seek, too?",
+          "zh": ""
+        },
+        {
+          "en": "Yeah, that sounds like fun!",
+          "zh": ""
+        },
+        {
+          "en": "Let's go!",
           "zh": ""
         }
       ],

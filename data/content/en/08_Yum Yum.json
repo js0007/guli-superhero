@@ -20,6 +20,42 @@
         {
           "en": "I wonder what they are?",
           "zh": ""
+        },
+        {
+          "en": "What do you think?",
+          "zh": ""
+        },
+        {
+          "en": "Are they strawberries?",
+          "zh": ""
+        },
+        {
+          "en": "I don't know!",
+          "zh": ""
+        },
+        {
+          "en": "Can you find the horse?",
+          "zh": ""
+        },
+        {
+          "en": "Yes, there he is!",
+          "zh": ""
+        },
+        {
+          "en": "What's he munching on?",
+          "zh": ""
+        },
+        {
+          "en": "A carrot!",
+          "zh": ""
+        },
+        {
+          "en": "And I see a cute little animal with a bushy tail...can you find it?",
+          "zh": ""
+        },
+        {
+          "en": "It's a squirrel!",
+          "zh": ""
         }
       ],
       "guides": [
@@ -80,6 +116,18 @@
         },
         {
           "en": "One, two, three...there they are!",
+          "zh": ""
+        },
+        {
+          "en": "Those apples look yummy!",
+          "zh": ""
+        },
+        {
+          "en": "Hey, Jojo, Ducky, and Teeny...let'sgo outside!",
+          "zh": ""
+        },
+        {
+          "en": "It's a beautiful day!",
           "zh": ""
         }
       ],
@@ -142,6 +190,46 @@
         {
           "en": "Do you want a bite?",
           "zh": ""
+        },
+        {
+          "en": "Crunch!",
+          "zh": ""
+        },
+        {
+          "en": "Yum!",
+          "zh": ""
+        },
+        {
+          "en": "Teeny wants to pick nuts.",
+          "zh": ""
+        },
+        {
+          "en": "They're small and hard!",
+          "zh": ""
+        },
+        {
+          "en": "And, oh look!",
+          "zh": ""
+        },
+        {
+          "en": "Those aren't strawberries!",
+          "zh": ""
+        },
+        {
+          "en": "They're carrots!",
+          "zh": ""
+        },
+        {
+          "en": "Ducky wants to pick carrots!",
+          "zh": ""
+        },
+        {
+          "en": "What about you?",
+          "zh": ""
+        },
+        {
+          "en": "Do you like apples, nuts, or carrots?",
+          "zh": ""
         }
       ],
       "guides": [
@@ -202,6 +290,10 @@
         },
         {
           "en": "Uh oh!",
+          "zh": ""
+        },
+        {
+          "en": "The birds take the apples when Jojo and Ducky aren't paying attention!",
           "zh": ""
         }
       ],
@@ -325,6 +417,22 @@
         {
           "en": "POP!",
           "zh": ""
+        },
+        {
+          "en": "Do you like carrots?",
+          "zh": ""
+        },
+        {
+          "en": "I do! uh oh!",
+          "zh": ""
+        },
+        {
+          "en": "Who's secretly eating the carrots as Jojo puts them in the basket?",
+          "zh": ""
+        },
+        {
+          "en": "The horse!",
+          "zh": ""
         }
       ],
       "guides": [
@@ -386,6 +494,42 @@
         {
           "en": "Wait a minute...oh no!",
           "zh": ""
+        },
+        {
+          "en": "Quick!",
+          "zh": ""
+        },
+        {
+          "en": "Look in the baskets!what do you see?!",
+          "zh": ""
+        },
+        {
+          "en": "Nothing!",
+          "zh": ""
+        },
+        {
+          "en": "The baskets are all empty!",
+          "zh": ""
+        },
+        {
+          "en": "Where did everything go?",
+          "zh": ""
+        },
+        {
+          "en": "What do you think?",
+          "zh": ""
+        },
+        {
+          "en": "We need some help!",
+          "zh": ""
+        },
+        {
+          "en": "Let's call for Gyuri!",
+          "zh": ""
+        },
+        {
+          "en": "\" Gyuri ! Help!!! Somebody took all of our food!!! \"",
+          "zh": ""
         }
       ],
       "guides": [
@@ -406,7 +550,7 @@
         {
           "step": "③ 跟读",
           "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
-          "en": "Somebody took all of our food!!!",
+          "en": "\" Gyuri ! Help!!! Somebody took all of our food!!! \"",
           "zh": "",
           "note": "可配合拍腿或指图增加趣味"
         }
@@ -508,6 +652,18 @@
         {
           "en": "Pick, pick, pick!!",
           "zh": ""
+        },
+        {
+          "en": "Then, he pulls all the carrots out!",
+          "zh": ""
+        },
+        {
+          "en": "He's so fast that he fills up the basket in 3 seconds!",
+          "zh": ""
+        },
+        {
+          "en": "Wow!",
+          "zh": ""
         }
       ],
       "guides": [
@@ -568,6 +724,34 @@
         },
         {
           "en": "Jojo, Gyuri, and the bird!",
+          "zh": ""
+        },
+        {
+          "en": "Who's eating carrots?",
+          "zh": ""
+        },
+        {
+          "en": "Ducky and the horse!",
+          "zh": ""
+        },
+        {
+          "en": "And who's eating nuts?",
+          "zh": ""
+        },
+        {
+          "en": "Teeny and the squirrel!",
+          "zh": ""
+        },
+        {
+          "en": "They're all having a nice picnic together.",
+          "zh": ""
+        },
+        {
+          "en": "What do you want to eat?",
+          "zh": ""
+        },
+        {
+          "en": "See you next time!",
           "zh": ""
         }
       ],

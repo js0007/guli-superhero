@@ -20,6 +20,42 @@
         {
           "en": "I wonder what they are?",
           "zh": "我想知道它们是什么？"
+        },
+        {
+          "en": "What do you think?",
+          "zh": "你怎么认为？"
+        },
+        {
+          "en": "Are they strawberries?",
+          "zh": "它们是草莓吗？"
+        },
+        {
+          "en": "I don't know!",
+          "zh": "我不知道！"
+        },
+        {
+          "en": "Can you find the horse?",
+          "zh": "你能找到那匹马吗？"
+        },
+        {
+          "en": "Yes, there he is!",
+          "zh": "是的，他就在那里！"
+        },
+        {
+          "en": "What's he munching on?",
+          "zh": "他在嚼什么？"
+        },
+        {
+          "en": "A carrot!",
+          "zh": "一根胡萝卜！"
+        },
+        {
+          "en": "And I see a cute little animal with a bushy tail...can you find it?",
+          "zh": "我看到一只可爱的小动物，有一条浓密的尾巴……你能找到它吗？"
+        },
+        {
+          "en": "It's a squirrel!",
+          "zh": "这是一只松鼠！"
         }
       ],
       "guides": [
@@ -81,6 +117,18 @@
         {
           "en": "One, two, three...there they are!",
           "zh": "一、二、三……就在那里！"
+        },
+        {
+          "en": "Those apples look yummy!",
+          "zh": "那些苹果看起来很好吃！"
+        },
+        {
+          "en": "Hey, Jojo, Ducky, and Teeny...let'sgo outside!",
+          "zh": "嘿，Jojo、Ducky和​​Teeny...我们出去吧！"
+        },
+        {
+          "en": "It's a beautiful day!",
+          "zh": "这是美好的一天！"
         }
       ],
       "guides": [
@@ -99,11 +147,11 @@
           "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
         },
         {
-          "step": "③ 互动拓展",
-          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
-          "en": "Ducky, Jojo, and Teeny are looking out the window.",
-          "zh": "Ducky、Jojo和Teeny正在看着窗外。",
-          "note": "关键词跟读即可，不必整句一次说对"
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Those apples look yummy!",
+          "zh": "那些苹果看起来很好吃！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
         }
       ],
       "vocab": [
@@ -142,6 +190,46 @@
         {
           "en": "Do you want a bite?",
           "zh": "你想咬一口吗？"
+        },
+        {
+          "en": "Crunch!",
+          "zh": "紧缩！"
+        },
+        {
+          "en": "Yum!",
+          "zh": "嗯！"
+        },
+        {
+          "en": "Teeny wants to pick nuts.",
+          "zh": "小蒂想摘坚果。"
+        },
+        {
+          "en": "They're small and hard!",
+          "zh": "它们又小又硬！"
+        },
+        {
+          "en": "And, oh look!",
+          "zh": "而且，哦，看！"
+        },
+        {
+          "en": "Those aren't strawberries!",
+          "zh": "那些不是草莓！"
+        },
+        {
+          "en": "They're carrots!",
+          "zh": "它们是胡萝卜！"
+        },
+        {
+          "en": "Ducky wants to pick carrots!",
+          "zh": "鸭子想摘胡萝卜！"
+        },
+        {
+          "en": "What about you?",
+          "zh": "你呢？"
+        },
+        {
+          "en": "Do you like apples, nuts, or carrots?",
+          "zh": "你喜欢苹果、坚果还是胡萝卜？"
         }
       ],
       "guides": [
@@ -203,6 +291,10 @@
         {
           "en": "Uh oh!",
           "zh": "呃哦！"
+        },
+        {
+          "en": "The birds take the apples when Jojo and Ducky aren't paying attention!",
+          "zh": "小鸟趁乔乔和鸭子不注意的时候偷走了苹果！"
         }
       ],
       "guides": [
@@ -325,6 +417,22 @@
         {
           "en": "POP!",
           "zh": "流行音乐！"
+        },
+        {
+          "en": "Do you like carrots?",
+          "zh": "你喜欢胡萝卜吗？"
+        },
+        {
+          "en": "I do! uh oh!",
+          "zh": "我愿意！呃哦！"
+        },
+        {
+          "en": "Who's secretly eating the carrots as Jojo puts them in the basket?",
+          "zh": "当乔乔把胡萝卜放进篮子里时，谁在偷偷吃胡萝卜？"
+        },
+        {
+          "en": "The horse!",
+          "zh": "马！"
         }
       ],
       "guides": [
@@ -345,8 +453,8 @@
         {
           "step": "③ 互动拓展",
           "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
-          "en": "He's pulling them right out of the ground!",
-          "zh": "他正在把他们从地里拉出来！",
+          "en": "Do you like carrots?",
+          "zh": "你喜欢胡萝卜吗？",
           "note": "关键词跟读即可，不必整句一次说对"
         }
       ],
@@ -386,29 +494,65 @@
         {
           "en": "Wait a minute...oh no!",
           "zh": "等一下...哦不！"
+        },
+        {
+          "en": "Quick!",
+          "zh": "快的！"
+        },
+        {
+          "en": "Look in the baskets!what do you see?!",
+          "zh": "看看篮子！你看到了什么？！"
+        },
+        {
+          "en": "Nothing!",
+          "zh": "没有什么！"
+        },
+        {
+          "en": "The baskets are all empty!",
+          "zh": "篮子都空了！"
+        },
+        {
+          "en": "Where did everything go?",
+          "zh": "一切都去哪儿了？"
+        },
+        {
+          "en": "What do you think?",
+          "zh": "你怎么认为？"
+        },
+        {
+          "en": "We need some help!",
+          "zh": "我们需要一些帮助！"
+        },
+        {
+          "en": "Let's call for Gyuri!",
+          "zh": "我们来呼唤久里吧！"
+        },
+        {
+          "en": "\" Gyuri ! Help!!! Somebody took all of our food!!! \"",
+          "zh": "“久里！救命！！！有人拿走了我们所有的食物！！！”"
         }
       ],
       "guides": [
         {
           "step": "① 观察找一找",
           "action": "在纸质书上用手指圈出苹果，让孩子找全、找齐再往下讲",
-          "en": "Jojo, Teeny, and Ducky are all done picking the apples, nuts, and carrots.",
-          "zh": "Jojo、Teeny和Ducky都已经摘完了苹果、坚果和胡萝卜。",
+          "en": "Look in the baskets!what do you see?!",
+          "zh": "看看篮子！你看到了什么？！",
           "note": "找物游戏让页面「活」起来，别一直线性往下读"
         },
         {
-          "step": "② 跟读互动",
-          "action": "指着苹果，邀请孩子跟读这句，等几秒给孩子思考时间",
-          "en": "Phew!",
-          "zh": "唷！",
-          "note": "不会说就重复关键词，或点英文听发音"
+          "step": "② 一起做",
+          "action": "妈妈说 Let's...，带孩子完整做一遍动作或跟读整句",
+          "en": "Let's call for Gyuri!",
+          "zh": "我们来呼唤久里吧！",
+          "note": "「一起做」比「听我讲」更能留住注意力"
         },
         {
-          "step": "③ 重点跟读",
-          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
-          "en": "That was a lot of work!",
-          "zh": "那是很多工作！",
-          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Where did everything go?",
+          "zh": "一切都去哪儿了？",
+          "note": "关键词跟读即可，不必整句一次说对"
         }
       ],
       "vocab": [
@@ -508,6 +652,18 @@
         {
           "en": "Pick, pick, pick!!",
           "zh": "选选选选！！"
+        },
+        {
+          "en": "Then, he pulls all the carrots out!",
+          "zh": "然后，他把所有的胡萝卜都拔了出来！"
+        },
+        {
+          "en": "He's so fast that he fills up the basket in 3 seconds!",
+          "zh": "他的速度太快了，3秒就装满了篮子！"
+        },
+        {
+          "en": "Wow!",
+          "zh": "哇！"
         }
       ],
       "guides": [
@@ -569,14 +725,42 @@
         {
           "en": "Jojo, Gyuri, and the bird!",
           "zh": "乔乔、久里和小鸟！"
+        },
+        {
+          "en": "Who's eating carrots?",
+          "zh": "谁在吃胡萝卜？"
+        },
+        {
+          "en": "Ducky and the horse!",
+          "zh": "鸭子和马！"
+        },
+        {
+          "en": "And who's eating nuts?",
+          "zh": "谁在吃坚果？"
+        },
+        {
+          "en": "Teeny and the squirrel!",
+          "zh": "蒂尼和松鼠！"
+        },
+        {
+          "en": "They're all having a nice picnic together.",
+          "zh": "他们正在一起享受愉快的野餐。"
+        },
+        {
+          "en": "What do you want to eat?",
+          "zh": "你想吃什么？"
+        },
+        {
+          "en": "See you next time!",
+          "zh": "下次见！"
         }
       ],
       "guides": [
         {
           "step": "① 观察找一找",
           "action": "在纸质书上用手指圈出苹果，让孩子找全、找齐再往下讲",
-          "en": "Thank you, Gyuri!",
-          "zh": "谢谢你，久里！",
+          "en": "See you next time!",
+          "zh": "下次见！",
           "note": "找物游戏让页面「活」起来，别一直线性往下读"
         },
         {
@@ -589,8 +773,8 @@
         {
           "step": "③ 重点跟读",
           "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
-          "en": "You saved us!",
-          "zh": "你救了我们！",
+          "en": "Thank you, Gyuri!",
+          "zh": "谢谢你，久里！",
           "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
         }
       ],

@@ -23,6 +23,8 @@ PAGE_IDS = [
     "10-11", "12-13", "14-15", "16-17", "18-19",
 ]
 
+CHARS = ("Bella", "Jojo", "Ducky", "Teeny", "Leo", "Gyuri")
+
 STOP = {
     "the", "a", "an", "and", "or", "but", "in", "on", "at", "to", "for", "of", "is",
     "are", "was", "were", "be", "been", "being", "have", "has", "had", "do", "does",
@@ -92,7 +94,8 @@ def read_source_doc(path: Path) -> str:
 
 def parse_doc_pages(text: str) -> dict[str, str]:
     text = text.replace("\r", "\n")
-    text = re.sub(r"(\w+)Page\s+(\d+-\d+)\s*:?", r"Page \2:", text, flags=re.I)
+    # Word 文稿里页码常紧挨前文，如 "dayPage 2-3"；勿用 (\w+)Page 替换，否则会吞掉 "day" 等词
+    text = re.sub(r"(?<=[a-z])(Page\s+\d+-\d+\s*:?)", r" \1", text, flags=re.I)
     text = re.sub(r"\bage\s+(\d+-\d+)\s*:", r"Page \1:", text, flags=re.I)
     text = re.sub(r"^BOOK[-\w ]+\s*", "", text, flags=re.I | re.M)
     text = re.sub(r"^Book\s+\d+\s+.*?\n+", "", text, flags=re.I | re.M)
@@ -108,28 +111,57 @@ def clean_page_body(text: str, book_title: str) -> str:
     text = text.replace("\u201c", '"').replace("\u201d", '"').replace("\u2019", "'")
     first = re.sub(r"[^\w\s]", " ", book_title).split()[0]
     for prefix in (book_title, first, book_title.upper(), first.upper()):
-        if text.upper().startswith(prefix.upper() + " "):
+        upper = prefix.upper()
+        if text.upper().startswith(upper + " "):
             text = text[len(prefix) :].strip()
+            break
+        if text.upper().startswith(upper) and len(text) > len(prefix):
+            text = text[len(prefix) :].lstrip(" :;-")
             break
     text = re.sub(r"([.!?])(?=[A-Z\"'])", r"\1 ", text)
     text = re.sub(r"([a-z])([A-Z])", r"\1 \2", text)
+    names = "|".join(CHARS)
+    text = re.sub(rf"\b(something|holding)\s+({names})\b", r"\1. \2", text, flags=re.I)
+    text = re.sub(r'"\s+\?', '"?', text)
+    text = re.sub(r'!\s+"\s*\?', '!"?', text)
+    text = re.sub(r'!\s*"([A-Z])', r'!" \1', text)
+    text = re.sub(r'([.!?])"([A-Z])', r'\1" \2', text)
+    text = re.sub(r"\s+", " ", text)
     text = re.sub(r"^[\s:;]+", "", text)
-    return text
+    return text.strip()
 
 
 def split_sentences(text: str) -> list[str]:
-    text = re.sub(r"\s+", " ", text)
-    text = re.sub(r"([.!?])\s*(?=[A-Z\"'])", r"\1\n", text)
-    parts = [p.strip() for p in text.split("\n") if p.strip()]
-    if not parts:
-        parts = [text.strip()] if text.strip() else []
-    merged = []
-    for p in parts:
-        if merged and len(p) < 20 and p[0].islower():
-            merged[-1] += " " + p
-        else:
-            merged.append(p)
-    return [s for s in merged if len(s) > 2]
+    text = re.sub(r"\s+", " ", text).strip()
+    if not text:
+        return []
+
+    parts: list[str] = []
+    buf: list[str] = []
+    in_quote = False
+
+    for i, ch in enumerate(text):
+        buf.append(ch)
+        if ch == '"':
+            in_quote = not in_quote
+            continue
+        if in_quote or ch not in ".!?":
+            continue
+        rest = text[i + 1 :].lstrip()
+        if not rest:
+            parts.append("".join(buf).strip())
+            buf = []
+            continue
+        if rest[0].isupper() or rest[0] == '"':
+            parts.append("".join(buf).strip())
+            buf = []
+
+    if buf:
+        tail = "".join(buf).strip()
+        if tail:
+            parts.append(tail)
+
+    return [s for s in parts if len(s) > 1]
 
 
 def pick_vocab(sentences: list[str]) -> list[dict]:
@@ -159,7 +191,7 @@ def build_page_skeleton(page_id: str, body: str, book_title: str) -> dict:
     if not sentences:
         sentences = [f"Let's read {book_title} together. Turn to page {page_id} in your book."]
 
-    extend = [{"en": s, "zh": ""} for s in sentences[:4]]
+    extend = [{"en": s, "zh": ""} for s in sentences]
     q = pick_question(sentences)
     guides = [
         {
