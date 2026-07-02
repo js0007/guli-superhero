@@ -1,0 +1,764 @@
+{
+  "book": "Scrub,Scrub,Scrub",
+  "folder": "03_Scrub,Scrub,Scrub",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "It's Bella and Ducky!",
+          "zh": "这是贝拉和达基！"
+        },
+        {
+          "en": "Where are they?",
+          "zh": "他们在哪里？"
+        },
+        {
+          "en": "Are they in the kitchen?",
+          "zh": "他们在厨房吗？"
+        },
+        {
+          "en": "No.",
+          "zh": "不。"
+        },
+        {
+          "en": "They're in the bathroom!",
+          "zh": "他们在浴室里！"
+        },
+        {
+          "en": "What's in the bathroom?",
+          "zh": "浴室里有什么？"
+        },
+        {
+          "en": "I see towels, bubbles, and a bathtub!",
+          "zh": "我看到毛巾、泡泡和浴缸！"
+        },
+        {
+          "en": "It looks like they're going to have a bath!",
+          "zh": "看来他们要去洗澡了！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察暖场",
+          "action": "先不急着读字，让孩子看纸质书跨页图，说出看到了什么；再播放「整页原音」",
+          "en": "It's Bella and Ducky!",
+          "zh": "这是贝拉和达基！",
+          "note": "第一遍允许只听不说，建立「看图→听→说」的顺序"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着泡泡提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Where are they?",
+          "zh": "他们在哪里？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "They're in the bathroom!",
+          "zh": "他们在浴室里！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "它是"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        },
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "Ducky"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "Can you find Bella's ears?",
+          "zh": "你能找到贝拉的耳朵吗？"
+        },
+        {
+          "en": "Yes, there they are!",
+          "zh": "是的，他们就在那里！"
+        },
+        {
+          "en": "Scrub, scrub, scrub!",
+          "zh": "擦洗，擦洗，擦洗！"
+        },
+        {
+          "en": "Can you find Ducky's ears?",
+          "zh": "你能找到鸭子的耳朵吗？"
+        },
+        {
+          "en": "Oh, that's right!",
+          "zh": "哦，原来如此！"
+        },
+        {
+          "en": "Ducky doesn't have any ears!",
+          "zh": "鸭子没有耳朵！"
+        },
+        {
+          "en": "And can you find the sponge?",
+          "zh": "你能找到海绵吗？"
+        },
+        {
+          "en": "Yes, here it is.",
+          "zh": "是的，就是这里。"
+        },
+        {
+          "en": "Can you squeeze it?",
+          "zh": "你能挤一下吗？"
+        },
+        {
+          "en": "Squeeze, squeeze, squeeze, squish, squish, squish.",
+          "zh": "挤、挤、挤、挤、挤、挤。"
+        },
+        {
+          "en": "It's squishy!",
+          "zh": "是软软的！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Can you find Bella's ears?",
+          "zh": "你能找到贝拉的耳朵吗？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Yes, there they are!",
+          "zh": "是的，他们就在那里！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Can you find Ducky's ears?",
+          "zh": "你能找到鸭子的耳朵吗？",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "find",
+          "ipa": "",
+          "cn": "寻找"
+        },
+        {
+          "w": "bella's",
+          "ipa": "",
+          "cn": "贝拉的"
+        },
+        {
+          "w": "ears",
+          "ipa": "",
+          "cn": "耳朵"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "Can you wipe the bubbles off of Bella's face to find her little nose?",
+          "zh": "你能擦掉贝拉脸上的泡泡来找到她的小鼻子吗？"
+        },
+        {
+          "en": "There it is!",
+          "zh": "就在那里！"
+        },
+        {
+          "en": "Where's the purple bucket?",
+          "zh": "紫色的桶在哪里？"
+        },
+        {
+          "en": "There's water in it!",
+          "zh": "里面有水！"
+        },
+        {
+          "en": "Let's dump it out!",
+          "zh": "我们把它倒掉吧！"
+        },
+        {
+          "en": "Oh no!",
+          "zh": "哦不！"
+        },
+        {
+          "en": "What a mess!",
+          "zh": "真是一团糟！"
+        },
+        {
+          "en": "We can use the sponge to clean up",
+          "zh": "我们可以用海绵来清理"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出泡泡，让孩子找全、找齐再往下讲",
+          "en": "Can you wipe the bubbles off of Bella's face to find her little nose?",
+          "zh": "你能擦掉贝拉脸上的泡泡来找到她的小鼻子吗？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 一起做",
+          "action": "妈妈说 Let's...，带孩子完整做一遍动作或跟读整句",
+          "en": "Let's dump it out!",
+          "zh": "我们把它倒掉吧！",
+          "note": "「一起做」比「听我讲」更能留住注意力"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Where's the purple bucket?",
+          "zh": "紫色的桶在哪里？",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "wipe",
+          "ipa": "",
+          "cn": "擦拭"
+        },
+        {
+          "w": "bubbles",
+          "ipa": "",
+          "cn": "气泡"
+        },
+        {
+          "w": "off",
+          "ipa": "",
+          "cn": "离开"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "SCRUE Where are Bella's feet?",
+          "zh": "克鲁：贝拉的脚在哪里？"
+        },
+        {
+          "en": "There they are!1, 2...2 feet!",
+          "zh": "它们在那里！1、2...2英尺！"
+        },
+        {
+          "en": "How many toes does she have?1, 2, 3, 4, 5, 6...she has 6 toes!",
+          "zh": "她有多少个脚趾？1、2、3、4、5、6……她有6个脚趾！"
+        },
+        {
+          "en": "What about you?1-10.",
+          "zh": "你呢？1-10。"
+        },
+        {
+          "en": "Yeah, you have 10 toes.",
+          "zh": "是的，你有10个脚趾。"
+        },
+        {
+          "en": "Can you wiggle your toes?",
+          "zh": "你能扭动你的脚趾吗？"
+        },
+        {
+          "en": "Wiggle, wiggle, wiggle",
+          "zh": "晃动，晃动，晃动"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 数数互动",
+          "action": "指着纸质书上的画面细节，和孩子一起大声数，数完击掌庆祝",
+          "en": "There they are!1, 2...2 feet!",
+          "zh": "它们在那里！1、2...2英尺！",
+          "note": "数错不要紧，重点是开口跟节奏；可以中英文混着说数字"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "SCRUE Where are Bella's feet?",
+          "zh": "克鲁：贝拉的脚在哪里？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "How many toes does she have?1, 2, 3, 4, 5, 6...she has 6 toes!",
+          "zh": "她有多少个脚趾？1、2、3、4、5、6……她有6个脚趾！",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "scrue",
+          "ipa": "",
+          "cn": "刮擦"
+        },
+        {
+          "w": "bella's",
+          "ipa": "",
+          "cn": "贝拉的"
+        },
+        {
+          "w": "feet",
+          "ipa": "",
+          "cn": "脚"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "Can you touch Bella's tummy?",
+          "zh": "你能摸一下贝拉的肚子吗？"
+        },
+        {
+          "en": "Good!",
+          "zh": "好的！"
+        },
+        {
+          "en": "Where's your tummy?",
+          "zh": "你的肚子在哪里？"
+        },
+        {
+          "en": "Yeah...",
+          "zh": "是的..."
+        },
+        {
+          "en": "I'm going to tickle your tummy!",
+          "zh": "我要挠你的肚子！"
+        },
+        {
+          "en": "Tickle, tickle, tickle!",
+          "zh": "痒痒，痒痒，痒痒！"
+        },
+        {
+          "en": "Now, let's wash your tummy.",
+          "zh": "现在，让我们洗洗你的肚子。"
+        },
+        {
+          "en": "Let's splash some water on it",
+          "zh": "我们在上面泼点水"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Where's your tummy?",
+          "zh": "你的肚子在哪里？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 声音模仿",
+          "action": "先妈妈示范叫声，再让孩子跟读；可以配手势或身体动作",
+          "en": "I'm going to tickle your tummy!",
+          "zh": "我要挠你的肚子！",
+          "note": "学动物/声音叫能降低开口压力，孩子更愿意参与"
+        },
+        {
+          "step": "③ 一起做",
+          "action": "妈妈说 Let's...，带孩子完整做一遍动作或跟读整句",
+          "en": "Let's splash some water on it",
+          "zh": "我们在上面泼点水",
+          "note": "「一起做」比「听我讲」更能留住注意力"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "touch",
+          "ipa": "",
+          "cn": "触碰"
+        },
+        {
+          "w": "bella's",
+          "ipa": "",
+          "cn": "贝拉的"
+        },
+        {
+          "w": "tummy",
+          "ipa": "",
+          "cn": "肚子"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "SCRUEOh!",
+          "zh": "尖叫哦！"
+        },
+        {
+          "en": "Bella has a squirt gun.",
+          "zh": "贝拉有一把水枪。"
+        },
+        {
+          "en": "Can you pretend you have one too?",
+          "zh": "你能假装你也有一个吗？"
+        },
+        {
+          "en": "Let's squirt the rubber ducky.",
+          "zh": "让我们喷射橡皮鸭吧。"
+        },
+        {
+          "en": "Squirt, squirt, squirt!",
+          "zh": "喷，喷，喷！"
+        },
+        {
+          "en": "Oh, there are so many bubbles in the bath, and in the air, and all around!",
+          "zh": "哦，浴缸里、空气里、周围都有这么多气泡！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出泡泡，让孩子找全、找齐再往下讲",
+          "en": "Can you pretend you have one too?",
+          "zh": "你能假装你也有一个吗？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 一起做",
+          "action": "妈妈说 Let's...，带孩子完整做一遍动作或跟读整句",
+          "en": "Let's squirt the rubber ducky.",
+          "zh": "让我们喷射橡皮鸭吧。",
+          "note": "「一起做」比「听我讲」更能留住注意力"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "SCRUEOh!",
+          "zh": "尖叫哦！",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "scrueoh",
+          "ipa": "",
+          "cn": "刮擦"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        },
+        {
+          "w": "squirt",
+          "ipa": "",
+          "cn": "喷出"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！"
+        },
+        {
+          "en": "There are too many bubbles!",
+          "zh": "气泡太多了！"
+        },
+        {
+          "en": "Bella and Ducky can't see each other!",
+          "zh": "贝拉和鸭子看不到对方！"
+        },
+        {
+          "en": "What can they do!?",
+          "zh": "他们能做什么！？"
+        },
+        {
+          "en": "I think Gyuri can help!",
+          "zh": "我认为久里可以帮忙！"
+        },
+        {
+          "en": "Let's help Bella and Ducky call for Gyuri!",
+          "zh": "让我们帮助贝拉和达基呼叫久里吧！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出泡泡，让孩子找全、找齐再往下讲",
+          "en": "Bella and Ducky can't see each other!",
+          "zh": "贝拉和鸭子看不到对方！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着泡泡提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "What can they do!?",
+          "zh": "他们能做什么！？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 一起做",
+          "action": "妈妈说 Let's...，带孩子完整做一遍动作或跟读整句",
+          "en": "Let's help Bella and Ducky call for Gyuri!",
+          "zh": "让我们帮助贝拉和达基呼叫久里吧！",
+          "note": "「一起做」比「听我讲」更能留住注意力"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "there",
+          "ipa": "",
+          "cn": "那里"
+        },
+        {
+          "w": "many",
+          "ipa": "",
+          "cn": "许多"
+        },
+        {
+          "w": "bubbles",
+          "ipa": "",
+          "cn": "气泡"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "Here comes Gyuri!",
+          "zh": "久里来了！"
+        },
+        {
+          "en": "He's just in time!",
+          "zh": "他来得正是时候！"
+        },
+        {
+          "en": "Bella, and Ducky, and the bathtub and the walls are covered in bubbles!",
+          "zh": "贝拉和鸭子，浴缸和墙壁都充满了气泡！"
+        },
+        {
+          "en": "What a mess!",
+          "zh": "真是一团糟！"
+        },
+        {
+          "en": "Gyuri!",
+          "zh": "久里！"
+        },
+        {
+          "en": "Please help us clean up all the bubbles in the bathroom",
+          "zh": "请帮我们清理浴室里的所有气泡"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出泡泡，让孩子找全、找齐再往下讲",
+          "en": "Here comes Gyuri!",
+          "zh": "久里来了！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 勇气时刻",
+          "action": "语气变得紧张又期待，问孩子害不害怕、要不要帮忙",
+          "en": "He's just in time!",
+          "zh": "他来得正是时候！",
+          "note": "共情比练句型重要——怕就说 Me too, a little scared"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Bella, and Ducky, and the bathtub and the walls are covered in bubbles!",
+          "zh": "贝拉和鸭子，浴缸和墙壁都充满了气泡！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "这里"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "来了"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "SCRU CRUESCRL Gyuri uses his fingers to pop all the bubbles!",
+          "zh": "SCRUCRUESCRLGyuri用手指戳破所有泡泡！"
+        },
+        {
+          "en": "Pop, pop, pop!",
+          "zh": "流行，流行，流行！"
+        },
+        {
+          "en": "Can you help him?",
+          "zh": "你能帮助他吗？"
+        },
+        {
+          "en": "Gyuri uses sponges to clean the bathtub!",
+          "zh": "Gyuri用海绵清洁浴缸！"
+        },
+        {
+          "en": "Scrub, scrub, scrub!",
+          "zh": "擦洗，擦洗，擦洗！"
+        },
+        {
+          "en": "Can you scrub, too?",
+          "zh": "你也可以擦吗？"
+        },
+        {
+          "en": "And Gyuri uses his tail to clean the wall!",
+          "zh": "久里用尾巴擦墙！"
+        },
+        {
+          "en": "Wipe, wipe, wipe!!",
+          "zh": "擦擦擦擦！！"
+        },
+        {
+          "en": "He's so fast!",
+          "zh": "他太快了！"
+        },
+        {
+          "en": "He really is a superhero!",
+          "zh": "他真的是一个超级英雄！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出泡泡，让孩子找全、找齐再往下讲",
+          "en": "Can you help him?",
+          "zh": "你能帮助他吗？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "SCRU CRUESCRL Gyuri uses his fingers to pop all the bubbles!",
+          "zh": "SCRUCRUESCRLGyuri用手指戳破所有泡泡！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Can you scrub, too?",
+          "zh": "你也可以擦吗？",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "scru",
+          "ipa": "",
+          "cn": "斯克鲁"
+        },
+        {
+          "w": "cruescrl",
+          "ipa": "",
+          "cn": "克鲁斯克尔"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "Wow!",
+          "zh": "哇！"
+        },
+        {
+          "en": "Thank you for saving us, Gyuri!",
+          "zh": "谢谢你救了我们，久里！"
+        },
+        {
+          "en": "Look, he used the bubbles tomake a Bubble Bella, and a Bubble Ducky!",
+          "zh": "看，他用泡泡做了泡泡贝拉和泡泡鸭！"
+        },
+        {
+          "en": "The next time we have a bath, we can try to make a Bubble You!",
+          "zh": "下次洗澡的时候，我们可以尝试做一个BubbleYou！"
+        },
+        {
+          "en": "Say goodbye to Gyuri, Bella, and Ducky.",
+          "zh": "向久里、贝拉和达基说再见。"
+        },
+        {
+          "en": "Bye!",
+          "zh": "再见！"
+        },
+        {
+          "en": "See you next time",
+          "zh": "下次见"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出泡泡，让孩子找全、找齐再往下讲",
+          "en": "Look, he used the bubbles tomake a Bubble Bella, and a Bubble Ducky!",
+          "zh": "看，他用泡泡做了泡泡贝拉和泡泡鸭！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着泡泡，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "Wow!",
+          "zh": "哇！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Thank you for saving us, Gyuri!",
+          "zh": "谢谢你救了我们，久里！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "wow",
+          "ipa": "",
+          "cn": "哇"
+        },
+        {
+          "w": "thank",
+          "ipa": "",
+          "cn": "感谢"
+        },
+        {
+          "w": "saving",
+          "ipa": "",
+          "cn": "保存"
+        }
+      ]
+    }
+  ]
+}

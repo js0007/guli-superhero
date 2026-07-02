@@ -1,0 +1,860 @@
+{
+  "book": "Who are you",
+  "folder": "12_Who are you",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "There's Bella!",
+          "zh": "贝拉来了！"
+        },
+        {
+          "en": "Hi, Bella!",
+          "zh": "嗨，贝拉！"
+        },
+        {
+          "en": "What's she doing?",
+          "zh": "她在做什么？"
+        },
+        {
+          "en": "It looks like she's playing with a toy bus!",
+          "zh": "看起来她正在玩玩具巴士！"
+        },
+        {
+          "en": "She's reaching inside to find something!",
+          "zh": "她正伸手进去寻找什么东西！"
+        },
+        {
+          "en": "I wonder what's inside the bus.",
+          "zh": "我想知道巴士里面有什么。"
+        },
+        {
+          "en": "What do you think?",
+          "zh": "你怎么认为？"
+        },
+        {
+          "en": "Little people?",
+          "zh": "小人物？"
+        },
+        {
+          "en": "Toys?",
+          "zh": "玩具？"
+        },
+        {
+          "en": "A cat?",
+          "zh": "一只猫？"
+        },
+        {
+          "en": "Let's find out.",
+          "zh": "让我们来看看吧。"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察暖场",
+          "action": "先不急着读字，让孩子看纸质书跨页图，说出看到了什么；再播放「整页原音」",
+          "en": "There's Bella!",
+          "zh": "贝拉来了！",
+          "note": "第一遍允许只听不说，建立「看图→听→说」的顺序"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "What's she doing?",
+          "zh": "她在做什么？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 一起做",
+          "action": "妈妈说 Let's...，带孩子完整做一遍动作或跟读整句",
+          "en": "Let's find out.",
+          "zh": "让我们来看看吧。",
+          "note": "「一起做」比「听我讲」更能留住注意力"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "there's",
+          "ipa": "",
+          "cn": "有"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        },
+        {
+          "w": "what's",
+          "ipa": "",
+          "cn": "什么是"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "Oh!",
+          "zh": "哦！"
+        },
+        {
+          "en": "Lots of clothes and things to play dress-up with!",
+          "zh": "有很多衣服和玩装扮的东西！"
+        },
+        {
+          "en": "Cool!",
+          "zh": "凉爽的！"
+        },
+        {
+          "en": "Bella has a white coat, like a doctor wears.",
+          "zh": "贝拉穿着一件白大褂，就像医生穿的一样。"
+        },
+        {
+          "en": "And Teeny has a stethoscope.",
+          "zh": "蒂尼有一个听诊器。"
+        },
+        {
+          "en": "It's a doctor costume!",
+          "zh": "这是医生服！"
+        },
+        {
+          "en": "And there are still a lot of other fun clothes and toys in the bus!",
+          "zh": "而且巴士上还有很多其他好玩的衣服和玩具！"
+        },
+        {
+          "en": "Leo, Ducky, Jojo, Teeny, and Bella are so excited to play dress-up!",
+          "zh": "Leo、Ducky、Jojo、Teeny和Bella玩装扮游戏非常兴奋！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Oh!",
+          "zh": "哦！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 情绪共鸣",
+          "action": "指着Bella、Jojo的表情，问 happy 还是 sad，让孩子说说为什么",
+          "en": "Leo, Ducky, Jojo, Teeny, and Bella are so excited to play dress-up!",
+          "zh": "Leo、Ducky、Jojo、Teeny和Bella玩装扮游戏非常兴奋！",
+          "note": "情绪词用表情比划比翻译更有效，允许孩子用中文回答"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Lots of clothes and things to play dress-up with!",
+          "zh": "有很多衣服和玩装扮的东西！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "lots",
+          "ipa": "",
+          "cn": "地段"
+        },
+        {
+          "w": "clothes",
+          "ipa": "",
+          "cn": "衣服"
+        },
+        {
+          "w": "things",
+          "ipa": "",
+          "cn": "事物"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "Bella dresses up first.",
+          "zh": "贝拉先穿好衣服。"
+        },
+        {
+          "en": "What's she wearing?",
+          "zh": "她穿什么？"
+        },
+        {
+          "en": "She's wearing a pink tutudress, and she's dancing on a stage!",
+          "zh": "她穿着粉红色的芭蕾舞短裙，在舞台上跳舞！"
+        },
+        {
+          "en": "Who is she?",
+          "zh": "她是谁？"
+        },
+        {
+          "en": "Is she a bus driver?",
+          "zh": "她是公交车司机吗？"
+        },
+        {
+          "en": "No.",
+          "zh": "不。"
+        },
+        {
+          "en": "She's a dancer!",
+          "zh": "她是一名舞者！"
+        },
+        {
+          "en": "She likes to dance!",
+          "zh": "她喜欢跳舞！"
+        },
+        {
+          "en": "Do you want to be a dancer, too?",
+          "zh": "你也想成为一名舞者吗？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Bella dresses up first.",
+          "zh": "贝拉先穿好衣服。",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "What's she wearing?",
+          "zh": "她穿什么？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "She's wearing a pink tutudress, and she's dancing on a stage!",
+          "zh": "她穿着粉红色的芭蕾舞短裙，在舞台上跳舞！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        },
+        {
+          "w": "dresses",
+          "ipa": "",
+          "cn": "连衣裙"
+        },
+        {
+          "w": "first",
+          "ipa": "",
+          "cn": "第一的"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "Ducky dresses up next.",
+          "zh": "接下来，鸭子会打扮起来。"
+        },
+        {
+          "en": "Teeny, Bella, and Jojo are trying to guess what Ducky is dressed up as.",
+          "zh": "蒂妮、贝拉和乔乔试图猜测达基装扮成什么。"
+        },
+        {
+          "en": "What is he wearing?",
+          "zh": "他穿什么？"
+        },
+        {
+          "en": "A chef's hat, and an apron!",
+          "zh": "厨师帽，围裙！"
+        },
+        {
+          "en": "And there's a shopping cart full of food!",
+          "zh": "还有一个购物车，里面装满了食物！"
+        },
+        {
+          "en": "What's he doing?",
+          "zh": "他在做什么？"
+        },
+        {
+          "en": "It looks like he's mixing something in a bowl.",
+          "zh": "看起来他正在碗里搅拌什么东西。"
+        },
+        {
+          "en": "He's a cook!",
+          "zh": "他是一名厨师！"
+        },
+        {
+          "en": "He likes to cook!",
+          "zh": "他喜欢做饭！"
+        },
+        {
+          "en": "Do you want to be a cook, too?",
+          "zh": "你也想当厨师吗？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Ducky dresses up next.",
+          "zh": "接下来，鸭子会打扮起来。",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "What is he wearing?",
+          "zh": "他穿什么？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "A chef's hat, and an apron!",
+          "zh": "厨师帽，围裙！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "Ducky"
+        },
+        {
+          "w": "dresses",
+          "ipa": "",
+          "cn": "连衣裙"
+        },
+        {
+          "w": "next",
+          "ipa": "",
+          "cn": "下一个"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "RAINY Look!",
+          "zh": "下雨了看！"
+        },
+        {
+          "en": "Bella found a puddle to jump in!",
+          "zh": "贝拉找到了一个水坑，可以跳进去了！"
+        },
+        {
+          "en": "She's jumping up and down, splashing water everywhere!",
+          "zh": "她上蹿下跳，把水溅得到处都是！"
+        },
+        {
+          "en": "Jump, jump, jump!",
+          "zh": "跳，跳，跳！"
+        },
+        {
+          "en": "Splash, splash, splash!",
+          "zh": "飞溅，飞溅，飞溅！"
+        },
+        {
+          "en": "It's good she's wearing rain boots.",
+          "zh": "还好她穿着雨鞋。"
+        },
+        {
+          "en": "Uh oh...she isn't wearing a rain coat!",
+          "zh": "呃哦……她没穿雨衣！"
+        },
+        {
+          "en": "I guess she likes to feel the rain.",
+          "zh": "我猜她喜欢感受下雨的感觉。"
+        },
+        {
+          "en": "She has a rain hat though!",
+          "zh": "不过她有一顶雨帽！"
+        },
+        {
+          "en": "What color is it?",
+          "zh": "它是什么颜色？"
+        },
+        {
+          "en": "Yeah, it's orange!",
+          "zh": "是的，它是橙色的！"
+        },
+        {
+          "en": "Do you like jumping in puddles, too?",
+          "zh": "你也喜欢在水坑里跳吗？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "RAINY Look!",
+          "zh": "下雨了看！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "What color is it?",
+          "zh": "它是什么颜色？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Bella found a puddle to jump in!",
+          "zh": "贝拉找到了一个水坑，可以跳进去了！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rainy",
+          "ipa": "",
+          "cn": "下雨的"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        },
+        {
+          "w": "found",
+          "ipa": "",
+          "cn": "找到了"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "Rai N?",
+          "zh": "雨？"
+        },
+        {
+          "en": "What are Jojo and Leo holding in their hands?",
+          "zh": "Jojo和Leo手里拿着的是什么？"
+        },
+        {
+          "en": "Umbrellas!",
+          "zh": "雨伞！"
+        },
+        {
+          "en": "Jojo has a green one, and Leo has a purple one!",
+          "zh": "Jojo有绿色的，Leo有紫色的！"
+        },
+        {
+          "en": "What?",
+          "zh": "什么？"
+        },
+        {
+          "en": "No?",
+          "zh": "不？"
+        },
+        {
+          "en": "Leo's umbrella isn't purple?",
+          "zh": "Leo的伞不是紫色的吗？"
+        },
+        {
+          "en": "Oh, what color is it?",
+          "zh": "哦，那是什么颜色？"
+        },
+        {
+          "en": "Yeah, it's blue!",
+          "zh": "是的，它是蓝色的！"
+        },
+        {
+          "en": "Can you find Teeny?",
+          "zh": "你能找到丁尼吗？"
+        },
+        {
+          "en": "There he is!",
+          "zh": "他在那儿！"
+        },
+        {
+          "en": "He's keeping dry under Leo's umbrella!",
+          "zh": "他在Leo的伞下保持干燥！"
+        },
+        {
+          "en": "He's too small to hold an umbrella!",
+          "zh": "他太小了，撑不起伞！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Can you find Teeny?",
+          "zh": "你能找到丁尼吗？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Rai N?",
+          "zh": "雨？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Umbrellas!",
+          "zh": "雨伞！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rai",
+          "ipa": "",
+          "cn": "莱"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "Leo"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "RAIN uh oh...look at the clouds!",
+          "zh": "雨呃哦...看云！"
+        },
+        {
+          "en": "They're black and gray!",
+          "zh": "它们是黑色和灰色的！"
+        },
+        {
+          "en": "I think a storm is coming.",
+          "zh": "我认为暴风雨即将来临。"
+        },
+        {
+          "en": "Boom!",
+          "zh": "繁荣！"
+        },
+        {
+          "en": "Crash!",
+          "zh": "碰撞！"
+        },
+        {
+          "en": "Crack!!!",
+          "zh": "裂缝！！！"
+        },
+        {
+          "en": "What was that?!",
+          "zh": "那是什么？"
+        },
+        {
+          "en": "Yeah, it was lightning!!",
+          "zh": "是的，那是闪电！！"
+        },
+        {
+          "en": "That was LOUD!",
+          "zh": "声音很大！"
+        },
+        {
+          "en": "Everyone is scared!",
+          "zh": "大家都很害怕！"
+        },
+        {
+          "en": "They think lightning is scary!",
+          "zh": "他们认为闪电很可怕！"
+        },
+        {
+          "en": "Gyuri!!!",
+          "zh": "久里！！！"
+        },
+        {
+          "en": "Help us!!!!",
+          "zh": "帮助我们！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "RAIN uh oh...look at the clouds!",
+          "zh": "雨呃哦...看云！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 情绪共鸣",
+          "action": "指着Gyuri的表情，问 happy 还是 sad，让孩子说说为什么",
+          "en": "Everyone is scared!",
+          "zh": "大家都很害怕！",
+          "note": "情绪词用表情比划比翻译更有效，允许孩子用中文回答"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "They're black and gray!",
+          "zh": "它们是黑色和灰色的！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rain",
+          "ipa": "",
+          "cn": "雨"
+        },
+        {
+          "w": "clouds",
+          "ipa": "",
+          "cn": "云"
+        },
+        {
+          "w": "they're",
+          "ipa": "",
+          "cn": "他们是"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "vou?",
+          "zh": "你？"
+        },
+        {
+          "en": "Here he comes!",
+          "zh": "他来了！"
+        },
+        {
+          "en": "The spotlights are shining on Gyuri!",
+          "zh": "聚光灯照在久里身上！"
+        },
+        {
+          "en": "Do you think he'll be able to help!",
+          "zh": "你觉得他能帮忙吗！"
+        },
+        {
+          "en": "I think so!",
+          "zh": "我想是的！"
+        },
+        {
+          "en": "Gyuri always knows what to do!",
+          "zh": "Gyuri总是知道该做什么！"
+        },
+        {
+          "en": "He'll help Jojo pick out a costume!",
+          "zh": "他会帮助乔乔挑选服装！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "vou?",
+          "zh": "你？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Here he comes!",
+          "zh": "他来了！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "The spotlights are shining on Gyuri!",
+          "zh": "聚光灯照在久里身上！",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "vou",
+          "ipa": "",
+          "cn": "你"
+        },
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "这里"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "来了"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Vou P Gyuri says:Jojo!",
+          "zh": "乌·P·久里说：乔乔！"
+        },
+        {
+          "en": "You can be anything and everything!",
+          "zh": "你可以成为任何事物！"
+        },
+        {
+          "en": "You can be a cook, a dancer, adriver, a singer, a pirate, a clown, or just yourself!",
+          "zh": "你可以成为一名厨师、一名舞者、一名司机、一名歌手、一名海盗、一名小丑，或者只是你自己！"
+        },
+        {
+          "en": "What do you think Jojo should dress up as?",
+          "zh": "你觉得乔乔应该穿成什么样子呢？"
+        },
+        {
+          "en": "Hm...none of those seem right.",
+          "zh": "嗯……这些似乎都不对。"
+        },
+        {
+          "en": "Oh, I know...",
+          "zh": "哦，我知道..."
+        },
+        {
+          "en": "Gyuri has a great idea!",
+          "zh": "久里有个好主意！"
+        },
+        {
+          "en": "What is it?",
+          "zh": "它是什么？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Vou P Gyuri says:Jojo!",
+          "zh": "乌·P·久里说：乔乔！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "What do you think Jojo should dress up as?",
+          "zh": "你觉得乔乔应该穿成什么样子呢？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "You can be anything and everything!",
+          "zh": "你可以成为任何事物！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "vou",
+          "ipa": "",
+          "cn": "你"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        },
+        {
+          "w": "says",
+          "ipa": "",
+          "cn": "说"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "Jojo can be Jojo the Superhero!",
+          "zh": "乔乔可以成为超级英雄乔乔！"
+        },
+        {
+          "en": "Can you find the J on Jojo's shirt!",
+          "zh": "你能找到Jojo衬衫上的J吗？"
+        },
+        {
+          "en": "Yes, there it is!",
+          "zh": "是的，就在那里！"
+        },
+        {
+          "en": "That's J for Jojo!",
+          "zh": "J代表乔乔！"
+        },
+        {
+          "en": "Can you find the G on Gyuri's cape?",
+          "zh": "你能找到久里斗篷上的G吗？"
+        },
+        {
+          "en": "Yes, there it is!",
+          "zh": "是的，就在那里！"
+        },
+        {
+          "en": "That's G for Gyuri!",
+          "zh": "那是Gyuri的G！"
+        },
+        {
+          "en": "What do you want to dress up as?",
+          "zh": "你想打扮成什么？"
+        },
+        {
+          "en": "Thank you for helping us, Gyuri!",
+          "zh": "谢谢你帮助我们，久里！"
+        },
+        {
+          "en": "See you next time!",
+          "zh": "下次见！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Can you find the J on Jojo's shirt!",
+          "zh": "你能找到Jojo衬衫上的J吗？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Can you find the G on Gyuri's cape?",
+          "zh": "你能找到久里斗篷上的G吗？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Jojo can be Jojo the Superhero!",
+          "zh": "乔乔可以成为超级英雄乔乔！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "superhero",
+          "ipa": "",
+          "cn": "超级英雄"
+        },
+        {
+          "w": "find",
+          "ipa": "",
+          "cn": "寻找"
+        }
+      ]
+    }
+  ]
+}

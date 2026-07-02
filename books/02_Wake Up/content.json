@@ -1,0 +1,563 @@
+{
+  "book": "Wake Up",
+  "folder": "02_Wake Up",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "It's a beautiful, sunny, spring day. See? The trees are blossoming.",
+          "zh": "这是阳光明媚的春天，看，树都开花了。"
+        },
+        {
+          "en": "Can you find the tree with white flowers? What about the tree with pink flowers?",
+          "zh": "找到开白花的树了吗？开粉花的呢？"
+        },
+        {
+          "en": "Oh... Bella hears something. What's that noise!?",
+          "zh": "Bella 听到了什么。那是什么声音！？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察暖场",
+          "action": "先不读字，让孩子看纸质书上的三个角色和两棵不同颜色的花树",
+          "en": "Look at the trees! Can you find white flowers? Pink flowers?",
+          "zh": "看看这些树！能找到白花吗？粉花呢？",
+          "note": "建立「看图说话」习惯，不急于翻页"
+        },
+        {
+          "step": "② 模拟倾听",
+          "action": "学 Bella 把手放在耳朵边，安静 3 秒，等孩子猜",
+          "en": "Shhh... listen carefully. What's that noise?",
+          "zh": "嘘……仔细听。那是什么声音？",
+          "note": "孩子猜不出来很正常，悬念留到下一页揭晓"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "field",
+          "ipa": "/fiːld/",
+          "cn": "田野"
+        },
+        {
+          "w": "spring",
+          "ipa": "/sprɪŋ/",
+          "cn": "春天"
+        },
+        {
+          "w": "noise",
+          "ipa": "/nɔɪz/",
+          "cn": "响声"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "Oh! Frogs! The frogs are sleeping and snoring!",
+          "zh": "青蛙！青蛙们在睡觉打呼噜！"
+        },
+        {
+          "en": "How many frogs do you see? Let's count... 1, 2, 3, 4.",
+          "zh": "你看到几只？来数……1、2、3、4。"
+        },
+        {
+          "en": "Who's hiding in the tree? Yes, it's a slug.",
+          "zh": "树里藏着谁？对，是鼻涕虫。"
+        },
+        {
+          "en": "Wake up, frogs! It's spring!",
+          "zh": "醒醒，青蛙们！春天来啦！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 数数互动",
+          "action": "指着叶子上、水边每一只青蛙，和孩子一起数",
+          "en": "How many frogs? Let's count... 1, 2, 3, 4!",
+          "zh": "几只青蛙？来数……1、2、3、4！",
+          "note": "数完可以问：Why aren't they on the lilypads? 引发思考"
+        },
+        {
+          "step": "② 找隐藏角色",
+          "action": "指向树洞，让孩子猜是谁，揭晓 slug 时可以装惊讶",
+          "en": "Who's hiding in the tree? Yes, it's a slug! He looks sleepy too.",
+          "zh": "谁躲在树里？对，是鼻涕虫！它看起来也困困的。",
+          "note": "slug 不常见，中文说「鼻涕虫/蛞蝓」即可，不必深究"
+        },
+        {
+          "step": "③ 喊醒青蛙",
+          "action": "音量逐渐加大，第三遍最大声，带动孩子一起喊",
+          "en": "Wake up, frogs! It's spring!",
+          "zh": "醒醒，青蛙们！春天来啦！",
+          "note": "配合拍书页或拍腿，增加节奏感"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "frog",
+          "ipa": "/frɒɡ/",
+          "cn": "青蛙"
+        },
+        {
+          "w": "snoring",
+          "ipa": "/ˈsnɔːrɪŋ/",
+          "cn": "打呼噜"
+        },
+        {
+          "w": "spring",
+          "ipa": "/sprɪŋ/",
+          "cn": "春天"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "Uh oh. They don't wake up. Maybe they didn't hear us.",
+          "zh": "糟了，它们醒不过来，也许没听见。"
+        },
+        {
+          "en": "Let's try again... louder this time. Wake up, frogs!!",
+          "zh": "再试一次，这次更大声！"
+        },
+        {
+          "en": "Oh! Now Ducky hears something. What's that noise!",
+          "zh": "Ducky 也听到了什么。那是什么声音！"
+        },
+        {
+          "en": "Whose tail is that? No... it's Jojo's tail.",
+          "zh": "那是谁的尾巴？不……是 Jojo 的。"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 加大音量",
+          "action": "第一遍正常，第二遍明显更大，让孩子感受语气变化",
+          "en": "They don't wake up. Let's try again... LOUDER! Wake up, frogs!!",
+          "zh": "叫不醒。再试一次……更大声！醒醒，青蛙们！！",
+          "note": "可以解释：Maybe they didn't hear us — 教「没听见」的表达"
+        },
+        {
+          "step": "② 转移注意力",
+          "action": "看 Ducky 捂耳朵的动作，再指向画面边缘的紫色尾巴",
+          "en": "What's that noise? Whose tail is that? It's Jojo's tail!",
+          "zh": "什么声音？谁的尾巴？是 Jojo 的！",
+          "note": "顺势说 Let's follow Jojo —— 为翻页做铺垫"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "wake up",
+          "ipa": "/weɪk ʌp/",
+          "cn": "醒来"
+        },
+        {
+          "w": "louder",
+          "ipa": "/ˈlaʊdə(r)/",
+          "cn": "更大声"
+        },
+        {
+          "w": "tail",
+          "ipa": "/teɪl/",
+          "cn": "尾巴"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "What are those!? Are those cats? No. They are hedgehogs.",
+          "zh": "那些是什么？是猫吗？不，是刺猬。"
+        },
+        {
+          "en": "Do you think they're cute? I'm going to pet one... ouch! They're prickly!",
+          "zh": "可爱吗？我要摸……哎哟！好扎！"
+        },
+        {
+          "en": "Wake up, hedgehogs! It's spring!",
+          "zh": "醒醒，刺猬们！春天来啦！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 猜谜揭晓",
+          "action": "遮住文字，只指画面让孩子猜是什么动物，猜完再读 hedgehog",
+          "en": "Are those cats? No... they are hedgehogs!",
+          "zh": "是猫吗？不……是刺猬！",
+          "note": "hedgehog 是本书新词，猜谜方式记忆更深"
+        },
+        {
+          "step": "② 体感 prickly",
+          "action": "假装伸手摸刺猬，突然缩手说 ouch，表情夸张",
+          "en": "I'm going to pet one... OUCH! They're prickly!",
+          "zh": "我要摸一下……哎哟！好扎人！",
+          "note": "prickly 比 cute 更值得讲，用动作比翻译更有效"
+        },
+        {
+          "step": "③ 喊醒刺猬",
+          "action": "和喊青蛙一样，带孩喊 Wake up, hedgehogs!",
+          "en": "Wake up, hedgehogs! It's spring!",
+          "zh": "醒醒，刺猬们！春天来啦！",
+          "note": "预判：刺猬也不会醒，可以问孩子 Why not?"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "hedgehog",
+          "ipa": "/ˈhedʒhɒɡ/",
+          "cn": "刺猬"
+        },
+        {
+          "w": "prickly",
+          "ipa": "/ˈprɪkli/",
+          "cn": "扎人的"
+        },
+        {
+          "w": "pet",
+          "ipa": "/pet/",
+          "cn": "抚摸"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "Let's sound like cats. Meow... wake up hedgehogs!!!",
+          "zh": "学猫叫。喵喵……醒醒刺猬们！！！"
+        },
+        {
+          "en": "They're sleeping so hard in their little holes under the tree.",
+          "zh": "它们在树下的洞里睡得好沉。"
+        },
+        {
+          "en": "Can you find all the mushrooms? Oh! Bella hears something else!",
+          "zh": "找到所有蘑菇了吗？Bella 又听到了什么！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 学猫叫",
+          "action": "先示范 meow，让孩子跟读，再对着书页喊 wake up",
+          "en": "Meow... meow... wake up, hedgehogs!!!",
+          "zh": "喵喵……醒醒，刺猬们！！！",
+          "note": "学动物叫降低开口压力，孩子更愿意参与"
+        },
+        {
+          "step": "② 找蘑菇",
+          "action": "在纸质书上圈出所有蘑菇，数完再继续",
+          "en": "Can you find all the mushrooms? How many?",
+          "zh": "找到所有蘑菇了吗？有几个？",
+          "note": "找物游戏让页面「活」起来，别一直线性读"
+        },
+        {
+          "step": "③ 再次倾听",
+          "action": "Bella 侧耳时暂停，问孩子 What does Bella hear?",
+          "en": "Oh! Bella hears something else! What's that noise?",
+          "zh": "Bella 又听到了什么！那是什么声音？",
+          "note": "第三次「What's that noise」——可以问孩子发现规律了吗"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "meow",
+          "ipa": "/mjaʊ/",
+          "cn": "喵"
+        },
+        {
+          "w": "mushroom",
+          "ipa": "/ˈmʌʃrʊm/",
+          "cn": "蘑菇"
+        },
+        {
+          "w": "hole",
+          "ipa": "/həʊl/",
+          "cn": "洞"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "Oooooh! Sssssssssssnakes!!!",
+          "zh": "蛇！！！"
+        },
+        {
+          "en": "I see colorful snakes — purple, green, yellow, and blue.",
+          "zh": "彩色蛇——紫、绿、黄、蓝。"
+        },
+        {
+          "en": "What do snakes sound like? Ssssss... Wake up, snakes! It's spring!",
+          "zh": "蛇怎么叫？嘶嘶嘶……醒醒，蛇们！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 颜色认知",
+          "action": "逐条指蛇，问 What color is this one? 孩子答完再确认",
+          "en": "Purple snake... green, yellow, and blue! Do you like snakes?",
+          "zh": "紫色的……还有绿、黄、蓝！你喜欢蛇吗？",
+          "note": "怕蛇的孩子可以说 Me too, a little nervous — 共情很重要"
+        },
+        {
+          "step": "② 发蛇声",
+          "action": "拉长音 Ssssss，让孩子用食指做蛇游走动作",
+          "en": "What do snakes sound like? Ssssss... yeah!",
+          "zh": "蛇怎么叫？嘶——嘶——对！",
+          "note": "声音 + 动作双通道，比单纯读词记得牢"
+        },
+        {
+          "step": "③ 帮 Bella 喊",
+          "action": "说 Let's help Bella —— 赋予孩子「帮忙者」角色",
+          "en": "Let's help Bella! Wake up, snakes! It's spring!",
+          "zh": "帮 Bella 一起喊！醒醒，蛇们！春天来啦！",
+          "note": "蛇依然不会醒，为下一页学 bear 叫铺垫"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "snake",
+          "ipa": "/sneɪk/",
+          "cn": "蛇"
+        },
+        {
+          "w": "colorful",
+          "ipa": "/ˈkʌləfl/",
+          "cn": "彩色的"
+        },
+        {
+          "w": "nervous",
+          "ipa": "/ˈnɜːvəs/",
+          "cn": "紧张"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "Let's sound like a bear! Grrrr! Wake up, snakes!!!",
+          "zh": "学熊叫。吼！醒醒，蛇们！！！"
+        },
+        {
+          "en": "Does Bella look happy? No, she looks a little sad.",
+          "zh": "Bella 开心吗？不，她有点难过。"
+        },
+        {
+          "en": "Gyuri! Help us!!!!",
+          "zh": "Gyuri！帮帮我们！！！！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 学熊叫",
+          "action": "双手举高做爪子，发出 Grrrr! 尽量低沉",
+          "en": "Grrrr! Wake up, snakes!!!",
+          "zh": "吼！醒醒，蛇们！！！",
+          "note": "三种叫声对比：meow → grrrr，问孩子哪个更大声"
+        },
+        {
+          "step": "② 情绪识别",
+          "action": "指着 Bella 的脸，问 happy or sad，让孩子说 Why",
+          "en": "Does Bella look happy? Why is she sad?",
+          "zh": "Bella 开心吗？她为什么难过？",
+          "note": "因为动物 won't wake up —— 培养共情，不只练英语"
+        },
+        {
+          "step": "③ 呼叫英雄",
+          "action": "喊两遍 Gyuri! Help us! 第二遍更大，像真的在求救",
+          "en": "Who can help? GYURI the SUPERHERO! Gyuri! Help us!!!!",
+          "zh": "谁能帮忙？超级英雄 Gyuri！Gyuri！帮帮我们！",
+          "note": "喊完立刻翻页，Gyuri 出场是全书高潮"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "grrr",
+          "ipa": "/ɡr/",
+          "cn": "吼（熊叫）"
+        },
+        {
+          "w": "sad",
+          "ipa": "/sæd/",
+          "cn": "难过"
+        },
+        {
+          "w": "help",
+          "ipa": "/help/",
+          "cn": "帮忙"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "Here comes Gyuri! He's flying through the air!",
+          "zh": "Gyuri 来啦！他在飞！"
+        },
+        {
+          "en": "His antlers are glowing! His red cape is so cool!",
+          "zh": "角在发光！红披风好酷！"
+        },
+        {
+          "en": "But where's Ducky? No. That's just a little ant.",
+          "zh": "Ducky 在哪？不，那只是小蚂蚁。"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 英雄登场",
+          "action": "语气兴奋，可以用手比划 Gyuri 飞行的弧线",
+          "en": "Here comes Gyuri the Superhero! He's flying!",
+          "zh": "超级英雄 Gyuri 来啦！他在飞！",
+          "note": "问 Do you want to put on a cape too? 孩子通常会点头"
+        },
+        {
+          "step": "② 细节观察",
+          "action": "指 antlers 和 cape，让孩子找 glowing 的部分",
+          "en": "His antlers are glowing! His red cape is so cool!",
+          "zh": "角在发光！红披风好酷！",
+          "note": "glow 是本书关键词，可以关灯用手电筒演示 glowing"
+        },
+        {
+          "step": "③ 找 Ducky",
+          "action": "在页面右下角找，故意指蚂蚁问 Is this Ducky?",
+          "en": "Where's Ducky? Is this Ducky? No... that's just a little ant!",
+          "zh": "Ducky 在哪？这是 Ducky 吗？不……只是小蚂蚁！",
+          "note": "小误会制造笑点，缓解前面连续叫不醒的挫败感"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "superhero",
+          "ipa": "/ˈsuːpəhɪərəʊ/",
+          "cn": "超级英雄"
+        },
+        {
+          "w": "cape",
+          "ipa": "/keɪp/",
+          "cn": "披风"
+        },
+        {
+          "w": "glow",
+          "ipa": "/ɡləʊ/",
+          "cn": "发光"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Gyuri tickles the frog's nose! Tickle, tickle, tickle!",
+          "zh": "Gyuri 挠青蛙鼻子！挠挠挠！"
+        },
+        {
+          "en": "Gyuri taps the hedgehog's back! Tap, tap, tap!",
+          "zh": "Gyuri 拍刺猬的背！拍拍拍！"
+        },
+        {
+          "en": "Gyuri shakes the snake awake! Shake, shake, shake!",
+          "zh": "Gyuri 摇醒蛇！摇摇摇！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 挠青蛙 tickle",
+          "action": "用指尖在孩子手心轻挠，说 tickle tickle，然后指青蛙",
+          "en": "Tickle, tickle, tickle! Wake up, frog! He's awake!",
+          "zh": "挠挠挠！醒醒，青蛙！他醒啦！",
+          "note": "第一个成功的 wake up，语气要 celebratory"
+        },
+        {
+          "step": "② 拍刺猬 tap",
+          "action": "轻轻拍孩子后背三下，说 tap tap tap，提醒 prickly 不能真摸",
+          "en": "Tap, tap, tap! Be careful — the hedgehog is prickly!",
+          "zh": "拍拍拍！小心——刺猬会扎人！",
+          "note": "回顾 prickly，形成前后呼应"
+        },
+        {
+          "step": "③ 摇蛇 shake",
+          "action": "握着孩子手腕轻轻左右摇，说 shake shake shake",
+          "en": "Shake, shake, shake! Wake up, snake! Tickle, tap, shake!",
+          "zh": "摇摇摇！醒醒，蛇！挠、拍、摇！",
+          "note": "三个动词是本页核心，读完可以玩「妈妈说动作孩子做」"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "tickle",
+          "ipa": "/ˈtɪkl/",
+          "cn": "挠痒痒"
+        },
+        {
+          "w": "tap",
+          "ipa": "/tæp/",
+          "cn": "轻拍"
+        },
+        {
+          "w": "shake",
+          "ipa": "/ʃeɪk/",
+          "cn": "摇晃"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "Look! The animals are all awake!",
+          "zh": "看！动物们都醒啦！"
+        },
+        {
+          "en": "Can you find the frog? The snake? The hedgehog?",
+          "zh": "找到青蛙、蛇和刺猬了吗？"
+        },
+        {
+          "en": "Uh oh... it's a BEAR! He looks really grumpy! Quick! Close the book!",
+          "zh": "天哪……是熊！好生气！快！合上书！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 找一找",
+          "action": "快速在纸质书上点 frog、snake、hedgehog，找完击掌",
+          "en": "Can you find the frog? The snake? The hedgehog? Yes!",
+          "zh": "找到青蛙了吗？蛇呢？刺猬呢？对！",
+          "note": "回顾全书三种动物，有「毕业感」"
+        },
+        {
+          "step": "② 惊喜结尾",
+          "action": "看到 bear 时突然压低声音，然后快速合上书",
+          "en": "Uh oh... it's a BEAR! Goodbye bear! Quick quick! Close the book!",
+          "zh": "天哪……是熊！再见熊！快快快！合上书！",
+          "note": "结尾越快越好，留下回味；下次读孩子会期待这个环节"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "awake",
+          "ipa": "/əˈweɪk/",
+          "cn": "醒着的"
+        },
+        {
+          "w": "grumpy",
+          "ipa": "/ˈɡrʌmpi/",
+          "cn": "脾气坏的"
+        },
+        {
+          "w": "goodbye",
+          "ipa": "/ˌɡʊdˈbaɪ/",
+          "cn": "再见"
+        }
+      ]
+    }
+  ]
+}

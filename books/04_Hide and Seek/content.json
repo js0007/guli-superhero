@@ -1,0 +1,848 @@
+{
+  "book": "Hide and Seek",
+  "folder": "04_Hide and Seek",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "Who do you see?",
+          "zh": "你看到谁了？"
+        },
+        {
+          "en": "I see Leo, Jojo, and Bella!",
+          "zh": "我看到里奥、乔乔和贝拉！"
+        },
+        {
+          "en": "Can you say hi?",
+          "zh": "你能打个招呼吗？"
+        },
+        {
+          "en": "Hi, everyone!",
+          "zh": "大家好！"
+        },
+        {
+          "en": "Wow!",
+          "zh": "哇！"
+        },
+        {
+          "en": "What a beautiful day to play outside!",
+          "zh": "出去玩真是美好的一天！"
+        },
+        {
+          "en": "Leo has a really good idea.",
+          "zh": "利奥有一个非常好的主意。"
+        },
+        {
+          "en": "He wants to play hide-and-seek.",
+          "zh": "他想玩捉迷藏。"
+        },
+        {
+          "en": "I love playing hide-and-seek.",
+          "zh": "我喜欢玩捉迷藏。"
+        },
+        {
+          "en": "What about you?",
+          "zh": "你呢？"
+        },
+        {
+          "en": "Leo says he wants to hide, and the others can seek.",
+          "zh": "利奥说他想躲起来，其他人可以寻找。"
+        },
+        {
+          "en": "Where do you think Leo should hide first?",
+          "zh": "你认为狮子座应该先躲到哪里？"
+        },
+        {
+          "en": "Hm, let's see!",
+          "zh": "嗯，让我们看看！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 认识伙伴",
+          "action": "指着纸质书上Bella、Jojo、Leo，让孩子认一认谁是谁，再点「整页原音」",
+          "en": "I see Leo, Jojo, and Bella!",
+          "zh": "我看到里奥、乔乔和贝拉！",
+          "note": "角色名不用一次讲完，熟悉感会贯穿全系列"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Who do you see?",
+          "zh": "你看到谁了？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Hi, everyone!",
+          "zh": "大家好！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "Leo"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "First, Leo runs to the...what's this place?",
+          "zh": "首先，Leo跑到……这是什么地方？"
+        },
+        {
+          "en": "Is there a fire truck?",
+          "zh": "有消防车吗？"
+        },
+        {
+          "en": "Is that the fire station?",
+          "zh": "那是消防局吗？"
+        },
+        {
+          "en": "No, there are some animals there.",
+          "zh": "不，那里有一些动物。"
+        },
+        {
+          "en": "Tigers?",
+          "zh": "老虎？"
+        },
+        {
+          "en": "No, they're just dogs.",
+          "zh": "不，他们只是狗。"
+        },
+        {
+          "en": "It's the pet shop!",
+          "zh": "这是宠物店！"
+        },
+        {
+          "en": "Do you think they look friendly?",
+          "zh": "你觉得他们看起来友善吗？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Do you think they look friendly?",
+          "zh": "你觉得他们看起来友善吗？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "First, Leo runs to the...what's this place?",
+          "zh": "首先，Leo跑到……这是什么地方？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "It's the pet shop!",
+          "zh": "这是宠物店！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "first",
+          "ipa": "",
+          "cn": "第一的"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "Leo"
+        },
+        {
+          "w": "runs",
+          "ipa": "",
+          "cn": "运行"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！"
+        },
+        {
+          "en": "What happens when Leo opens the door?",
+          "zh": "当狮子座打开门时会发生什么？"
+        },
+        {
+          "en": "Woof!",
+          "zh": "纬！"
+        },
+        {
+          "en": "Woof!",
+          "zh": "纬！"
+        },
+        {
+          "en": "The dog barks at him!",
+          "zh": "狗对着他狂吠！"
+        },
+        {
+          "en": "That dog doesn't look friendly at all!",
+          "zh": "那狗看起来一点也不友好！"
+        },
+        {
+          "en": "I think Leo should probably choose a different place to hide.",
+          "zh": "我认为Leo或许应该选择一个不同的地方来隐藏。"
+        },
+        {
+          "en": "Where can he go?!",
+          "zh": "他能去哪里？！"
+        },
+        {
+          "en": "Look!",
+          "zh": "看！"
+        },
+        {
+          "en": "There's a fire truck!",
+          "zh": "有消防车！"
+        },
+        {
+          "en": "That must be the fire station.",
+          "zh": "那一定是消防局。"
+        },
+        {
+          "en": "I'm sure that will be a good place to hide!",
+          "zh": "我确信那将是一个隐藏的好地方！"
+        },
+        {
+          "en": "Run, Leo, run!",
+          "zh": "跑吧，狮子座，跑吧！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "That dog doesn't look friendly at all!",
+          "zh": "那狗看起来一点也不友好！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "What happens when Leo opens the door?",
+          "zh": "当狮子座打开门时会发生什么？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "happens",
+          "ipa": "",
+          "cn": "发生"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "Leo"
+        },
+        {
+          "w": "opens",
+          "ipa": "",
+          "cn": "打开"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "Woo ooo woo ooo! uh oh!",
+          "zh": "呜呜呜呜！呃哦！"
+        },
+        {
+          "en": "Here come the firemen!",
+          "zh": "消防员来了！"
+        },
+        {
+          "en": "There must be a fire somewhere!",
+          "zh": "一定是某个地方着火了！"
+        },
+        {
+          "en": "It's an emergency!",
+          "zh": "是紧急状况！"
+        },
+        {
+          "en": "Leo needs to stay out of their way.",
+          "zh": "狮子座需要远离他们。"
+        },
+        {
+          "en": "The fire station isn't a good place to hide right now.",
+          "zh": "消防局现在不是一个躲藏的好地方。"
+        },
+        {
+          "en": "Quick, Leo!",
+          "zh": "快点，利奥！"
+        },
+        {
+          "en": "Find somewhere else to hide!",
+          "zh": "赶紧找个地方躲起来吧！"
+        },
+        {
+          "en": "The playground is right over there!",
+          "zh": "游乐场就在那边！"
+        },
+        {
+          "en": "Go go go!",
+          "zh": "去！去！去！"
+        },
+        {
+          "en": "Find a good spot where Bella and Jojo can't find you!",
+          "zh": "找到一个贝拉和乔乔找不到你的好地方！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出游乐场设施，让孩子找全、找齐再往下讲",
+          "en": "Find somewhere else to hide!",
+          "zh": "赶紧找个地方躲起来吧！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 躲猫猫",
+          "action": "用手遮住一部分画面，让孩子猜谁藏在哪里，揭晓时夸张一点",
+          "en": "Find a good spot where Bella and Jojo can't find you!",
+          "zh": "找到一个贝拉和乔乔找不到你的好地方！",
+          "note": "悬念感是这册的核心玩法，别急着揭晓答案"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Woo ooo woo ooo! uh oh!",
+          "zh": "呜呜呜呜！呃哦！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "woo",
+          "ipa": "",
+          "cn": "呜"
+        },
+        {
+          "w": "ooo",
+          "ipa": "",
+          "cn": "哦哦"
+        },
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "这里"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "Bella and Jojo say:\"Ready or not! Here we come! \" First, they look in the pet shop.",
+          "zh": "贝拉和乔乔说：“不管准备好没有！我们来了！”首先，他们去了宠物店。"
+        },
+        {
+          "en": "Is Leo there?",
+          "zh": "利奥在吗？"
+        },
+        {
+          "en": "No.",
+          "zh": "不。"
+        },
+        {
+          "en": "Just a grumpy dog.",
+          "zh": "只是一只脾气暴躁的狗。"
+        },
+        {
+          "en": "Woof, woof!",
+          "zh": "汪汪汪！"
+        },
+        {
+          "en": "Then they look in the fire station.",
+          "zh": "然后他们查看消防局。"
+        },
+        {
+          "en": "Is Leo there?",
+          "zh": "利奥在吗？"
+        },
+        {
+          "en": "No.",
+          "zh": "不。"
+        },
+        {
+          "en": "Nobody is there.",
+          "zh": "没有人在那里。"
+        },
+        {
+          "en": "Where could Leo be?",
+          "zh": "利奥可能在哪里？"
+        },
+        {
+          "en": "Let's give Bella and Jojo a clue:\"Hey, Jojo and Bella! I think I saw Leo run to the playground! \"",
+          "zh": "让我们给贝拉和乔乔一个线索：“嘿，乔乔和贝拉！我想我看到里奥跑到操场了！”"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出游乐场设施，让孩子找全、找齐再往下讲",
+          "en": "Bella and Jojo say:\"Ready or not! Here we come! \" First, they look in the pet shop.",
+          "zh": "贝拉和乔乔说：“不管准备好没有！我们来了！”首先，他们去了宠物店。",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着游乐场设施提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Is Leo there?",
+          "zh": "利奥在吗？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 一起做",
+          "action": "妈妈说 Let's...，带孩子完整做一遍动作或跟读整句",
+          "en": "Let's give Bella and Jojo a clue:\"Hey, Jojo and Bella! I think I saw Leo run to the playground! \"",
+          "zh": "让我们给贝拉和乔乔一个线索：“嘿，乔乔和贝拉！我想我看到里奥跑到操场了！”",
+          "note": "「一起做」比「听我讲」更能留住注意力"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "ready",
+          "ipa": "",
+          "cn": "准备好了"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "Bella checks the stairs and the rocking horses, but no leo.",
+          "zh": "贝拉检查了楼梯和摇马，但没有检查利奥。"
+        },
+        {
+          "en": "Leo is a very good hider!",
+          "zh": "狮子座是一个非常好的隐藏者！"
+        },
+        {
+          "en": "Where do you think he's hiding?",
+          "zh": "你认为他藏在哪里？"
+        },
+        {
+          "en": "Hm...look!",
+          "zh": "嗯……看！"
+        },
+        {
+          "en": "There's a big bump in the slide!",
+          "zh": "幻灯片上有一个大凸起！"
+        },
+        {
+          "en": "That's strange.",
+          "zh": "这很奇怪。"
+        },
+        {
+          "en": "What do you think Jojo will see if he looks in the tube?",
+          "zh": "如果乔乔往管子里看，你认为他会看到什么？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Where do you think he's hiding?",
+          "zh": "你认为他藏在哪里？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Leo is a very good hider!",
+          "zh": "狮子座是一个非常好的隐藏者！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "What do you think Jojo will see if he looks in the tube?",
+          "zh": "如果乔乔往管子里看，你认为他会看到什么？",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        },
+        {
+          "w": "checks",
+          "ipa": "",
+          "cn": "检查"
+        },
+        {
+          "w": "stairs",
+          "ipa": "",
+          "cn": "楼梯"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "It's Leo!",
+          "zh": "是利奥！"
+        },
+        {
+          "en": "He's in the slide!!!",
+          "zh": "他在幻灯片里！！！"
+        },
+        {
+          "en": "Bella and Jojo found him!",
+          "zh": "贝拉和乔乔找到了他！"
+        },
+        {
+          "en": "Oh no!",
+          "zh": "哦不！"
+        },
+        {
+          "en": "Leo can't come out...he's STUCK!",
+          "zh": "Leo出不来……他被困住了！"
+        },
+        {
+          "en": "Leo looks so nervous.",
+          "zh": "狮子座看起来很紧张。"
+        },
+        {
+          "en": "It's ok, Leo.",
+          "zh": "没关系，利奥。"
+        },
+        {
+          "en": "Please stay calm.",
+          "zh": "请保持冷静。"
+        },
+        {
+          "en": "We know who can help!",
+          "zh": "我们知道谁可以提供帮助！"
+        },
+        {
+          "en": "We need to call Gyuri!",
+          "zh": "我们需要给久里打电话！"
+        },
+        {
+          "en": "Shout for Gyuri on 3!1, 2, 3...",
+          "zh": "在3!1、2、3上为Gyuri呐喊……"
+        },
+        {
+          "en": "\"Gyuri! Help! Leo is stuck!!! \"",
+          "zh": "“Gyuri！救命！Leo被卡住了！！！”"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 数数互动",
+          "action": "指着纸质书上的画面细节，和孩子一起大声数，数完击掌庆祝",
+          "en": "Shout for Gyuri on 3!1, 2, 3...",
+          "zh": "在3!1、2、3上为Gyuri呐喊……",
+          "note": "数错不要紧，重点是开口跟节奏；可以中英文混着说数字"
+        },
+        {
+          "step": "② 情绪共鸣",
+          "action": "指着Bella、Jojo的表情，问 happy 还是 sad，让孩子说说为什么",
+          "en": "Leo looks so nervous.",
+          "zh": "狮子座看起来很紧张。",
+          "note": "情绪词用表情比划比翻译更有效，允许孩子用中文回答"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "It's Leo!",
+          "zh": "是利奥！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "它是"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "Leo"
+        },
+        {
+          "w": "he's",
+          "ipa": "",
+          "cn": "他是"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "Here he comes!",
+          "zh": "他来了！"
+        },
+        {
+          "en": "It's Gyuri the Superhero!",
+          "zh": "这是超级英雄久里！"
+        },
+        {
+          "en": "He'll know what to do!",
+          "zh": "他会知道该怎么做！"
+        },
+        {
+          "en": "Quick!",
+          "zh": "快的！"
+        },
+        {
+          "en": "Let's put on our cape, too!",
+          "zh": "我们也穿上斗篷吧！"
+        },
+        {
+          "en": "Then we can help Gyuri get Leo out!",
+          "zh": "然后我们就可以帮助久里把利奥救出来！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Let's put on our cape, too!",
+          "zh": "我们也穿上斗篷吧！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 勇气时刻",
+          "action": "语气变得紧张又期待，问孩子害不害怕、要不要帮忙",
+          "en": "Here he comes!",
+          "zh": "他来了！",
+          "note": "共情比练句型重要——怕就说 Me too, a little scared"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "It's Gyuri the Superhero!",
+          "zh": "这是超级英雄久里！",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "这里"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "来了"
+        },
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "它是"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Gyuri jumps into the tube and climbs up to where Leo is stuck.",
+          "zh": "久里跳进管子，爬到里奥被卡住的地方。"
+        },
+        {
+          "en": "He takes a deep, deep breath.",
+          "zh": "他深吸了一口气。"
+        },
+        {
+          "en": "Can you take a deep breath, too?",
+          "zh": "你也能深呼吸吗？"
+        },
+        {
+          "en": "And he blows, blows, blows Leo out of the tube with a big pop!",
+          "zh": "他用力吹、吹、用力把Leo从管子里吹出来！"
+        },
+        {
+          "en": "Can you do it, too?",
+          "zh": "你也能做到吗？"
+        },
+        {
+          "en": "POP!",
+          "zh": "流行音乐！"
+        },
+        {
+          "en": "Leo goes flying into the air!",
+          "zh": "利奥飞向空中！"
+        },
+        {
+          "en": "I hope he lands on some soft grass!",
+          "zh": "我希望他能降落在柔软的草地上！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Gyuri jumps into the tube and climbs up to where Leo is stuck.",
+          "zh": "久里跳进管子，爬到里奥被卡住的地方。",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Can you take a deep breath, too?",
+          "zh": "你也能深呼吸吗？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "And he blows, blows, blows Leo out of the tube with a big pop!",
+          "zh": "他用力吹、吹、用力把Leo从管子里吹出来！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        },
+        {
+          "w": "jumps",
+          "ipa": "",
+          "cn": "跳跃"
+        },
+        {
+          "w": "into",
+          "ipa": "",
+          "cn": "进入"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "Hooray!",
+          "zh": "万岁！"
+        },
+        {
+          "en": "Gyuri saved Leo!",
+          "zh": "久里救了里奥！"
+        },
+        {
+          "en": "Leo looks tired.",
+          "zh": "狮子座看起来很累。"
+        },
+        {
+          "en": "Can you ask Leo if he's ok?",
+          "zh": "你能问问Leo他还好吗？"
+        },
+        {
+          "en": "\"Leo, are ok? Did you get hurt? \" I think Leo is ok.",
+          "zh": "“Leo，还好吗？你受伤了吗？”我想Leo还好。"
+        },
+        {
+          "en": "Jojo stands on his hands and bella dances around...they're so happy!",
+          "zh": "乔乔倒立，贝拉在周围跳舞……他们太幸福了！"
+        },
+        {
+          "en": "Let's all say: \"Thank you, Gyuri!! \" Now, do you want to play hide-and- seek, too?",
+          "zh": "让我们一起说：“谢谢你，久里！！”现在，你也想玩捉迷藏吗？"
+        },
+        {
+          "en": "Yeah, that sounds like fun!",
+          "zh": "是的，听起来很有趣！"
+        },
+        {
+          "en": "Let's go!",
+          "zh": "我们走吧！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Can you ask Leo if he's ok?",
+          "zh": "你能问问Leo他还好吗？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 情绪共鸣",
+          "action": "指着Bella、Jojo的表情，问 happy 还是 sad，让孩子说说为什么",
+          "en": "Jojo stands on his hands and bella dances around...they're so happy!",
+          "zh": "乔乔倒立，贝拉在周围跳舞……他们太幸福了！",
+          "note": "情绪词用表情比划比翻译更有效，允许孩子用中文回答"
+        },
+        {
+          "step": "③ 一起做",
+          "action": "妈妈说 Let's...，带孩子完整做一遍动作或跟读整句",
+          "en": "Let's go!",
+          "zh": "我们走吧！",
+          "note": "「一起做」比「听我讲」更能留住注意力"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "hooray",
+          "ipa": "",
+          "cn": "万岁"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        },
+        {
+          "w": "saved",
+          "ipa": "",
+          "cn": "已保存"
+        }
+      ]
+    }
+  ]
+}
