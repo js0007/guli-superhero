@@ -1,0 +1,616 @@
+{
+  "book": "Scrub,Scrub,Scrub",
+  "folder": "03_Scrub,Scrub,Scrub",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "It's Bella and Ducky!",
+          "zh": ""
+        },
+        {
+          "en": "Where are they?",
+          "zh": ""
+        },
+        {
+          "en": "Are they in the kitchen?",
+          "zh": ""
+        },
+        {
+          "en": "No.",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "It's Bella and Ducky!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Where are they?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "It looks like they're going to have a bath!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "it's"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        },
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "ducky"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "Can you find Bella's ears?",
+          "zh": ""
+        },
+        {
+          "en": "Yes, there they are!",
+          "zh": ""
+        },
+        {
+          "en": "Scrub, scrub, scrub!",
+          "zh": ""
+        },
+        {
+          "en": "Can you find Ducky's ears?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Can you find Bella's ears?",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you find Bella's ears?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "It's squishy!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "find",
+          "ipa": "",
+          "cn": "find"
+        },
+        {
+          "w": "bella's",
+          "ipa": "",
+          "cn": "bella's"
+        },
+        {
+          "w": "ears",
+          "ipa": "",
+          "cn": "ears"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "Can you wipe the bubbles off of Bella's face to find her little nose?",
+          "zh": ""
+        },
+        {
+          "en": "There it is!",
+          "zh": ""
+        },
+        {
+          "en": "Where's the purple bucket?",
+          "zh": ""
+        },
+        {
+          "en": "There's water in it!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Can you wipe the bubbles off of Bella's face to find her little nose?",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you wipe the bubbles off of Bella's face to find her little nose?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "We can use the sponge to clean",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "wipe",
+          "ipa": "",
+          "cn": "wipe"
+        },
+        {
+          "w": "bubbles",
+          "ipa": "",
+          "cn": "bubbles"
+        },
+        {
+          "w": "off",
+          "ipa": "",
+          "cn": "off"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "SCRUE Where are Bella's feet?",
+          "zh": ""
+        },
+        {
+          "en": "There they are!1, 2...2 feet!",
+          "zh": ""
+        },
+        {
+          "en": "How many toes does she have?1, 2, 3, 4, 5, 6...she has 6 toes!",
+          "zh": ""
+        },
+        {
+          "en": "What about you?1-10.",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "SCRUE Where are Bella's feet?",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "SCRUE Where are Bella's feet?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Wiggle, wiggle,",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "scrue",
+          "ipa": "",
+          "cn": "scrue"
+        },
+        {
+          "w": "bella's",
+          "ipa": "",
+          "cn": "bella's"
+        },
+        {
+          "w": "feet",
+          "ipa": "",
+          "cn": "feet"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "Can you touch Bella's tummy?",
+          "zh": ""
+        },
+        {
+          "en": "Good!",
+          "zh": ""
+        },
+        {
+          "en": "Where's your tummy?",
+          "zh": ""
+        },
+        {
+          "en": "Yeah...",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Can you touch Bella's tummy?",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you touch Bella's tummy?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Let's splash some water on",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "touch",
+          "ipa": "",
+          "cn": "touch"
+        },
+        {
+          "w": "bella's",
+          "ipa": "",
+          "cn": "bella's"
+        },
+        {
+          "w": "tummy",
+          "ipa": "",
+          "cn": "tummy"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "SCRUEOh!",
+          "zh": ""
+        },
+        {
+          "en": "Bella has a squirt gun.",
+          "zh": ""
+        },
+        {
+          "en": "Can you pretend you have one too?",
+          "zh": ""
+        },
+        {
+          "en": "Let's squirt the rubber ducky.",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "SCRUEOh!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you pretend you have one too?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Oh, there are so many bubbles in the bath, and in the air, and all around!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "scrueoh",
+          "ipa": "",
+          "cn": "scrueoh"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        },
+        {
+          "w": "squirt",
+          "ipa": "",
+          "cn": "squirt"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "Oh no!",
+          "zh": ""
+        },
+        {
+          "en": "There are too many bubbles!",
+          "zh": ""
+        },
+        {
+          "en": "Bella and Ducky can't see each other!",
+          "zh": ""
+        },
+        {
+          "en": "What can they do!?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Oh no!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What can they do!?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Let's help Bella and Ducky call for Gyuri!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "there",
+          "ipa": "",
+          "cn": "there"
+        },
+        {
+          "w": "many",
+          "ipa": "",
+          "cn": "many"
+        },
+        {
+          "w": "bubbles",
+          "ipa": "",
+          "cn": "bubbles"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "Here comes Gyuri!",
+          "zh": ""
+        },
+        {
+          "en": "He's just in time!",
+          "zh": ""
+        },
+        {
+          "en": "Bella, and Ducky, and the bathtub and the walls are covered in bubbles!",
+          "zh": ""
+        },
+        {
+          "en": "What a mess!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Here comes Gyuri!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "He's just in time!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Please help us clean up all the bubbles in the",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "here"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "comes"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "SCRU CRUESCRL Gyuri uses his fingers to pop all the bubbles!",
+          "zh": ""
+        },
+        {
+          "en": "Pop, pop, pop!",
+          "zh": ""
+        },
+        {
+          "en": "Can you help him?",
+          "zh": ""
+        },
+        {
+          "en": "Gyuri uses sponges to clean the bathtub!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "SCRU CRUESCRL Gyuri uses his fingers to pop all the bubbles!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you help him?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "He really is a superhero!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "scru",
+          "ipa": "",
+          "cn": "scru"
+        },
+        {
+          "w": "cruescrl",
+          "ipa": "",
+          "cn": "cruescrl"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "Wow!",
+          "zh": ""
+        },
+        {
+          "en": "Thank you for saving us, Gyuri!",
+          "zh": ""
+        },
+        {
+          "en": "Look, he used the bubbles tomake a Bubble Bella, and a Bubble Ducky!",
+          "zh": ""
+        },
+        {
+          "en": "The next time we have a bath, we can try to make a Bubble You!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Wow!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Thank you for saving us, Gyuri!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "See you next time",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "wow",
+          "ipa": "",
+          "cn": "wow"
+        },
+        {
+          "w": "thank",
+          "ipa": "",
+          "cn": "thank"
+        },
+        {
+          "w": "saving",
+          "ipa": "",
+          "cn": "saving"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "book": "Ready Go",
+  "folder": "06_Ready Go",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "What a beautiful day!",
+          "zh": "多么美好的一天啊！"
+        },
+        {
+          "en": "The weather is perfect for playing in the park!",
+          "zh": "这样的天气最适合去公园玩了！"
+        },
+        {
+          "en": "Jojo is riding his scooter.",
+          "zh": "乔乔骑着他的摩托车。"
+        },
+        {
+          "en": "He's standing on one foot.",
+          "zh": "他用一只脚站立。"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 运动暖场",
+          "action": "指着滑板车，问孩子会不会骑、出门要不要戴头盔，再听「整页原音」",
+          "en": "What a beautiful day!",
+          "zh": "多么美好的一天啊！",
+          "note": "安全提示（头盔、护膝）可以顺带用中文强调一句"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着滑板车，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "The weather is perfect for playing in the park!",
+          "zh": "这样的天气最适合去公园玩了！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Jojo is riding his scooter.",
+          "zh": "乔乔骑着他的摩托车。",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "beautiful",
+          "ipa": "",
+          "cn": "美丽的"
+        },
+        {
+          "w": "day",
+          "ipa": "",
+          "cn": "天"
+        },
+        {
+          "w": "weather",
+          "ipa": "",
+          "cn": "天气"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "Jojo pushes with one foot to go faster and faster.",
+          "zh": "乔乔单脚一推，走得越来越快。"
+        },
+        {
+          "en": "Ducky and Bella are riding a 2-person bike.",
+          "zh": "达基和贝拉骑着一辆两人自行车。"
+        },
+        {
+          "en": "They can both pedal!",
+          "zh": "他们都可以踩踏板！"
+        },
+        {
+          "en": "Their bike also has training wheels.",
+          "zh": "他们的自行车也有辅助轮。"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Jojo pushes with one foot to go faster and faster.",
+          "zh": "乔乔单脚一推，走得越来越快。",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "They can both pedal!",
+          "zh": "他们都可以踩踏板！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Ducky and Bella are riding a 2-person bike.",
+          "zh": "达基和贝拉骑着一辆两人自行车。",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "pushes",
+          "ipa": "",
+          "cn": "推动"
+        },
+        {
+          "w": "with",
+          "ipa": "",
+          "cn": "和"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "GO Oh, wow..",
+          "zh": "哦，哇.."
+        },
+        {
+          "en": "Leo is driving a little car!",
+          "zh": "利奥开着一辆小车！"
+        },
+        {
+          "en": "Wow, cool!",
+          "zh": "哇，酷！"
+        },
+        {
+          "en": "No top!",
+          "zh": "没有顶！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "GO Oh, wow..",
+          "zh": "哦，哇..",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "Leo is driving a little car!",
+          "zh": "利奥开着一辆小车！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Wow, cool!",
+          "zh": "哇，酷！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "wow",
+          "ipa": "",
+          "cn": "哇"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "Leo"
+        },
+        {
+          "w": "driving",
+          "ipa": "",
+          "cn": "驾驶"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "Jojo, Ducky, Bella, and Leo line up.",
+          "zh": "乔乔、达基、贝拉和利奥排队。"
+        },
+        {
+          "en": "It looks like they're ready to race.",
+          "zh": "看起来他们已经准备好参加比赛了。"
+        },
+        {
+          "en": "Ready, set, GO!",
+          "zh": "准备好，出发！"
+        },
+        {
+          "en": "Teeny lowers the flag and they're off!",
+          "zh": "蒂尼降下旗帜，他们出发了！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Jojo, Ducky, Bella, and Leo line up.",
+          "zh": "乔乔、达基、贝拉和利奥排队。",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "Ready, set, GO!",
+          "zh": "准备好，出发！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Teeny lowers the flag and they're off!",
+          "zh": "蒂尼降下旗帜，他们出发了！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "Ducky"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "Zoom!",
+          "zh": "飞涨！"
+        },
+        {
+          "en": "There goes Jojo!",
+          "zh": "乔乔来了！"
+        },
+        {
+          "en": "He's so fast!",
+          "zh": "他太快了！"
+        },
+        {
+          "en": "Zoom!",
+          "zh": "飞涨！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Zoom!",
+          "zh": "飞涨！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "There goes Jojo!",
+          "zh": "乔乔来了！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "He's so fast!",
+          "zh": "他太快了！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "zoom",
+          "ipa": "",
+          "cn": "飞涨"
+        },
+        {
+          "w": "there",
+          "ipa": "",
+          "cn": "那里"
+        },
+        {
+          "w": "goes",
+          "ipa": "",
+          "cn": "去"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "Leo is in the lead.!!",
+          "zh": "狮子座领先！！"
+        },
+        {
+          "en": "It looks like the car is faster than the scooter and the bicycle!",
+          "zh": "看起来汽车比踏板车和自行车都快！"
+        },
+        {
+          "en": "They're all getting closer to the finish line.",
+          "zh": "他们都离终点线越来越近了。"
+        },
+        {
+          "en": "I wonder if Leo will win.",
+          "zh": "我想知道Leo是否会获胜。"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出滑板车，让孩子找全、找齐再往下讲",
+          "en": "Leo is in the lead.!!",
+          "zh": "狮子座领先！！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟着做",
+          "action": "妈妈说 Follow me，带孩子做一步动作（走、跳、停），再对照书页",
+          "en": "I wonder if Leo will win.",
+          "zh": "我想知道Leo是否会获胜。",
+          "note": "全身参与比坐着听记得牢，注意安全别闹太猛"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "It looks like the car is faster than the scooter and the bicycle!",
+          "zh": "看起来汽车比踏板车和自行车都快！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "Leo"
+        },
+        {
+          "w": "lead",
+          "ipa": "",
+          "cn": "带领"
+        },
+        {
+          "w": "looks",
+          "ipa": "",
+          "cn": "看起来"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！"
+        },
+        {
+          "en": "What are those in the middle of the road!",
+          "zh": "路中间那些是什么啊！"
+        },
+        {
+          "en": "Turtles!!",
+          "zh": "海龟！！"
+        },
+        {
+          "en": "They're moving too slowly!",
+          "zh": "他们动作太慢了！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "What are those in the middle of the road!",
+          "zh": "路中间那些是什么啊！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Turtles!!",
+          "zh": "海龟！！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "middle",
+          "ipa": "",
+          "cn": "中间"
+        },
+        {
+          "w": "road",
+          "ipa": "",
+          "cn": "路"
+        },
+        {
+          "w": "turtles",
+          "ipa": "",
+          "cn": "海龟"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "Look!",
+          "zh": "看！"
+        },
+        {
+          "en": "Here comes Gyuri, but he isn't flying this time!",
+          "zh": "久里来了，但这次他没有飞！"
+        },
+        {
+          "en": "He's riding a really cool motorcycle!",
+          "zh": "他骑着一辆非常酷的摩托车！"
+        },
+        {
+          "en": "Quick, put your cape on!",
+          "zh": "快，披上你的斗篷！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Look!",
+          "zh": "看！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "Here comes Gyuri, but he isn't flying this time!",
+          "zh": "久里来了，但这次他没有飞！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "He's riding a really cool motorcycle!",
+          "zh": "他骑着一辆非常酷的摩托车！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "这里"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "来了"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Gyuri's tail gets bigger, bigger,bigger...it's like a huge, soft pillow.",
+          "zh": "久里的尾巴越来越大、越来越大、越来越大……就像一个巨大而柔软的枕头。"
+        },
+        {
+          "en": "Leo, Ducky, Bella, and Jojo crash into it safely.",
+          "zh": "Leo、Ducky、Bella和Jojo安全地坠入其中。"
+        },
+        {
+          "en": "Bump!",
+          "zh": "撞！"
+        },
+        {
+          "en": "Gyuri's antler shines a spotlight,showing the turtles a path to safety.",
+          "zh": "久里的鹿角发出聚光灯，为海龟们指明了一条安全之路。"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Gyuri's tail gets bigger, bigger,bigger...it's like a huge, soft pillow.",
+          "zh": "久里的尾巴越来越大、越来越大、越来越大……就像一个巨大而柔软的枕头。",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "Bump!",
+          "zh": "撞！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Leo, Ducky, Bella, and Jojo crash into it safely.",
+          "zh": "Leo、Ducky、Bella和Jojo安全地坠入其中。",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "gyuri's",
+          "ipa": "",
+          "cn": "久里的"
+        },
+        {
+          "w": "tail",
+          "ipa": "",
+          "cn": "尾巴"
+        },
+        {
+          "w": "gets",
+          "ipa": "",
+          "cn": "得到"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "The turtles are safe!",
+          "zh": "海龟们很安全！"
+        },
+        {
+          "en": "Thank you so much, Gyuri!!",
+          "zh": "非常感谢你，久里！！"
+        },
+        {
+          "en": "Leo, Bella, Ducky, and Jojo can continue their race.",
+          "zh": "Leo、Bella、Ducky和​​Jojo可以继续他们的比赛。"
+        },
+        {
+          "en": "Who do you think will win?",
+          "zh": "你认为谁会赢？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "The turtles are safe!",
+          "zh": "海龟们很安全！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Who do you think will win?",
+          "zh": "你认为谁会赢？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Thank you so much, Gyuri!!",
+          "zh": "非常感谢你，久里！！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "turtles",
+          "ipa": "",
+          "cn": "海龟"
+        },
+        {
+          "w": "safe",
+          "ipa": "",
+          "cn": "安全的"
+        },
+        {
+          "w": "thank",
+          "ipa": "",
+          "cn": "感谢"
+        }
+      ]
+    }
+  ]
+}

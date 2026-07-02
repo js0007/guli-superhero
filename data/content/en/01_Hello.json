@@ -1,0 +1,616 @@
+{
+  "book": "Hello",
+  "folder": "01_Hello",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "Look!",
+          "zh": ""
+        },
+        {
+          "en": "Bella, Jojo, Ducky, Teeny, and Leo are at the playground!",
+          "zh": ""
+        },
+        {
+          "en": "Can you say, \"Hello everybody!",
+          "zh": ""
+        },
+        {
+          "en": "This playground looks like a lot of fun!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Look!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What's your favorite thing to do at the playground?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "I think they're going to have a busy",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "jojo"
+        },
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "ducky"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "This is Leo.",
+          "zh": ""
+        },
+        {
+          "en": "He's a lion.",
+          "zh": ""
+        },
+        {
+          "en": "Say, \"Hello, Leo!",
+          "zh": ""
+        },
+        {
+          "en": "\"Is Leo going down the slide?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "This is Leo.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "\"Is Leo going down the slide?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "It's an octopus!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "leo"
+        },
+        {
+          "w": "he's",
+          "ipa": "",
+          "cn": "he's"
+        },
+        {
+          "w": "lion",
+          "ipa": "",
+          "cn": "狮子"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "This is Bella.",
+          "zh": ""
+        },
+        {
+          "en": "She's a rabbit.",
+          "zh": ""
+        },
+        {
+          "en": "Can you make rabbit ears, like this?",
+          "zh": ""
+        },
+        {
+          "en": "Yes, good!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "This is Bella.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you make rabbit ears, like this?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Do you want to have a picnic with Bella?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        },
+        {
+          "w": "she's",
+          "ipa": "",
+          "cn": "she's"
+        },
+        {
+          "w": "rabbit",
+          "ipa": "",
+          "cn": "rabbit"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "This is Jojo!",
+          "zh": ""
+        },
+        {
+          "en": "He's a monkey, and he loves dancing.",
+          "zh": ""
+        },
+        {
+          "en": "He brought his music player to theplayground so he can listen to music and dance.",
+          "zh": ""
+        },
+        {
+          "en": "See?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "This is Jojo!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "See?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "What do you want to listen to?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "jojo"
+        },
+        {
+          "w": "he's",
+          "ipa": "",
+          "cn": "he's"
+        },
+        {
+          "w": "monkey",
+          "ipa": "",
+          "cn": "monkey"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "This is Teeny!",
+          "zh": ""
+        },
+        {
+          "en": "Teeny is a teeny, tiny, little bird.",
+          "zh": ""
+        },
+        {
+          "en": "Isn't she cute?",
+          "zh": ""
+        },
+        {
+          "en": "Is Teeny standing on the ground?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "This is Teeny!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Isn't she cute?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "What's your favorite song to sing?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "teeny",
+          "ipa": "",
+          "cn": "teeny"
+        },
+        {
+          "w": "tiny",
+          "ipa": "",
+          "cn": "tiny"
+        },
+        {
+          "w": "little",
+          "ipa": "",
+          "cn": "little"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "This is Ducky.",
+          "zh": ""
+        },
+        {
+          "en": "Ducky is a little yellow duck.",
+          "zh": ""
+        },
+        {
+          "en": "Is Ducky going down the slide with Leo, Bella, and Jojo?",
+          "zh": ""
+        },
+        {
+          "en": "No.",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "This is Ducky.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Is Ducky going down the slide with Leo, Bella, and Jojo?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "What's your favorite book?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "ducky"
+        },
+        {
+          "w": "little",
+          "ipa": "",
+          "cn": "little"
+        },
+        {
+          "w": "yellow",
+          "ipa": "",
+          "cn": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "uh oh!",
+          "zh": ""
+        },
+        {
+          "en": "Jojo, Bella, and Leo are STUCK ON THE SLIDE!!!",
+          "zh": ""
+        },
+        {
+          "en": "What can they do?",
+          "zh": ""
+        },
+        {
+          "en": "Maybe Gyuri can help us!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "uh oh!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What can they do?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "GYURI!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "jojo"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "leo"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "Here comes Gyuri!",
+          "zh": ""
+        },
+        {
+          "en": "Hooray!",
+          "zh": ""
+        },
+        {
+          "en": "Let's put a cape on like Gyuri!",
+          "zh": ""
+        },
+        {
+          "en": "Wow!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Here comes Gyuri!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Do you think he can save Leo, Bella, and Jojo?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Do you think he can save Leo, Bella, and Jojo?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "here"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "comes"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Gyuri wraps his long tail around Jojo, and Pop, pulls him out!",
+          "zh": ""
+        },
+        {
+          "en": "Gyuri uses his tail to pull Bella out, POP!",
+          "zh": ""
+        },
+        {
+          "en": "She looks so surprised!",
+          "zh": ""
+        },
+        {
+          "en": "Gyuri pulls Leo out of the slide, POP!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Gyuri wraps his long tail around Jojo, and Pop, pulls him out!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Gyuri uses his tail to pull Bella out, POP!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "He saved everyone!!!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        },
+        {
+          "w": "wraps",
+          "ipa": "",
+          "cn": "wraps"
+        },
+        {
+          "w": "his",
+          "ipa": "",
+          "cn": "his"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "Bella, Jojo, Ducky, Teeny, and Leo all love doing different things.",
+          "zh": ""
+        },
+        {
+          "en": "Can you remember what Bella likes to do?",
+          "zh": ""
+        },
+        {
+          "en": "What about Jojo?",
+          "zh": ""
+        },
+        {
+          "en": "And Ducky?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Bella, Jojo, Ducky, Teeny, and Leo all love doing different things.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you remember what Bella likes to do?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Have fun at the park!!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "jojo"
+        },
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "ducky"
+        }
+      ]
+    }
+  ]
+}

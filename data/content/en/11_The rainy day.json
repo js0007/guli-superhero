@@ -1,0 +1,601 @@
+{
+  "book": "The rainy day",
+  "folder": "11_The rainy day",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "This is The rainy day.",
+          "zh": ""
+        },
+        {
+          "en": "Please read page 0-1 with your child.",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "This is The rainy day.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Please read page 0-1 with your child.",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rainy",
+          "ipa": "",
+          "cn": "下雨的"
+        },
+        {
+          "w": "day",
+          "ipa": "",
+          "cn": "day"
+        },
+        {
+          "w": "please",
+          "ipa": "",
+          "cn": "please"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "AINY Look at Jojo, Leo, and Ducky.",
+          "zh": ""
+        },
+        {
+          "en": "They look bored.",
+          "zh": ""
+        },
+        {
+          "en": "They don't like rainy days.",
+          "zh": ""
+        },
+        {
+          "en": "Does Bella look bored, too?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "AINY Look at Jojo, Leo, and Ducky.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Does Bella look bored, too?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Hm...probably not.",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "ainy",
+          "ipa": "",
+          "cn": "ainy"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "jojo"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "leo"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "RAINY Bella has a great idea!",
+          "zh": ""
+        },
+        {
+          "en": "She thinks that everyone can wear raincoats!",
+          "zh": ""
+        },
+        {
+          "en": "What a good idea.",
+          "zh": ""
+        },
+        {
+          "en": "Can you find the rain hats?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "RAINY Bella has a great idea!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you find the rain hats?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Hooray!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rainy",
+          "ipa": "",
+          "cn": "下雨的"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        },
+        {
+          "w": "great",
+          "ipa": "",
+          "cn": "great"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "What color is Ducky's coat?",
+          "zh": ""
+        },
+        {
+          "en": "Yes, it's red.",
+          "zh": ""
+        },
+        {
+          "en": "Ducky is wearing a red rain coat.",
+          "zh": ""
+        },
+        {
+          "en": "Do you have a rain coat, too?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "What color is Ducky's coat?",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What color is Ducky's coat?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Whose pinktummy is that coming down the stairs?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "color",
+          "ipa": "",
+          "cn": "color"
+        },
+        {
+          "w": "ducky's",
+          "ipa": "",
+          "cn": "ducky's"
+        },
+        {
+          "w": "coat",
+          "ipa": "",
+          "cn": "coat"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "RAINY Look!",
+          "zh": ""
+        },
+        {
+          "en": "Bella found a puddle to jump in!",
+          "zh": ""
+        },
+        {
+          "en": "She's jumping up and down, splashing water everywhere!",
+          "zh": ""
+        },
+        {
+          "en": "Jump, jump, jump!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "RAINY Look!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What color is it?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Molly:",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rainy",
+          "ipa": "",
+          "cn": "下雨的"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        },
+        {
+          "w": "found",
+          "ipa": "",
+          "cn": "找到了"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "Rai N?",
+          "zh": ""
+        },
+        {
+          "en": "What are Jojo and Leo holding in their hands?",
+          "zh": ""
+        },
+        {
+          "en": "Umbrellas!",
+          "zh": ""
+        },
+        {
+          "en": "Jojo has a green one, and Leo has a purple one!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Rai N?",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Rai N?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "He's too small to hold an umbrella!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rai",
+          "ipa": "",
+          "cn": "rai"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "jojo"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "leo"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "RAIN uh oh...look at the clouds!",
+          "zh": ""
+        },
+        {
+          "en": "They're black and gray!",
+          "zh": ""
+        },
+        {
+          "en": "I think a storm is coming.",
+          "zh": ""
+        },
+        {
+          "en": "Boom!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "RAIN uh oh...look at the clouds!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What was that?!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Help us!!!!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rain",
+          "ipa": "",
+          "cn": "rain"
+        },
+        {
+          "w": "clouds",
+          "ipa": "",
+          "cn": "clouds"
+        },
+        {
+          "w": "they're",
+          "ipa": "",
+          "cn": "they're"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "RAIN That storm cloud looks ANGRY!!!",
+          "zh": ""
+        },
+        {
+          "en": "Lightning is flashing!",
+          "zh": ""
+        },
+        {
+          "en": "Why is he so upset?",
+          "zh": ""
+        },
+        {
+          "en": "Oh, here comes Gyuri!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "RAIN That storm cloud looks ANGRY!!!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Why is he so upset?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Be careful, Gyuri!!!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rain",
+          "ipa": "",
+          "cn": "rain"
+        },
+        {
+          "w": "storm",
+          "ipa": "",
+          "cn": "storm"
+        },
+        {
+          "w": "cloud",
+          "ipa": "",
+          "cn": "cloud"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "RAINY Oh!",
+          "zh": ""
+        },
+        {
+          "en": "He's using the umbrella like a shield!",
+          "zh": ""
+        },
+        {
+          "en": "It protects him from the lightning!",
+          "zh": ""
+        },
+        {
+          "en": "Go away, big storm cloud!!!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "RAINY Oh!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "He's using the umbrella like a shield!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Now that big, mean storm cloud is running away!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rainy",
+          "ipa": "",
+          "cn": "下雨的"
+        },
+        {
+          "w": "he's",
+          "ipa": "",
+          "cn": "he's"
+        },
+        {
+          "w": "using",
+          "ipa": "",
+          "cn": "using"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "RAINY Wow!",
+          "zh": ""
+        },
+        {
+          "en": "Do you know what we can see when the sun comes out after it rains?",
+          "zh": ""
+        },
+        {
+          "en": "Yes!",
+          "zh": ""
+        },
+        {
+          "en": "A big, beautiful, colorful rainbow.",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "RAINY Wow!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Do you know what we can see when the sun comes out after it rains?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "See you next time!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rainy",
+          "ipa": "",
+          "cn": "下雨的"
+        },
+        {
+          "w": "wow",
+          "ipa": "",
+          "cn": "wow"
+        },
+        {
+          "w": "know",
+          "ipa": "",
+          "cn": "know"
+        }
+      ]
+    }
+  ]
+}

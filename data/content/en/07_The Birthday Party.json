@@ -1,0 +1,616 @@
+{
+  "book": "The Birthday Party",
+  "folder": "07_The Birthday Party",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "Here comes Ducky!",
+          "zh": ""
+        },
+        {
+          "en": "Oh, he's carrying a cardboard box!",
+          "zh": ""
+        },
+        {
+          "en": "What's inside?what do you think?",
+          "zh": ""
+        },
+        {
+          "en": "Can you guess?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Here comes Ducky!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What's inside?what do you think?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "And where do you think he's going with that box?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "here"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "comes"
+        },
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "ducky"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "Oh!",
+          "zh": ""
+        },
+        {
+          "en": "It's Jojo's birthday!",
+          "zh": ""
+        },
+        {
+          "en": "Ducky and Teeny want to throw Jojo a birthday party!",
+          "zh": ""
+        },
+        {
+          "en": "Doesn't that sound like fun?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Oh!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Doesn't that sound like fun?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Let's see what Ducky brought.",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "it's"
+        },
+        {
+          "w": "jojo's",
+          "ipa": "",
+          "cn": "jojo's"
+        },
+        {
+          "w": "birthday",
+          "ipa": "",
+          "cn": "生日"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "First, we need balloons!",
+          "zh": ""
+        },
+        {
+          "en": "I love balloons!",
+          "zh": ""
+        },
+        {
+          "en": "We need four balloons.",
+          "zh": ""
+        },
+        {
+          "en": "What colors did Teeny pick out?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "First, we need balloons!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What colors did Teeny pick out?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "We don't want it to pop!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "first",
+          "ipa": "",
+          "cn": "first"
+        },
+        {
+          "w": "balloons",
+          "ipa": "",
+          "cn": "balloons"
+        },
+        {
+          "w": "love",
+          "ipa": "",
+          "cn": "love"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "We also need 4 hats!",
+          "zh": ""
+        },
+        {
+          "en": "Those hats are cool!",
+          "zh": ""
+        },
+        {
+          "en": "I like the one with the stars and stripes.",
+          "zh": ""
+        },
+        {
+          "en": "What about you?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "We also need 4 hats!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What about you?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Let's pick it back up.",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "also",
+          "ipa": "",
+          "cn": "also"
+        },
+        {
+          "w": "hats",
+          "ipa": "",
+          "cn": "hats"
+        },
+        {
+          "w": "cool",
+          "ipa": "",
+          "cn": "cool"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "We also need cups.",
+          "zh": ""
+        },
+        {
+          "en": "Where are they?",
+          "zh": ""
+        },
+        {
+          "en": "Oh, there they are!",
+          "zh": ""
+        },
+        {
+          "en": "Up there on the shelf.",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "We also need cups.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Where are they?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Let's put 4 cups very carefully on the tray. 1,2,3,4...good job!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "also",
+          "ipa": "",
+          "cn": "also"
+        },
+        {
+          "w": "cups",
+          "ipa": "",
+          "cn": "cups"
+        },
+        {
+          "w": "there",
+          "ipa": "",
+          "cn": "there"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "What is Teeny holding?",
+          "zh": ""
+        },
+        {
+          "en": "Are those spoons?",
+          "zh": ""
+        },
+        {
+          "en": "No.",
+          "zh": ""
+        },
+        {
+          "en": "Knives?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "What is Teeny holding?",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What is Teeny holding?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "They might POKE you! 3, 4...4 forks!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "teeny",
+          "ipa": "",
+          "cn": "teeny"
+        },
+        {
+          "w": "holding",
+          "ipa": "",
+          "cn": "holding"
+        },
+        {
+          "w": "spoons",
+          "ipa": "",
+          "cn": "spoons"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "I think everything is ready!",
+          "zh": ""
+        },
+        {
+          "en": "There are presents, balloons, snacks,hats, and forks.",
+          "zh": ""
+        },
+        {
+          "en": "That's everything, except.oh, no!",
+          "zh": ""
+        },
+        {
+          "en": "We need forks to eat cake!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "I think everything is ready!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "But, where's the cake!?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Can you say: \"Gyuri Help us!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "think",
+          "ipa": "",
+          "cn": "think"
+        },
+        {
+          "w": "everything",
+          "ipa": "",
+          "cn": "everything"
+        },
+        {
+          "w": "ready",
+          "ipa": "",
+          "cn": "准备好了"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "Here comes Gyuri,flying through the air!what did he bring?",
+          "zh": ""
+        },
+        {
+          "en": "A pan, a whisk,and an oven mitt!",
+          "zh": ""
+        },
+        {
+          "en": "Gyuri is ready to do some baking!",
+          "zh": ""
+        },
+        {
+          "en": "I hope he knows how to bake a cake!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Here comes Gyuri,flying through the air!what did he bring?",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Here comes Gyuri,flying through the air!what did he bring?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "I hope he knows how to bake a cake!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "here"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "comes"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Gyuri is dumping in the flour and sugar!",
+          "zh": ""
+        },
+        {
+          "en": "Cracking eggs!whisking and mixing!",
+          "zh": ""
+        },
+        {
+          "en": "He's so fast!",
+          "zh": ""
+        },
+        {
+          "en": "Now he's baking the cake with his fire-breath!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Gyuri is dumping in the flour and sugar!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Cracking eggs!whisking and mixing!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Gyuri really is a superhero!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        },
+        {
+          "w": "dumping",
+          "ipa": "",
+          "cn": "dumping"
+        },
+        {
+          "w": "flour",
+          "ipa": "",
+          "cn": "flour"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "That cake looks so good!",
+          "zh": ""
+        },
+        {
+          "en": "How old is Jojo?",
+          "zh": ""
+        },
+        {
+          "en": "Can you count the candles? 1, 2,3,4..",
+          "zh": ""
+        },
+        {
+          "en": "Jojo is 4!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "That cake looks so good!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "How old is Jojo?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Ok,well, bye everyone!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "cake",
+          "ipa": "",
+          "cn": "蛋糕"
+        },
+        {
+          "w": "looks",
+          "ipa": "",
+          "cn": "looks"
+        },
+        {
+          "w": "good",
+          "ipa": "",
+          "cn": "good"
+        }
+      ]
+    }
+  ]
+}

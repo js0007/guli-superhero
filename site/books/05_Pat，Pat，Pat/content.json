@@ -1,0 +1,616 @@
+{
+  "book": "Pat，Pat，Pat",
+  "folder": "05_Pat，Pat，Pat",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "Look at all that blue water!",
+          "zh": "看看那些蓝色的水！"
+        },
+        {
+          "en": "Look at all that sand!",
+          "zh": "看看那些沙子！"
+        },
+        {
+          "en": "Leo, Bella, and Jojo are at the beach!",
+          "zh": "里奥、贝拉和乔乔在海滩上！"
+        },
+        {
+          "en": "What a beautiful day to have some fun in the sand!",
+          "zh": "在沙滩上玩耍真是美好的一天！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 认识伙伴",
+          "action": "指着纸质书上Bella、Jojo、Leo，让孩子认一认谁是谁，再点「整页原音」",
+          "en": "Leo, Bella, and Jojo are at the beach!",
+          "zh": "里奥、贝拉和乔乔在海滩上！",
+          "note": "角色名不用一次讲完，熟悉感会贯穿全系列"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "Look at all that blue water!",
+          "zh": "看看那些蓝色的水！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Look at all that sand!",
+          "zh": "看看那些沙子！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "blue",
+          "ipa": "",
+          "cn": "蓝色的"
+        },
+        {
+          "w": "water",
+          "ipa": "",
+          "cn": "水"
+        },
+        {
+          "w": "sand",
+          "ipa": "",
+          "cn": "沙"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "Everyone looks so happy!",
+          "zh": "每个人看起来都很高兴！"
+        },
+        {
+          "en": "They have a bucket, a fork, a little shovel, some shapes, and lots of sand.",
+          "zh": "他们有一个水桶、一把叉​​子、一把小铲子、一些形状和很多沙子。"
+        },
+        {
+          "en": "Hm...what can they make?",
+          "zh": "嗯……他们能做什么？"
+        },
+        {
+          "en": "I know!",
+          "zh": "我知道！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Everyone looks so happy!",
+          "zh": "每个人看起来都很高兴！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 情绪共鸣",
+          "action": "指着角色的表情，问 happy 还是 sad，让孩子说说为什么",
+          "en": "Hm...what can they make?",
+          "zh": "嗯……他们能做什么？",
+          "note": "情绪词用表情比划比翻译更有效，允许孩子用中文回答"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "I know!",
+          "zh": "我知道！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "everyone",
+          "ipa": "",
+          "cn": "每个人"
+        },
+        {
+          "w": "looks",
+          "ipa": "",
+          "cn": "看起来"
+        },
+        {
+          "w": "happy",
+          "ipa": "",
+          "cn": "快乐的"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "How do we make a sandcastle?",
+          "zh": "我们如何制作沙堡？"
+        },
+        {
+          "en": "First, we use the little shovels to dig, dig, dig a hole in the sand.",
+          "zh": "首先，我们用小铲子在沙子上挖啊挖啊挖一个洞。"
+        },
+        {
+          "en": "Scoop, scoop, scoop!",
+          "zh": "勺子，勺子，勺子！"
+        },
+        {
+          "en": "We don't need to make the hole too deep.",
+          "zh": "我们不需要把洞弄得太深。"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "How do we make a sandcastle?",
+          "zh": "我们如何制作沙堡？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Scoop, scoop, scoop!",
+          "zh": "勺子，勺子，勺子！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "First, we use the little shovels to dig, dig, dig a hole in the sand.",
+          "zh": "首先，我们用小铲子在沙子上挖啊挖啊挖一个洞。",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "make",
+          "ipa": "",
+          "cn": "制作"
+        },
+        {
+          "w": "sandcastle",
+          "ipa": "",
+          "cn": "沙堡"
+        },
+        {
+          "w": "first",
+          "ipa": "",
+          "cn": "第一的"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "Then we need to fill the buckets with sand.",
+          "zh": "然后我们需要在桶里装满沙子。"
+        },
+        {
+          "en": "Make sure the sand is a little bit damp.",
+          "zh": "确保沙子有点湿。"
+        },
+        {
+          "en": "Turn the bucket over, and tap, tap, tap the bottom.",
+          "zh": "将桶翻过来，然后轻敲、轻敲、轻敲底部。"
+        },
+        {
+          "en": "Pull the bucket off, and gently pat, pat, pat it into a castle shape.",
+          "zh": "把桶拉下来，轻轻拍拍拍成城堡形状。"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Then we need to fill the buckets with sand.",
+          "zh": "然后我们需要在桶里装满沙子。",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 声音模仿",
+          "action": "先妈妈示范叫声，再让孩子跟读；可以配手势或身体动作",
+          "en": "Turn the bucket over, and tap, tap, tap the bottom.",
+          "zh": "将桶翻过来，然后轻敲、轻敲、轻敲底部。",
+          "note": "学动物/声音叫能降低开口压力，孩子更愿意参与"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Make sure the sand is a little bit damp.",
+          "zh": "确保沙子有点湿。",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "then",
+          "ipa": "",
+          "cn": "然后"
+        },
+        {
+          "w": "fill",
+          "ipa": "",
+          "cn": "充满"
+        },
+        {
+          "w": "buckets",
+          "ipa": "",
+          "cn": "水桶"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "Fill the cone and other shapes with damp sand, too!",
+          "zh": "也用湿沙填充圆锥体和其他形状！"
+        },
+        {
+          "en": "We can put some towers on the castle!",
+          "zh": "我们可以在城堡上建一些塔楼！"
+        },
+        {
+          "en": "Don't forget to put a cute little flag on top.",
+          "zh": "别忘了在上面放一面可爱的小旗子。"
+        },
+        {
+          "en": "All done!",
+          "zh": "全部完成！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Fill the cone and other shapes with damp sand, too!",
+          "zh": "也用湿沙填充圆锥体和其他形状！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "We can put some towers on the castle!",
+          "zh": "我们可以在城堡上建一些塔楼！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "All done!",
+          "zh": "全部完成！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "fill",
+          "ipa": "",
+          "cn": "充满"
+        },
+        {
+          "w": "cone",
+          "ipa": "",
+          "cn": "锥体"
+        },
+        {
+          "w": "shapes",
+          "ipa": "",
+          "cn": "形状"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "Whoosh!",
+          "zh": "嗖嗖！"
+        },
+        {
+          "en": "What's that sound?!",
+          "zh": "那是什么声音？！"
+        },
+        {
+          "en": "Oh no!",
+          "zh": "哦不！"
+        },
+        {
+          "en": "Look at the water!",
+          "zh": "看水！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Look at the water!",
+          "zh": "看水！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 声音模仿",
+          "action": "先妈妈示范叫声，再让孩子跟读；可以配手势或身体动作",
+          "en": "Whoosh!",
+          "zh": "嗖嗖！",
+          "note": "学动物/声音叫能降低开口压力，孩子更愿意参与"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "whoosh",
+          "ipa": "",
+          "cn": "嗖嗖地"
+        },
+        {
+          "w": "what's",
+          "ipa": "",
+          "cn": "什么是"
+        },
+        {
+          "w": "sound",
+          "ipa": "",
+          "cn": "声音"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！"
+        },
+        {
+          "en": "Our sandcastle!",
+          "zh": "我们的沙堡！"
+        },
+        {
+          "en": "We worked so hard on it, and now it's all flat.",
+          "zh": "我们费尽心思，现在一切都平了。"
+        },
+        {
+          "en": "The wave knocked it over and washed away our toys!",
+          "zh": "海浪把它打翻了，把我们的玩具冲走了！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "Our sandcastle!",
+          "zh": "我们的沙堡！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "The wave knocked it over and washed away our toys!",
+          "zh": "海浪把它打翻了，把我们的玩具冲走了！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "our",
+          "ipa": "",
+          "cn": "我们的"
+        },
+        {
+          "w": "sandcastle",
+          "ipa": "",
+          "cn": "沙堡"
+        },
+        {
+          "w": "worked",
+          "ipa": "",
+          "cn": "工作过"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "Here comes Gyuri!",
+          "zh": "久里来了！"
+        },
+        {
+          "en": "This time he's on a surfboard!",
+          "zh": "这次他在冲浪板上！"
+        },
+        {
+          "en": "He's surfing!",
+          "zh": "他在冲浪！"
+        },
+        {
+          "en": "Zoom!",
+          "zh": "飞涨！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Here comes Gyuri!",
+          "zh": "久里来了！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "This time he's on a surfboard!",
+          "zh": "这次他在冲浪板上！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "He's surfing!",
+          "zh": "他在冲浪！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "这里"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "来了"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Gyuri uses his tail to scoop up a lot of sand!",
+          "zh": "久里用尾巴舀起很多沙子！"
+        },
+        {
+          "en": "His hands and tail pat the sand into castle shapes!",
+          "zh": "他的手和尾巴把沙子拍成城堡形状！"
+        },
+        {
+          "en": "He's so fast!",
+          "zh": "他太快了！"
+        },
+        {
+          "en": "Like lightning!",
+          "zh": "就像闪电一样！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Gyuri uses his tail to scoop up a lot of sand!",
+          "zh": "久里用尾巴舀起很多沙子！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 动手模仿",
+          "action": "假装挖洞、放种子、拍土，带孩子做 Pat pat pat 的节奏",
+          "en": "Like lightning!",
+          "zh": "就像闪电一样！",
+          "note": "节奏感用拍腿/拍手做出来，英文会跟着嘴巴走"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "His hands and tail pat the sand into castle shapes!",
+          "zh": "他的手和尾巴把沙子拍成城堡形状！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        },
+        {
+          "w": "uses",
+          "ipa": "",
+          "cn": "用途"
+        },
+        {
+          "w": "his",
+          "ipa": "",
+          "cn": "他的"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "Wow!",
+          "zh": "哇！"
+        },
+        {
+          "en": "This new castle is even bigger and cooler than the other one!",
+          "zh": "这座新城堡比另一座城堡更大、更酷！"
+        },
+        {
+          "en": "It's big enough for Bella, Jojo, and Leo to fit inside and pretend to be kings and queens!",
+          "zh": "它足够大，贝拉、乔乔和利奥都可以放进去，假装成国王和王后！"
+        },
+        {
+          "en": "Haha, look!",
+          "zh": "哈哈，看吧！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Haha, look!",
+          "zh": "哈哈，看吧！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "Wow!",
+          "zh": "哇！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "This new castle is even bigger and cooler than the other one!",
+          "zh": "这座新城堡比另一座城堡更大、更酷！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "wow",
+          "ipa": "",
+          "cn": "哇"
+        },
+        {
+          "w": "new",
+          "ipa": "",
+          "cn": "新的"
+        },
+        {
+          "w": "castle",
+          "ipa": "",
+          "cn": "城堡"
+        }
+      ]
+    }
+  ]
+}

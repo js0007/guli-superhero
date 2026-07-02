@@ -1,0 +1,616 @@
+{
+  "book": "Go away, shadow",
+  "folder": "09_Go away, shadow",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "Gooow Can you find Bella?",
+          "zh": ""
+        },
+        {
+          "en": "I'll give you a clue.",
+          "zh": ""
+        },
+        {
+          "en": "She's inside something big and yellow.",
+          "zh": ""
+        },
+        {
+          "en": "Yes!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Gooow Can you find Bella?",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Gooow Can you find Bella?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "No...they are going to sleep outside in the tent!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "gooow",
+          "ipa": "",
+          "cn": "gooow"
+        },
+        {
+          "w": "find",
+          "ipa": "",
+          "cn": "find"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "Shhh...it's night.",
+          "zh": ""
+        },
+        {
+          "en": "It's so dark outside.",
+          "zh": ""
+        },
+        {
+          "en": "Where's the moon?",
+          "zh": ""
+        },
+        {
+          "en": "I don't know.",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Shhh...it's night.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Where's the moon?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Can you hear anything?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "shhh",
+          "ipa": "",
+          "cn": "shhh"
+        },
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "it's"
+        },
+        {
+          "w": "night",
+          "ipa": "",
+          "cn": "night"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "Goow There are so many stars out!",
+          "zh": ""
+        },
+        {
+          "en": "They're so beautiful!",
+          "zh": ""
+        },
+        {
+          "en": "Can you find a few?",
+          "zh": ""
+        },
+        {
+          "en": "There's even a shooting star.",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Goow There are so many stars out!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you find a few?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Like a diamond in the sky.",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "goow",
+          "ipa": "",
+          "cn": "goow"
+        },
+        {
+          "w": "there",
+          "ipa": "",
+          "cn": "there"
+        },
+        {
+          "w": "many",
+          "ipa": "",
+          "cn": "many"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "Oh, and it's a little windy!",
+          "zh": ""
+        },
+        {
+          "en": "Can you hear it?",
+          "zh": ""
+        },
+        {
+          "en": "What does it sound like?",
+          "zh": ""
+        },
+        {
+          "en": "Whoosh!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Oh, and it's a little windy!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you hear it?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "I hope the wind doesn't get any stronger, or it might blow our tent away!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "it's"
+        },
+        {
+          "w": "little",
+          "ipa": "",
+          "cn": "little"
+        },
+        {
+          "w": "windy",
+          "ipa": "",
+          "cn": "windy"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "Oh!",
+          "zh": ""
+        },
+        {
+          "en": "Listen!",
+          "zh": ""
+        },
+        {
+          "en": "Do you hear that?",
+          "zh": ""
+        },
+        {
+          "en": "What's that sound?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Oh!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Do you hear that?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "You sound just like an owl!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "listen",
+          "ipa": "",
+          "cn": "listen"
+        },
+        {
+          "w": "hear",
+          "ipa": "",
+          "cn": "hear"
+        },
+        {
+          "w": "what's",
+          "ipa": "",
+          "cn": "what's"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "Oh!",
+          "zh": ""
+        },
+        {
+          "en": "Look over there, past the tent!",
+          "zh": ""
+        },
+        {
+          "en": "Do you see that shadow?",
+          "zh": ""
+        },
+        {
+          "en": "I see horns!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Oh!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Do you see that shadow?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "What are we going to do!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "over",
+          "ipa": "",
+          "cn": "over"
+        },
+        {
+          "w": "there",
+          "ipa": "",
+          "cn": "there"
+        },
+        {
+          "w": "past",
+          "ipa": "",
+          "cn": "past"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "Oh, no!",
+          "zh": ""
+        },
+        {
+          "en": "It's getting closer, and closer, and CLOSER!",
+          "zh": ""
+        },
+        {
+          "en": "Those claws look so sharp!",
+          "zh": ""
+        },
+        {
+          "en": "The horns are so long!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Oh, no!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Who will save us!?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "There's a MONSTER!!!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "it's"
+        },
+        {
+          "w": "getting",
+          "ipa": "",
+          "cn": "getting"
+        },
+        {
+          "w": "closer",
+          "ipa": "",
+          "cn": "closer"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "Here he comes!",
+          "zh": ""
+        },
+        {
+          "en": "Gyuri will save us!",
+          "zh": ""
+        },
+        {
+          "en": "Gyuri is bigger, and faster, and stronger, and smarterthan that ugly, scary monster!!",
+          "zh": ""
+        },
+        {
+          "en": "Who do you think will win?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Here he comes!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Who do you think will win?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Who do you think will win?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "here"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "comes"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Gyuri shines his light on astar...and the star grows and grows and grows!",
+          "zh": ""
+        },
+        {
+          "en": "It's huge!",
+          "zh": ""
+        },
+        {
+          "en": "The big star lights up the sky and the monster's shadow gets smaller and smaller!",
+          "zh": ""
+        },
+        {
+          "en": "Go away scary monster!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Gyuri shines his light on astar...and the star grows and grows and grows!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "It's huge!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Go away scary monster!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        },
+        {
+          "w": "shines",
+          "ipa": "",
+          "cn": "shines"
+        },
+        {
+          "w": "his",
+          "ipa": "",
+          "cn": "his"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "Oh, wait a minute!!!",
+          "zh": ""
+        },
+        {
+          "en": "Is that really a monster?",
+          "zh": ""
+        },
+        {
+          "en": "No!",
+          "zh": ""
+        },
+        {
+          "en": "It's not!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Oh, wait a minute!!!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Is that really a monster?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "You're always there when we need you!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "wait",
+          "ipa": "",
+          "cn": "wait"
+        },
+        {
+          "w": "minute",
+          "ipa": "",
+          "cn": "minute"
+        },
+        {
+          "w": "really",
+          "ipa": "",
+          "cn": "really"
+        }
+      ]
+    }
+  ]
+}

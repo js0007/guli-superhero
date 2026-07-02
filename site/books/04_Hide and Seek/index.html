@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>加载中…</title>
+  <link rel="stylesheet" href="../../assets/book.css">
+</head>
+<body>
+  <div class="app loading" id="app">
+    <header class="top-bar">
+      <a class="top-home" href="../../index.html" aria-label="返回书架">←</a>
+      <img class="top-logo" src="../../assets/logo.png" alt="古力小超人陪读">
+      <span class="top-title" id="topTitle">加载中…</span>
+    </header>
+
+    <div class="scroll-body" id="scrollBody">
+      <section class="book-section">
+        <div class="book-section-head">
+          <span class="book-section-label">📖 纸质书对照</span>
+          <span class="book-section-hint" id="thumbBadge">Page 0-1</span>
+        </div>
+        <div class="spread-wrap">
+          <img class="spread-img" id="thumbImg" src="" alt="绘本跨页">
+          <span class="spread-badge" id="spreadBadge">0-1</span>
+        </div>
+        <div class="book-actions">
+          <span class="hint-text">翻到相同页码，左手绘本右手小抄</span>
+          <button class="btn-full-audio" id="btnFullAudio" type="button">
+            <svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg>
+            整页原音
+          </button>
+        </div>
+      </section>
+
+      <main class="cheat-panel">
+        <div class="section-head">📘 绘本扩展</div>
+        <div class="extend-text" id="extendText"></div>
+        <div class="divider"></div>
+        <div class="section-head">💡 互动指导</div>
+        <div class="guide-card" id="guideCard"></div>
+        <div class="divider"></div>
+        <div class="section-head">🏷️ 核心词汇</div>
+        <div class="vocab-row" id="vocabRow"></div>
+      </main>
+    </div>
+
+    <footer class="bottom-nav">
+      <button class="nav-btn" id="btnPrev" type="button" disabled>◀ 上一页</button>
+      <span class="page-num" id="pageNum">1 / 10</span>
+      <button class="nav-btn" id="btnNext" type="button">下一页 ▶</button>
+    </footer>
+  </div>
+  <script src="../../assets/book.js"></script>
+</body>
+</html>

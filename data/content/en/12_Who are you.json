@@ -1,0 +1,616 @@
+{
+  "book": "Who are you",
+  "folder": "12_Who are you",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "There's Bella!",
+          "zh": ""
+        },
+        {
+          "en": "Hi, Bella!",
+          "zh": ""
+        },
+        {
+          "en": "What's she doing?",
+          "zh": ""
+        },
+        {
+          "en": "It looks like she's playing with a toy bus!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "There's Bella!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What's she doing?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Let's find out.",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "there's",
+          "ipa": "",
+          "cn": "there's"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        },
+        {
+          "w": "what's",
+          "ipa": "",
+          "cn": "what's"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "Oh!",
+          "zh": ""
+        },
+        {
+          "en": "Lots of clothes and things to play dress-up with!",
+          "zh": ""
+        },
+        {
+          "en": "Cool!",
+          "zh": ""
+        },
+        {
+          "en": "Bella has a white coat, like a doctor wears.",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Oh!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Lots of clothes and things to play dress-up with!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Leo, Ducky, Jojo, Teeny, and Bella are so excited to play dress-up!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "lots",
+          "ipa": "",
+          "cn": "lots"
+        },
+        {
+          "w": "clothes",
+          "ipa": "",
+          "cn": "clothes"
+        },
+        {
+          "w": "things",
+          "ipa": "",
+          "cn": "things"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "Bella dresses up first.",
+          "zh": ""
+        },
+        {
+          "en": "What's she wearing?",
+          "zh": ""
+        },
+        {
+          "en": "She's wearing a pink tutudress, and she's dancing on a stage!",
+          "zh": ""
+        },
+        {
+          "en": "Who is she?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Bella dresses up first.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What's she wearing?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Do you want to be a dancer, too?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        },
+        {
+          "w": "dresses",
+          "ipa": "",
+          "cn": "dresses"
+        },
+        {
+          "w": "first",
+          "ipa": "",
+          "cn": "first"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "Ducky dresses up next.",
+          "zh": ""
+        },
+        {
+          "en": "Teeny, Bella, and Jojo are trying to guess what Ducky is dressed up as.",
+          "zh": ""
+        },
+        {
+          "en": "What is he wearing?",
+          "zh": ""
+        },
+        {
+          "en": "A chef's hat, and an apron!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Ducky dresses up next.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What is he wearing?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Do you want to be a cook, too?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "ducky"
+        },
+        {
+          "w": "dresses",
+          "ipa": "",
+          "cn": "dresses"
+        },
+        {
+          "w": "next",
+          "ipa": "",
+          "cn": "next"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "RAINY Look!",
+          "zh": ""
+        },
+        {
+          "en": "Bella found a puddle to jump in!",
+          "zh": ""
+        },
+        {
+          "en": "She's jumping up and down, splashing water everywhere!",
+          "zh": ""
+        },
+        {
+          "en": "Jump, jump, jump!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "RAINY Look!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What color is it?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Do you like jumping in puddles, too?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rainy",
+          "ipa": "",
+          "cn": "下雨的"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        },
+        {
+          "w": "found",
+          "ipa": "",
+          "cn": "找到了"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "Rai N?",
+          "zh": ""
+        },
+        {
+          "en": "What are Jojo and Leo holding in their hands?",
+          "zh": ""
+        },
+        {
+          "en": "Umbrellas!",
+          "zh": ""
+        },
+        {
+          "en": "Jojo has a green one, and Leo has a purple one!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Rai N?",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Rai N?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "He's too small to hold an umbrella!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rai",
+          "ipa": "",
+          "cn": "rai"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "jojo"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "leo"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "RAIN uh oh...look at the clouds!",
+          "zh": ""
+        },
+        {
+          "en": "They're black and gray!",
+          "zh": ""
+        },
+        {
+          "en": "I think a storm is coming.",
+          "zh": ""
+        },
+        {
+          "en": "Boom!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "RAIN uh oh...look at the clouds!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What was that?!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Help us!!!!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rain",
+          "ipa": "",
+          "cn": "rain"
+        },
+        {
+          "w": "clouds",
+          "ipa": "",
+          "cn": "clouds"
+        },
+        {
+          "w": "they're",
+          "ipa": "",
+          "cn": "they're"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "vou?",
+          "zh": ""
+        },
+        {
+          "en": "Here he comes!",
+          "zh": ""
+        },
+        {
+          "en": "The spotlights are shining on Gyuri!",
+          "zh": ""
+        },
+        {
+          "en": "Do you think he'll be able to help!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "vou?",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "vou?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "He'll help Jojo pick out a costume!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "vou",
+          "ipa": "",
+          "cn": "vou"
+        },
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "here"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "comes"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Vou P Gyuri says:Jojo!",
+          "zh": ""
+        },
+        {
+          "en": "You can be anything and everything!",
+          "zh": ""
+        },
+        {
+          "en": "You can be a cook, a dancer, adriver, a singer, a pirate, a clown, or just yourself!",
+          "zh": ""
+        },
+        {
+          "en": "What do you think Jojo should dress up as?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Vou P Gyuri says:Jojo!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What do you think Jojo should dress up as?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "What is it?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "vou",
+          "ipa": "",
+          "cn": "vou"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        },
+        {
+          "w": "says",
+          "ipa": "",
+          "cn": "says"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "Jojo can be Jojo the Superhero!",
+          "zh": ""
+        },
+        {
+          "en": "Can you find the J on Jojo's shirt!",
+          "zh": ""
+        },
+        {
+          "en": "Yes, there it is!",
+          "zh": ""
+        },
+        {
+          "en": "That's J for Jojo!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Jojo can be Jojo the Superhero!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you find the G on Gyuri's cape?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "See you next time!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "jojo"
+        },
+        {
+          "w": "superhero",
+          "ipa": "",
+          "cn": "superhero"
+        },
+        {
+          "w": "find",
+          "ipa": "",
+          "cn": "find"
+        }
+      ]
+    }
+  ]
+}

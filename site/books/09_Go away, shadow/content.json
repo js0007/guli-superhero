@@ -1,0 +1,616 @@
+{
+  "book": "Go away, shadow",
+  "folder": "09_Go away, shadow",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "Gooow Can you find Bella?",
+          "zh": "咕咕你能找到贝拉吗？"
+        },
+        {
+          "en": "I'll give you a clue.",
+          "zh": "我会给你一个线索。"
+        },
+        {
+          "en": "She's inside something big and yellow.",
+          "zh": "她在一个又大又黄色的东西里面。"
+        },
+        {
+          "en": "Yes!",
+          "zh": "是的！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察暖场",
+          "action": "先不急着读字，让孩子看纸质书跨页图，说出看到了什么；再播放「整页原音」",
+          "en": "Gooow Can you find Bella?",
+          "zh": "咕咕你能找到贝拉吗？",
+          "note": "第一遍允许只听不说，建立「看图→听→说」的顺序"
+        },
+        {
+          "step": "② 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Yes!",
+          "zh": "是的！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "I'll give you a clue.",
+          "zh": "我会给你一个线索。",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "gooow",
+          "ipa": "",
+          "cn": "咕咕"
+        },
+        {
+          "w": "find",
+          "ipa": "",
+          "cn": "寻找"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "Shhh...it's night.",
+          "zh": "嘘……已经是晚上了。"
+        },
+        {
+          "en": "It's so dark outside.",
+          "zh": "外面天这么黑。"
+        },
+        {
+          "en": "Where's the moon?",
+          "zh": "月亮在哪儿？"
+        },
+        {
+          "en": "I don't know.",
+          "zh": "我不知道。"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Where's the moon?",
+          "zh": "月亮在哪儿？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Shhh...it's night.",
+          "zh": "嘘……已经是晚上了。",
+          "note": "关键词跟读即可，不必整句一次说对"
+        },
+        {
+          "step": "③ 跟读巩固",
+          "action": "选本页最喜欢的一句，妈妈先说一遍，再请孩子复述 2 遍",
+          "en": "It's so dark outside.",
+          "zh": "外面天这么黑。",
+          "note": "复述允许中英夹杂，敢说就比说对更重要"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "shhh",
+          "ipa": "",
+          "cn": "嘘"
+        },
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "它是"
+        },
+        {
+          "w": "night",
+          "ipa": "",
+          "cn": "夜晚"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "Goow There are so many stars out!",
+          "zh": "咕咕，好多明星都出来了！"
+        },
+        {
+          "en": "They're so beautiful!",
+          "zh": "她们太漂亮了！"
+        },
+        {
+          "en": "Can you find a few?",
+          "zh": "你能找到几个吗？"
+        },
+        {
+          "en": "There's even a shooting star.",
+          "zh": "甚至还有一颗流星。"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Can you find a few?",
+          "zh": "你能找到几个吗？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Goow There are so many stars out!",
+          "zh": "咕咕，好多明星都出来了！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "They're so beautiful!",
+          "zh": "她们太漂亮了！",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "goow",
+          "ipa": "",
+          "cn": "咕咕"
+        },
+        {
+          "w": "there",
+          "ipa": "",
+          "cn": "那里"
+        },
+        {
+          "w": "many",
+          "ipa": "",
+          "cn": "许多"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "Oh, and it's a little windy!",
+          "zh": "哦，还有一点风！"
+        },
+        {
+          "en": "Can you hear it?",
+          "zh": "你能听到吗？"
+        },
+        {
+          "en": "What does it sound like?",
+          "zh": "听起来怎么样？"
+        },
+        {
+          "en": "Whoosh!",
+          "zh": "嗖嗖！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Can you hear it?",
+          "zh": "你能听到吗？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 声音模仿",
+          "action": "先妈妈示范叫声，再让孩子跟读；可以配手势或身体动作",
+          "en": "Whoosh!",
+          "zh": "嗖嗖！",
+          "note": "学动物/声音叫能降低开口压力，孩子更愿意参与"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Oh, and it's a little windy!",
+          "zh": "哦，还有一点风！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "它是"
+        },
+        {
+          "w": "little",
+          "ipa": "",
+          "cn": "小的"
+        },
+        {
+          "w": "windy",
+          "ipa": "",
+          "cn": "有风的"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "Oh!",
+          "zh": "哦！"
+        },
+        {
+          "en": "Listen!",
+          "zh": "听！"
+        },
+        {
+          "en": "Do you hear that?",
+          "zh": "你听到了吗？"
+        },
+        {
+          "en": "What's that sound?",
+          "zh": "那是什么声音？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Oh!",
+          "zh": "哦！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Do you hear that?",
+          "zh": "你听到了吗？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Listen!",
+          "zh": "听！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "listen",
+          "ipa": "",
+          "cn": "听"
+        },
+        {
+          "w": "hear",
+          "ipa": "",
+          "cn": "听到"
+        },
+        {
+          "w": "what's",
+          "ipa": "",
+          "cn": "什么是"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "Oh!",
+          "zh": "哦！"
+        },
+        {
+          "en": "Look over there, past the tent!",
+          "zh": "看看那边，经过帐篷！"
+        },
+        {
+          "en": "Do you see that shadow?",
+          "zh": "你看到那个影子了吗？"
+        },
+        {
+          "en": "I see horns!",
+          "zh": "我看到角了！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出影子，让孩子找全、找齐再往下讲",
+          "en": "Look over there, past the tent!",
+          "zh": "看看那边，经过帐篷！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着影子提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Do you see that shadow?",
+          "zh": "你看到那个影子了吗？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Oh!",
+          "zh": "哦！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "over",
+          "ipa": "",
+          "cn": "超过"
+        },
+        {
+          "w": "there",
+          "ipa": "",
+          "cn": "那里"
+        },
+        {
+          "w": "past",
+          "ipa": "",
+          "cn": "过去的"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "Oh, no!",
+          "zh": "哦，不！"
+        },
+        {
+          "en": "It's getting closer, and closer, and CLOSER!",
+          "zh": "越来越近了，越来越近了，越来越近了！"
+        },
+        {
+          "en": "Those claws look so sharp!",
+          "zh": "那爪子看起来好锋利啊！"
+        },
+        {
+          "en": "The horns are so long!",
+          "zh": "角好长啊！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Those claws look so sharp!",
+          "zh": "那爪子看起来好锋利啊！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "Oh, no!",
+          "zh": "哦，不！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "It's getting closer, and closer, and CLOSER!",
+          "zh": "越来越近了，越来越近了，越来越近了！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "它是"
+        },
+        {
+          "w": "getting",
+          "ipa": "",
+          "cn": "得到"
+        },
+        {
+          "w": "closer",
+          "ipa": "",
+          "cn": "更近"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "Here he comes!",
+          "zh": "他来了！"
+        },
+        {
+          "en": "Gyuri will save us!",
+          "zh": "久里会拯救我们的！"
+        },
+        {
+          "en": "Gyuri is bigger, and faster, and stronger, and smarterthan that ugly, scary monster!!",
+          "zh": "久里比那个丑陋可怕的怪物更大、更快、更强、更聪明！"
+        },
+        {
+          "en": "Who do you think will win?",
+          "zh": "你认为谁会赢？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Here he comes!",
+          "zh": "他来了！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Who do you think will win?",
+          "zh": "你认为谁会赢？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Gyuri will save us!",
+          "zh": "久里会拯救我们的！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "这里"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "来了"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Gyuri shines his light on astar...and the star grows and grows and grows!",
+          "zh": "久里将他的光芒照射在一颗星星上……星星越来越大，越来越大！"
+        },
+        {
+          "en": "It's huge!",
+          "zh": "太大了！"
+        },
+        {
+          "en": "The big star lights up the sky and the monster's shadow gets smaller and smaller!",
+          "zh": "大星星照亮了天空，怪物的影子越来越小！"
+        },
+        {
+          "en": "Go away scary monster!",
+          "zh": "走开可怕的怪物！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出影子，让孩子找全、找齐再往下讲",
+          "en": "Gyuri shines his light on astar...and the star grows and grows and grows!",
+          "zh": "久里将他的光芒照射在一颗星星上……星星越来越大，越来越大！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 影子游戏",
+          "action": "用手电筒或阳光下比划影子，对照书页讨论影子为什么会动",
+          "en": "It's huge!",
+          "zh": "太大了！",
+          "note": "能联系生活实验最好，孩子印象更深"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "The big star lights up the sky and the monster's shadow gets smaller and smaller!",
+          "zh": "大星星照亮了天空，怪物的影子越来越小！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        },
+        {
+          "w": "shines",
+          "ipa": "",
+          "cn": "闪耀"
+        },
+        {
+          "w": "his",
+          "ipa": "",
+          "cn": "他的"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "Oh, wait a minute!!!",
+          "zh": "哦，等一下！！！"
+        },
+        {
+          "en": "Is that really a monster?",
+          "zh": "那真的是怪物吗？"
+        },
+        {
+          "en": "No!",
+          "zh": "不！"
+        },
+        {
+          "en": "It's not!",
+          "zh": "它不是！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Oh, wait a minute!!!",
+          "zh": "哦，等一下！！！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Is that really a monster?",
+          "zh": "那真的是怪物吗？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "No!",
+          "zh": "不！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "wait",
+          "ipa": "",
+          "cn": "等待"
+        },
+        {
+          "w": "minute",
+          "ipa": "",
+          "cn": "分钟"
+        },
+        {
+          "w": "really",
+          "ipa": "",
+          "cn": "真的"
+        }
+      ]
+    }
+  ]
+}

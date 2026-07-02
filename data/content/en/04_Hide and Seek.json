@@ -1,0 +1,616 @@
+{
+  "book": "Hide and Seek",
+  "folder": "04_Hide and Seek",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "Who do you see?",
+          "zh": ""
+        },
+        {
+          "en": "I see Leo, Jojo, and Bella!",
+          "zh": ""
+        },
+        {
+          "en": "Can you say hi?",
+          "zh": ""
+        },
+        {
+          "en": "Hi, everyone!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Who do you see?",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Who do you see?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Hm, let's see!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "leo"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "jojo"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "First, Leo runs to the...what's this place?",
+          "zh": ""
+        },
+        {
+          "en": "Is there a fire truck?",
+          "zh": ""
+        },
+        {
+          "en": "Is that the fire station?",
+          "zh": ""
+        },
+        {
+          "en": "No, there are some animals there.",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "First, Leo runs to the...what's this place?",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "First, Leo runs to the...what's this place?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Do you think they look friendly?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "first",
+          "ipa": "",
+          "cn": "first"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "leo"
+        },
+        {
+          "w": "runs",
+          "ipa": "",
+          "cn": "runs"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "Oh no!",
+          "zh": ""
+        },
+        {
+          "en": "What happens when Leo opens the door?",
+          "zh": ""
+        },
+        {
+          "en": "Woof!",
+          "zh": ""
+        },
+        {
+          "en": "Woof!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Oh no!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What happens when Leo opens the door?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Run, Leo, run!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "happens",
+          "ipa": "",
+          "cn": "happens"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "leo"
+        },
+        {
+          "w": "opens",
+          "ipa": "",
+          "cn": "opens"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "Woo ooo woo ooo! uh oh!",
+          "zh": ""
+        },
+        {
+          "en": "Here come the firemen!",
+          "zh": ""
+        },
+        {
+          "en": "There must be a fire somewhere!",
+          "zh": ""
+        },
+        {
+          "en": "It's an emergency!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Woo ooo woo ooo! uh oh!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Here come the firemen!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Find a good spot where Bella and Jojo can't find you!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "woo",
+          "ipa": "",
+          "cn": "woo"
+        },
+        {
+          "w": "ooo",
+          "ipa": "",
+          "cn": "ooo"
+        },
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "here"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "Bella and Jojo say:\"Ready or not!",
+          "zh": ""
+        },
+        {
+          "en": "Here we come!",
+          "zh": ""
+        },
+        {
+          "en": "\" First, they look in the pet shop.",
+          "zh": ""
+        },
+        {
+          "en": "Is Leo there?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Bella and Jojo say:\"Ready or not!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Is Leo there?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "I think I saw Leo run to the playground!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "jojo"
+        },
+        {
+          "w": "ready",
+          "ipa": "",
+          "cn": "准备好了"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "Bella checks the stairs and the rocking horses, but no leo.",
+          "zh": ""
+        },
+        {
+          "en": "Leo is a very good hider!",
+          "zh": ""
+        },
+        {
+          "en": "Where do you think he's hiding?",
+          "zh": ""
+        },
+        {
+          "en": "Hm...look!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Bella checks the stairs and the rocking horses, but no leo.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Where do you think he's hiding?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "What do you think Jojo will see if he looks in the tube?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        },
+        {
+          "w": "checks",
+          "ipa": "",
+          "cn": "checks"
+        },
+        {
+          "w": "stairs",
+          "ipa": "",
+          "cn": "stairs"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "It's Leo!",
+          "zh": ""
+        },
+        {
+          "en": "He's in the slide!!!",
+          "zh": ""
+        },
+        {
+          "en": "Bella and Jojo found him!",
+          "zh": ""
+        },
+        {
+          "en": "Oh no!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "It's Leo!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "He's in the slide!!!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Leo is stuck!!!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "it's"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "leo"
+        },
+        {
+          "w": "he's",
+          "ipa": "",
+          "cn": "he's"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "Here he comes!",
+          "zh": ""
+        },
+        {
+          "en": "It's Gyuri the Superhero!",
+          "zh": ""
+        },
+        {
+          "en": "He'll know what to do!",
+          "zh": ""
+        },
+        {
+          "en": "Quick!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Here he comes!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "It's Gyuri the Superhero!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Then we can help Gyuri get Leo out!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "here"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "comes"
+        },
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "it's"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Gyuri jumps into the tube and climbs up to where Leo is stuck.",
+          "zh": ""
+        },
+        {
+          "en": "He takes a deep, deep breath.",
+          "zh": ""
+        },
+        {
+          "en": "Can you take a deep breath, too?",
+          "zh": ""
+        },
+        {
+          "en": "And he blows, blows, blows Leo out of the tube with a big pop!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Gyuri jumps into the tube and climbs up to where Leo is stuck.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you take a deep breath, too?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "I hope he lands on some soft grass!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        },
+        {
+          "w": "jumps",
+          "ipa": "",
+          "cn": "jumps"
+        },
+        {
+          "w": "into",
+          "ipa": "",
+          "cn": "into"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "Hooray!",
+          "zh": ""
+        },
+        {
+          "en": "Gyuri saved Leo!",
+          "zh": ""
+        },
+        {
+          "en": "Leo looks tired.",
+          "zh": ""
+        },
+        {
+          "en": "Can you ask Leo if he's ok?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Hooray!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you ask Leo if he's ok?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Let's go!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "hooray",
+          "ipa": "",
+          "cn": "hooray"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        },
+        {
+          "w": "saved",
+          "ipa": "",
+          "cn": "saved"
+        }
+      ]
+    }
+  ]
+}

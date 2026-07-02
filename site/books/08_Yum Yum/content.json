@@ -1,0 +1,616 @@
+{
+  "book": "Yum Yum",
+  "folder": "08_Yum Yum",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "Where are we today?",
+          "zh": "我们今天在哪里？"
+        },
+        {
+          "en": "I see apple trees!",
+          "zh": "我看到苹果树了！"
+        },
+        {
+          "en": "And lots of little bushes in a row.",
+          "zh": "还有很多排成一排的小灌木丛。"
+        },
+        {
+          "en": "I wonder what they are?",
+          "zh": "我想知道它们是什么？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察暖场",
+          "action": "先不急着读字，让孩子看纸质书跨页图，说出看到了什么；再播放「整页原音」",
+          "en": "Where are we today?",
+          "zh": "我们今天在哪里？",
+          "note": "第一遍允许只听不说，建立「看图→听→说」的顺序"
+        },
+        {
+          "step": "② 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "I see apple trees!",
+          "zh": "我看到苹果树了！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "I wonder what they are?",
+          "zh": "我想知道它们是什么？",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "today",
+          "ipa": "",
+          "cn": "今天"
+        },
+        {
+          "w": "apple",
+          "ipa": "",
+          "cn": "苹果"
+        },
+        {
+          "w": "trees",
+          "ipa": "",
+          "cn": "树"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "Ducky, Jojo, and Teeny are looking out the window.",
+          "zh": "Ducky、Jojo和Teeny正在看着窗外。"
+        },
+        {
+          "en": "There are 4 trees.",
+          "zh": "有4棵树。"
+        },
+        {
+          "en": "Can you find the 3 trees with apples on them?",
+          "zh": "你能找到那三棵长满苹果的树吗？"
+        },
+        {
+          "en": "One, two, three...there they are!",
+          "zh": "一、二、三……就在那里！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 数数互动",
+          "action": "指着纸质书上的树，和孩子一起大声数，数完击掌庆祝",
+          "en": "One, two, three...there they are!",
+          "zh": "一、二、三……就在那里！",
+          "note": "数错不要紧，重点是开口跟节奏；可以中英文混着说数字"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着树提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Can you find the 3 trees with apples on them?",
+          "zh": "你能找到那三棵长满苹果的树吗？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Ducky, Jojo, and Teeny are looking out the window.",
+          "zh": "Ducky、Jojo和Teeny正在看着窗外。",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "Ducky"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "teeny",
+          "ipa": "",
+          "cn": "Teeny"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "Jojo climbed the apple tree!",
+          "zh": "乔乔爬上了苹果树！"
+        },
+        {
+          "en": "He's picking apples!",
+          "zh": "他正在摘苹果呢！"
+        },
+        {
+          "en": "The apples look juicy and crunchy!",
+          "zh": "苹果看起来又多汁又脆！"
+        },
+        {
+          "en": "Do you want a bite?",
+          "zh": "你想咬一口吗？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出树，让孩子找全、找齐再往下讲",
+          "en": "The apples look juicy and crunchy!",
+          "zh": "苹果看起来又多汁又脆！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着树提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Do you want a bite?",
+          "zh": "你想咬一口吗？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Jojo climbed the apple tree!",
+          "zh": "乔乔爬上了苹果树！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "climbed",
+          "ipa": "",
+          "cn": "爬了"
+        },
+        {
+          "w": "apple",
+          "ipa": "",
+          "cn": "苹果"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "First, they pick the apples!",
+          "zh": "首先，他们摘苹果！"
+        },
+        {
+          "en": "Ducky stands on a ladder and reach, peach, reaches up high!",
+          "zh": "鸭子站在梯子上，伸手，桃子，伸到高处！"
+        },
+        {
+          "en": "He pulls them off the branches and gives them to Jojo who tosses them into the basket.",
+          "zh": "他把它们从树枝上拉下来，交给乔乔，乔乔把它们扔进篮子里。"
+        },
+        {
+          "en": "Uh oh!",
+          "zh": "呃哦！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出苹果，让孩子找全、找齐再往下讲",
+          "en": "First, they pick the apples!",
+          "zh": "首先，他们摘苹果！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着苹果，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "Ducky stands on a ladder and reach, peach, reaches up high!",
+          "zh": "鸭子站在梯子上，伸手，桃子，伸到高处！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Uh oh!",
+          "zh": "呃哦！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "first",
+          "ipa": "",
+          "cn": "第一的"
+        },
+        {
+          "w": "pick",
+          "ipa": "",
+          "cn": "挑选"
+        },
+        {
+          "w": "apples",
+          "ipa": "",
+          "cn": "苹果"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "Teeny uses his sharp little beak to pick the nuts.",
+          "zh": "蒂尼用他锋利的小喙来摘坚果。"
+        },
+        {
+          "en": "He drops the nuts to the ground.",
+          "zh": "他把坚果掉到地上。"
+        },
+        {
+          "en": "Jojo quickly picks them up and throws them into the basket.",
+          "zh": "乔乔赶紧把它们捡起来扔进篮子里。"
+        },
+        {
+          "en": "How many acorns can you see in the basket?",
+          "zh": "你能看到篮子里有多少个橡子？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 数数互动",
+          "action": "指着纸质书上的画面细节，和孩子一起大声数，数完击掌庆祝",
+          "en": "How many acorns can you see in the basket?",
+          "zh": "你能看到篮子里有多少个橡子？",
+          "note": "数错不要紧，重点是开口跟节奏；可以中英文混着说数字"
+        },
+        {
+          "step": "② 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Teeny uses his sharp little beak to pick the nuts.",
+          "zh": "蒂尼用他锋利的小喙来摘坚果。",
+          "note": "关键词跟读即可，不必整句一次说对"
+        },
+        {
+          "step": "③ 跟读巩固",
+          "action": "选本页最喜欢的一句，妈妈先说一遍，再请孩子复述 2 遍",
+          "en": "He drops the nuts to the ground.",
+          "zh": "他把坚果掉到地上。",
+          "note": "复述允许中英夹杂，敢说就比说对更重要"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "teeny",
+          "ipa": "",
+          "cn": "Teeny"
+        },
+        {
+          "w": "uses",
+          "ipa": "",
+          "cn": "用途"
+        },
+        {
+          "w": "his",
+          "ipa": "",
+          "cn": "他的"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "Now Ducky is picking carrots!",
+          "zh": "现在鸭子正在摘胡萝卜呢！"
+        },
+        {
+          "en": "He's pulling them right out of the ground!",
+          "zh": "他正在把他们从地里拉出来！"
+        },
+        {
+          "en": "Can you pull a carrot out, too? 1,2, 3...",
+          "zh": "你能把胡萝卜也拔出来吗？1,2,3..."
+        },
+        {
+          "en": "POP!",
+          "zh": "流行音乐！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Can you pull a carrot out, too? 1,2, 3...",
+          "zh": "你能把胡萝卜也拔出来吗？1,2,3...",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Now Ducky is picking carrots!",
+          "zh": "现在鸭子正在摘胡萝卜呢！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "He's pulling them right out of the ground!",
+          "zh": "他正在把他们从地里拉出来！",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "Ducky"
+        },
+        {
+          "w": "picking",
+          "ipa": "",
+          "cn": "采摘"
+        },
+        {
+          "w": "carrots",
+          "ipa": "",
+          "cn": "胡萝卜"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "Jojo, Teeny, and Ducky are all done picking the apples, nuts, and carrots.",
+          "zh": "Jojo、Teeny和Ducky都已经摘完了苹果、坚果和胡萝卜。"
+        },
+        {
+          "en": "Phew!",
+          "zh": "唷！"
+        },
+        {
+          "en": "That was a lot of work!",
+          "zh": "那是很多工作！"
+        },
+        {
+          "en": "Wait a minute...oh no!",
+          "zh": "等一下...哦不！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出苹果，让孩子找全、找齐再往下讲",
+          "en": "Jojo, Teeny, and Ducky are all done picking the apples, nuts, and carrots.",
+          "zh": "Jojo、Teeny和Ducky都已经摘完了苹果、坚果和胡萝卜。",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着苹果，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "Phew!",
+          "zh": "唷！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "That was a lot of work!",
+          "zh": "那是很多工作！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "teeny",
+          "ipa": "",
+          "cn": "Teeny"
+        },
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "Ducky"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "Here comes Gyuri!",
+          "zh": "久里来了！"
+        },
+        {
+          "en": "He's swinging from the branches like a monkey!",
+          "zh": "他像猴子一样在树枝上荡来荡去！"
+        },
+        {
+          "en": "He always knows what to do!",
+          "zh": "他总是知道该怎么做！"
+        },
+        {
+          "en": "I wonder what amazing things he'll do today!",
+          "zh": "不知道今天他会做出什么惊人的事情呢！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Here comes Gyuri!",
+          "zh": "久里来了！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "He's swinging from the branches like a monkey!",
+          "zh": "他像猴子一样在树枝上荡来荡去！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "He always knows what to do!",
+          "zh": "他总是知道该怎么做！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "这里"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "来了"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Gyuri uses his tail to shake the apples off the tree!",
+          "zh": "久里用尾巴把苹果从树上抖下来！"
+        },
+        {
+          "en": "Shake, shake, shake !",
+          "zh": "摇，摇，摇！"
+        },
+        {
+          "en": "He picks the nuts so fast that itlooks like he has 4 hands!",
+          "zh": "他摘坚果的速度如此之快，看起来就像他有四只手一样！"
+        },
+        {
+          "en": "Pick, pick, pick!!",
+          "zh": "选选选选！！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出树，让孩子找全、找齐再往下讲",
+          "en": "Gyuri uses his tail to shake the apples off the tree!",
+          "zh": "久里用尾巴把苹果从树上抖下来！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 声音模仿",
+          "action": "先妈妈示范叫声，再让孩子跟读；可以配手势或身体动作",
+          "en": "Shake, shake, shake !",
+          "zh": "摇，摇，摇！",
+          "note": "学动物/声音叫能降低开口压力，孩子更愿意参与"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "He picks the nuts so fast that itlooks like he has 4 hands!",
+          "zh": "他摘坚果的速度如此之快，看起来就像他有四只手一样！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        },
+        {
+          "w": "uses",
+          "ipa": "",
+          "cn": "用途"
+        },
+        {
+          "w": "his",
+          "ipa": "",
+          "cn": "他的"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "Thank you, Gyuri!",
+          "zh": "谢谢你，久里！"
+        },
+        {
+          "en": "You saved us!",
+          "zh": "你救了我们！"
+        },
+        {
+          "en": "Who's eating an apple?",
+          "zh": "谁在吃苹果？"
+        },
+        {
+          "en": "Jojo, Gyuri, and the bird!",
+          "zh": "乔乔、久里和小鸟！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出苹果，让孩子找全、找齐再往下讲",
+          "en": "Thank you, Gyuri!",
+          "zh": "谢谢你，久里！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着苹果提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Who's eating an apple?",
+          "zh": "谁在吃苹果？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "You saved us!",
+          "zh": "你救了我们！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "thank",
+          "ipa": "",
+          "cn": "感谢"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        },
+        {
+          "w": "saved",
+          "ipa": "",
+          "cn": "已保存"
+        }
+      ]
+    }
+  ]
+}

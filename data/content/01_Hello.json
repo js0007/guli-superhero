@@ -1,0 +1,616 @@
+{
+  "book": "Hello",
+  "folder": "01_Hello",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "Look!",
+          "zh": "看！"
+        },
+        {
+          "en": "Bella, Jojo, Ducky, Teeny, and Leo are at the playground!",
+          "zh": "贝拉、乔乔、达基、蒂尼和利奥在游乐场！"
+        },
+        {
+          "en": "Can you say, \"Hello everybody!",
+          "zh": "你能说：“大家好！"
+        },
+        {
+          "en": "This playground looks like a lot of fun!",
+          "zh": "这个游乐场看起来很好玩！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 认识伙伴",
+          "action": "指着纸质书上Bella、Jojo、Ducky、Teeny，让孩子认一认谁是谁，再点「整页原音」",
+          "en": "Bella, Jojo, Ducky, Teeny, and Leo are at the playground!",
+          "zh": "贝拉、乔乔、达基、蒂尼和利奥在游乐场！",
+          "note": "角色名不用一次讲完，熟悉感会贯穿全系列"
+        },
+        {
+          "step": "② 打招呼跟读",
+          "action": "拍手或挥手说 Hello，邀请孩子向画面里的朋友打招呼",
+          "en": "Can you say, \"Hello everybody!",
+          "zh": "你能说：“大家好！",
+          "note": "打招呼句式比单词更重要，说完可问孩子最想和谁说 Hello"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Look!",
+          "zh": "看！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "Ducky"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "This is Leo.",
+          "zh": "这是利奥。"
+        },
+        {
+          "en": "He's a lion.",
+          "zh": "他是一头狮子。"
+        },
+        {
+          "en": "Say, \"Hello, Leo!",
+          "zh": "说：“你好，利奥！"
+        },
+        {
+          "en": "\"Is Leo going down the slide?",
+          "zh": "“利奥要从滑梯上下来吗？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 认识角色",
+          "action": "指着纸质书上的Leo，问孩子叫什么、是什么动物，再点「整页原音」",
+          "en": "This is Leo.",
+          "zh": "这是利奥。",
+          "note": "角色介绍页不用一次讲完所有词，熟悉感比准确度更重要"
+        },
+        {
+          "step": "② 打招呼跟读",
+          "action": "拍手或挥手说 Hello，邀请孩子向画面里的朋友打招呼",
+          "en": "Say, \"Hello, Leo!",
+          "zh": "说：“你好，利奥！",
+          "note": "打招呼句式比单词更重要，说完可问孩子最想和谁说 Hello"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "\"Is Leo going down the slide?",
+          "zh": "“利奥要从滑梯上下来吗？",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "Leo"
+        },
+        {
+          "w": "he's",
+          "ipa": "",
+          "cn": "他是"
+        },
+        {
+          "w": "lion",
+          "ipa": "",
+          "cn": "狮子"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "This is Bella.",
+          "zh": "这是贝拉。"
+        },
+        {
+          "en": "She's a rabbit.",
+          "zh": "她是一只兔子。"
+        },
+        {
+          "en": "Can you make rabbit ears, like this?",
+          "zh": "这样的兔子耳朵可以做吗？"
+        },
+        {
+          "en": "Yes, good!",
+          "zh": "是的，很好！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 认识角色",
+          "action": "指着纸质书上的Bella，问孩子叫什么、是什么动物，再点「整页原音」",
+          "en": "This is Bella.",
+          "zh": "这是贝拉。",
+          "note": "角色介绍页不用一次讲完所有词，熟悉感比准确度更重要"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Can you make rabbit ears, like this?",
+          "zh": "这样的兔子耳朵可以做吗？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Yes, good!",
+          "zh": "是的，很好！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        },
+        {
+          "w": "she's",
+          "ipa": "",
+          "cn": "她是"
+        },
+        {
+          "w": "rabbit",
+          "ipa": "",
+          "cn": "兔子"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "This is Jojo!",
+          "zh": "这是乔乔！"
+        },
+        {
+          "en": "He's a monkey, and he loves dancing.",
+          "zh": "他是一只猴子，他喜欢跳舞。"
+        },
+        {
+          "en": "He brought his music player to theplayground so he can listen to music and dance.",
+          "zh": "他把他的音乐播放器带到操场上，这样他就可以听音乐和跳舞。"
+        },
+        {
+          "en": "See?",
+          "zh": "看？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 认识角色",
+          "action": "指着纸质书上的Jojo，问孩子叫什么、是什么动物，再点「整页原音」",
+          "en": "This is Jojo!",
+          "zh": "这是乔乔！",
+          "note": "角色介绍页不用一次讲完所有词，熟悉感比准确度更重要"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "See?",
+          "zh": "看？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "He's a monkey, and he loves dancing.",
+          "zh": "他是一只猴子，他喜欢跳舞。",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "he's",
+          "ipa": "",
+          "cn": "他是"
+        },
+        {
+          "w": "monkey",
+          "ipa": "",
+          "cn": "猴"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "This is Teeny!",
+          "zh": "这是蒂尼！"
+        },
+        {
+          "en": "Teeny is a teeny, tiny, little bird.",
+          "zh": "蒂尼是一只很小的、很小的小鸟。"
+        },
+        {
+          "en": "Isn't she cute?",
+          "zh": "她不是很可爱吗？"
+        },
+        {
+          "en": "Is Teeny standing on the ground?",
+          "zh": "蒂尼站在地上吗？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 认识角色",
+          "action": "指着纸质书上的Teeny，问孩子叫什么、是什么动物，再点「整页原音」",
+          "en": "This is Teeny!",
+          "zh": "这是蒂尼！",
+          "note": "角色介绍页不用一次讲完所有词，熟悉感比准确度更重要"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Isn't she cute?",
+          "zh": "她不是很可爱吗？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Is Teeny standing on the ground?",
+          "zh": "蒂尼站在地上吗？",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "teeny",
+          "ipa": "",
+          "cn": "Teeny"
+        },
+        {
+          "w": "tiny",
+          "ipa": "",
+          "cn": "微小的"
+        },
+        {
+          "w": "little",
+          "ipa": "",
+          "cn": "小的"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "This is Ducky.",
+          "zh": "这是鸭子。"
+        },
+        {
+          "en": "Ducky is a little yellow duck.",
+          "zh": "Ducky是一只小黄鸭。"
+        },
+        {
+          "en": "Is Ducky going down the slide with Leo, Bella, and Jojo?",
+          "zh": "Ducky会和Leo、Bella和Jojo一起滑滑梯吗？"
+        },
+        {
+          "en": "No.",
+          "zh": "不。"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 认识角色",
+          "action": "指着纸质书上的Ducky，问孩子叫什么、是什么动物，再点「整页原音」",
+          "en": "This is Ducky.",
+          "zh": "这是鸭子。",
+          "note": "角色介绍页不用一次讲完所有词，熟悉感比准确度更重要"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Is Ducky going down the slide with Leo, Bella, and Jojo?",
+          "zh": "Ducky会和Leo、Bella和Jojo一起滑滑梯吗？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Ducky is a little yellow duck.",
+          "zh": "Ducky是一只小黄鸭。",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "Ducky"
+        },
+        {
+          "w": "little",
+          "ipa": "",
+          "cn": "小的"
+        },
+        {
+          "w": "yellow",
+          "ipa": "",
+          "cn": "黄色的"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "uh oh!",
+          "zh": "呃哦！"
+        },
+        {
+          "en": "Jojo, Bella, and Leo are STUCK ON THE SLIDE!!!",
+          "zh": "乔乔、贝拉和利奥被困在滑梯上！！！"
+        },
+        {
+          "en": "What can they do?",
+          "zh": "他们能做什么？"
+        },
+        {
+          "en": "Maybe Gyuri can help us!",
+          "zh": "也许久里可以帮助我们！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "uh oh!",
+          "zh": "呃哦！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "What can they do?",
+          "zh": "他们能做什么？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Jojo, Bella, and Leo are STUCK ON THE SLIDE!!!",
+          "zh": "乔乔、贝拉和利奥被困在滑梯上！！！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "Leo"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "Here comes Gyuri!",
+          "zh": "久里来了！"
+        },
+        {
+          "en": "Hooray!",
+          "zh": "万岁！"
+        },
+        {
+          "en": "Let's put a cape on like Gyuri!",
+          "zh": "像Gyuri一样披上斗篷吧！"
+        },
+        {
+          "en": "Wow!",
+          "zh": "哇！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Let's put a cape on like Gyuri!",
+          "zh": "像Gyuri一样披上斗篷吧！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "Here comes Gyuri!",
+          "zh": "久里来了！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Hooray!",
+          "zh": "万岁！",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "这里"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "来了"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Gyuri wraps his long tail around Jojo, and Pop, pulls him out!",
+          "zh": "Gyuri用他的长尾巴缠住Jojo，然后Pop将他拉了出来！"
+        },
+        {
+          "en": "Gyuri uses his tail to pull Bella out, POP!",
+          "zh": "久里用尾巴把贝拉拉了出来，啪！"
+        },
+        {
+          "en": "She looks so surprised!",
+          "zh": "她看起来很惊讶！"
+        },
+        {
+          "en": "Gyuri pulls Leo out of the slide, POP!",
+          "zh": "Gyuri将Leo从滑梯中拉了出来，啪！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Gyuri wraps his long tail around Jojo, and Pop, pulls him out!",
+          "zh": "Gyuri用他的长尾巴缠住Jojo，然后Pop将他拉了出来！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "Gyuri uses his tail to pull Bella out, POP!",
+          "zh": "久里用尾巴把贝拉拉了出来，啪！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "She looks so surprised!",
+          "zh": "她看起来很惊讶！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "Gyuri"
+        },
+        {
+          "w": "wraps",
+          "ipa": "",
+          "cn": "包裹"
+        },
+        {
+          "w": "his",
+          "ipa": "",
+          "cn": "他的"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "Bella, Jojo, Ducky, Teeny, and Leo all love doing different things.",
+          "zh": "贝拉、乔乔、达奇、蒂尼和利奥都喜欢做不同的事情。"
+        },
+        {
+          "en": "Can you remember what Bella likes to do?",
+          "zh": "你还记得贝拉喜欢做什么吗？"
+        },
+        {
+          "en": "What about Jojo?",
+          "zh": "乔乔呢？"
+        },
+        {
+          "en": "And Ducky?",
+          "zh": "还有鸭子呢？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Can you remember what Bella likes to do?",
+          "zh": "你还记得贝拉喜欢做什么吗？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "What about Jojo?",
+          "zh": "乔乔呢？",
+          "note": "关键词跟读即可，不必整句一次说对"
+        },
+        {
+          "step": "③ 跟读巩固",
+          "action": "选本页最喜欢的一句，妈妈先说一遍，再请孩子复述 2 遍",
+          "en": "And Ducky?",
+          "zh": "还有鸭子呢？",
+          "note": "复述允许中英夹杂，敢说就比说对更重要"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "Ducky"
+        }
+      ]
+    }
+  ]
+}

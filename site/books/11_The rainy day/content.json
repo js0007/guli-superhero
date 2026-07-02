@@ -1,0 +1,616 @@
+{
+  "book": "The rainy day",
+  "folder": "11_The rainy day",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "RAIN There's Bella!",
+          "zh": "雨贝拉来了！"
+        },
+        {
+          "en": "What's she doing?",
+          "zh": "她在做什么？"
+        },
+        {
+          "en": "Watching TV?",
+          "zh": "看电视？"
+        },
+        {
+          "en": "No, she's looking out the window.",
+          "zh": "不，她正在看着窗外。"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察暖场",
+          "action": "先不急着读字，让孩子看纸质书跨页图，说出看到了什么；再播放「整页原音」",
+          "en": "RAIN There's Bella!",
+          "zh": "雨贝拉来了！",
+          "note": "第一遍允许只听不说，建立「看图→听→说」的顺序"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "What's she doing?",
+          "zh": "她在做什么？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Watching TV?",
+          "zh": "看电视？",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rain",
+          "ipa": "",
+          "cn": "雨"
+        },
+        {
+          "w": "there's",
+          "ipa": "",
+          "cn": "有"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "AINY Look at Jojo, Leo, and Ducky.",
+          "zh": "艾尼看看乔乔、利奥和达基。"
+        },
+        {
+          "en": "They look bored.",
+          "zh": "他们看起来很无聊。"
+        },
+        {
+          "en": "They don't like rainy days.",
+          "zh": "他们不喜欢下雨天。"
+        },
+        {
+          "en": "Does Bella look bored, too?",
+          "zh": "贝拉看起来也很无聊吗？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "AINY Look at Jojo, Leo, and Ducky.",
+          "zh": "艾尼看看乔乔、利奥和达基。",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Does Bella look bored, too?",
+          "zh": "贝拉看起来也很无聊吗？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "They look bored.",
+          "zh": "他们看起来很无聊。",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "ainy",
+          "ipa": "",
+          "cn": "艾尼"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "Leo"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "RAINY Bella has a great idea!",
+          "zh": "雨贝拉有一个好主意！"
+        },
+        {
+          "en": "She thinks that everyone can wear raincoats!",
+          "zh": "她认为每个人都可以穿雨衣！"
+        },
+        {
+          "en": "What a good idea.",
+          "zh": "多好的主意啊。"
+        },
+        {
+          "en": "Can you find the rain hats?",
+          "zh": "你能找到雨帽吗？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Can you find the rain hats?",
+          "zh": "你能找到雨帽吗？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "RAINY Bella has a great idea!",
+          "zh": "雨贝拉有一个好主意！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "She thinks that everyone can wear raincoats!",
+          "zh": "她认为每个人都可以穿雨衣！",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rainy",
+          "ipa": "",
+          "cn": "下雨的"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        },
+        {
+          "w": "great",
+          "ipa": "",
+          "cn": "伟大的"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "What color is Ducky's coat?",
+          "zh": "鸭子的外套是什么颜色的？"
+        },
+        {
+          "en": "Yes, it's red.",
+          "zh": "是的，它是红色的。"
+        },
+        {
+          "en": "Ducky is wearing a red rain coat.",
+          "zh": "鸭子穿着一件红色雨衣。"
+        },
+        {
+          "en": "Do you have a rain coat, too?",
+          "zh": "你也有雨衣吗？"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "What color is Ducky's coat?",
+          "zh": "鸭子的外套是什么颜色的？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Do you have a rain coat, too?",
+          "zh": "你也有雨衣吗？",
+          "note": "关键词跟读即可，不必整句一次说对"
+        },
+        {
+          "step": "③ 跟读巩固",
+          "action": "选本页最喜欢的一句，妈妈先说一遍，再请孩子复述 2 遍",
+          "en": "Yes, it's red.",
+          "zh": "是的，它是红色的。",
+          "note": "复述允许中英夹杂，敢说就比说对更重要"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "color",
+          "ipa": "",
+          "cn": "颜色"
+        },
+        {
+          "w": "ducky's",
+          "ipa": "",
+          "cn": "鸭子的"
+        },
+        {
+          "w": "coat",
+          "ipa": "",
+          "cn": "外套"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "RAINY Look!",
+          "zh": "下雨了看！"
+        },
+        {
+          "en": "Bella found a puddle to jump in!",
+          "zh": "贝拉找到了一个水坑，可以跳进去了！"
+        },
+        {
+          "en": "She's jumping up and down, splashing water everywhere!",
+          "zh": "她上蹿下跳，把水溅得到处都是！"
+        },
+        {
+          "en": "Jump, jump, jump!",
+          "zh": "跳，跳，跳！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "RAINY Look!",
+          "zh": "下雨了看！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 躲猫猫",
+          "action": "用手遮住一部分画面，让孩子猜谁藏在哪里，揭晓时夸张一点",
+          "en": "Jump, jump, jump!",
+          "zh": "跳，跳，跳！",
+          "note": "悬念感是这册的核心玩法，别急着揭晓答案"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Bella found a puddle to jump in!",
+          "zh": "贝拉找到了一个水坑，可以跳进去了！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rainy",
+          "ipa": "",
+          "cn": "下雨的"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "Bella"
+        },
+        {
+          "w": "found",
+          "ipa": "",
+          "cn": "找到了"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "Rai N?",
+          "zh": "雨？"
+        },
+        {
+          "en": "What are Jojo and Leo holding in their hands?",
+          "zh": "Jojo和Leo手里拿着的是什么？"
+        },
+        {
+          "en": "Umbrellas!",
+          "zh": "雨伞！"
+        },
+        {
+          "en": "Jojo has a green one, and Leo has a purple one!",
+          "zh": "Jojo有绿色的，Leo有紫色的！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Rai N?",
+          "zh": "雨？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Umbrellas!",
+          "zh": "雨伞！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "What are Jojo and Leo holding in their hands?",
+          "zh": "Jojo和Leo手里拿着的是什么？",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rai",
+          "ipa": "",
+          "cn": "莱"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "Jojo"
+        },
+        {
+          "w": "leo",
+          "ipa": "",
+          "cn": "Leo"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "RAIN uh oh...look at the clouds!",
+          "zh": "雨呃哦...看云！"
+        },
+        {
+          "en": "They're black and gray!",
+          "zh": "它们是黑色和灰色的！"
+        },
+        {
+          "en": "I think a storm is coming.",
+          "zh": "我认为暴风雨即将来临。"
+        },
+        {
+          "en": "Boom!",
+          "zh": "繁荣！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "RAIN uh oh...look at the clouds!",
+          "zh": "雨呃哦...看云！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "They're black and gray!",
+          "zh": "它们是黑色和灰色的！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Boom!",
+          "zh": "繁荣！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rain",
+          "ipa": "",
+          "cn": "雨"
+        },
+        {
+          "w": "clouds",
+          "ipa": "",
+          "cn": "云"
+        },
+        {
+          "w": "they're",
+          "ipa": "",
+          "cn": "他们是"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "RAIN That storm cloud looks ANGRY!!!",
+          "zh": "雨暴风云看起来很生气！"
+        },
+        {
+          "en": "Lightning is flashing!",
+          "zh": "闪电在闪烁！"
+        },
+        {
+          "en": "Why is he so upset?",
+          "zh": "他为什么这么难过？"
+        },
+        {
+          "en": "Oh, here comes Gyuri!",
+          "zh": "哦，久里来了！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "RAIN That storm cloud looks ANGRY!!!",
+          "zh": "雨暴风云看起来很生气！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 提问互动",
+          "action": "指着画面细节提问，等 3～5 秒给孩子思考时间，不会就一起听音频再试",
+          "en": "Why is he so upset?",
+          "zh": "他为什么这么难过？",
+          "note": "开放式问题没有标准答案，孩子沉默时可以先用中文聊"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "Lightning is flashing!",
+          "zh": "闪电在闪烁！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rain",
+          "ipa": "",
+          "cn": "雨"
+        },
+        {
+          "w": "storm",
+          "ipa": "",
+          "cn": "风暴"
+        },
+        {
+          "w": "cloud",
+          "ipa": "",
+          "cn": "云"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "RAINY Oh!",
+          "zh": "下雨哦！"
+        },
+        {
+          "en": "He's using the umbrella like a shield!",
+          "zh": "他把伞当作盾牌来用！"
+        },
+        {
+          "en": "It protects him from the lightning!",
+          "zh": "它可以保护他免受闪电伤害！"
+        },
+        {
+          "en": "Go away, big storm cloud!!!",
+          "zh": "走开，大风暴云！！！"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "RAINY Oh!",
+          "zh": "下雨哦！",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 跟读互动",
+          "action": "指着画面细节，邀请孩子跟读这句，等几秒给孩子思考时间",
+          "en": "He's using the umbrella like a shield!",
+          "zh": "他把伞当作盾牌来用！",
+          "note": "不会说就重复关键词，或点英文听发音"
+        },
+        {
+          "step": "③ 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "It protects him from the lightning!",
+          "zh": "它可以保护他免受闪电伤害！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rainy",
+          "ipa": "",
+          "cn": "下雨的"
+        },
+        {
+          "w": "he's",
+          "ipa": "",
+          "cn": "他是"
+        },
+        {
+          "w": "using",
+          "ipa": "",
+          "cn": "使用"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "RAINY Wow!",
+          "zh": "下雨哇！"
+        },
+        {
+          "en": "Do you know what we can see when the sun comes out after it rains?",
+          "zh": "你知道雨后太阳出来时我们能看到什么吗？"
+        },
+        {
+          "en": "Yes!",
+          "zh": "是的！"
+        },
+        {
+          "en": "A big, beautiful, colorful rainbow.",
+          "zh": "一道巨大的、美丽的、色彩缤纷的彩虹。"
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 观察找一找",
+          "action": "在纸质书上用手指圈出画面细节，让孩子找全、找齐再往下讲",
+          "en": "Do you know what we can see when the sun comes out after it rains?",
+          "zh": "你知道雨后太阳出来时我们能看到什么吗？",
+          "note": "找物游戏让页面「活」起来，别一直线性往下读"
+        },
+        {
+          "step": "② 重点跟读",
+          "action": "挑本页最有情绪的句子，重复 2～3 遍，一遍比一遍有表现力",
+          "en": "RAINY Wow!",
+          "zh": "下雨哇！",
+          "note": "感叹句最适合练语气，夸张一点孩子反而记得牢"
+        },
+        {
+          "step": "③ 互动拓展",
+          "action": "指着纸质书画面，邀请孩子跟读这句；不会就点英文听发音",
+          "en": "Yes!",
+          "zh": "是的！",
+          "note": "关键词跟读即可，不必整句一次说对"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "rainy",
+          "ipa": "",
+          "cn": "下雨的"
+        },
+        {
+          "w": "wow",
+          "ipa": "",
+          "cn": "哇"
+        },
+        {
+          "w": "know",
+          "ipa": "",
+          "cn": "知道"
+        }
+      ]
+    }
+  ]
+}

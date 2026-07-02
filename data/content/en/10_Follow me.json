@@ -1,0 +1,616 @@
+{
+  "book": "Follow me",
+  "folder": "10_Follow me",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "MTE Brrr...what a cold, snowy day!",
+          "zh": ""
+        },
+        {
+          "en": "Everything is covered in snow!",
+          "zh": ""
+        },
+        {
+          "en": "The ground!",
+          "zh": ""
+        },
+        {
+          "en": "The trees!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "MTE Brrr...what a cold, snowy day!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Who's that?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Can you count all the tracks?1-10...10 tracks!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "mte",
+          "ipa": "",
+          "cn": "mte"
+        },
+        {
+          "w": "brrr",
+          "ipa": "",
+          "cn": "brrr"
+        },
+        {
+          "w": "cold",
+          "ipa": "",
+          "cn": "cold"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "Hm...",
+          "zh": ""
+        },
+        {
+          "en": "I wonder who made those tracks!",
+          "zh": ""
+        },
+        {
+          "en": "What do you think?",
+          "zh": ""
+        },
+        {
+          "en": "Was it a cat?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Hm...",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What do you think?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Let's go!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "wonder",
+          "ipa": "",
+          "cn": "wonder"
+        },
+        {
+          "w": "made",
+          "ipa": "",
+          "cn": "made"
+        },
+        {
+          "w": "tracks",
+          "ipa": "",
+          "cn": "tracks"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "Oh, look!",
+          "zh": ""
+        },
+        {
+          "en": "What's that!",
+          "zh": ""
+        },
+        {
+          "en": "It's a mommy rabbit!",
+          "zh": ""
+        },
+        {
+          "en": "Where is she going?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Oh, look!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Where is she going?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "They're so sweet.",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "what's",
+          "ipa": "",
+          "cn": "what's"
+        },
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "it's"
+        },
+        {
+          "w": "mommy",
+          "ipa": "",
+          "cn": "mommy"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "Hey!",
+          "zh": ""
+        },
+        {
+          "en": "Jojo, Bella, Teeny, and Ducky found MORE tracks!",
+          "zh": ""
+        },
+        {
+          "en": "Do they look the same as the rabbit tracks?",
+          "zh": ""
+        },
+        {
+          "en": "Let's go back a page and compare them.",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Hey!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Do they look the same as the rabbit tracks?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Let's go!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "hey",
+          "ipa": "",
+          "cn": "hey"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "jojo"
+        },
+        {
+          "w": "bella",
+          "ipa": "",
+          "cn": "bella"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "ME Look up in the tree!",
+          "zh": ""
+        },
+        {
+          "en": "What's that?",
+          "zh": ""
+        },
+        {
+          "en": "It's just a little squirrel!",
+          "zh": ""
+        },
+        {
+          "en": "He's in his little hole...munch. munch, munching away on some acorns.",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "ME Look up in the tree!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What's that?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "See you later!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "tree",
+          "ipa": "",
+          "cn": "tree"
+        },
+        {
+          "w": "what's",
+          "ipa": "",
+          "cn": "what's"
+        },
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "it's"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "Oh!",
+          "zh": ""
+        },
+        {
+          "en": "Even MORE tracks!",
+          "zh": ""
+        },
+        {
+          "en": "Whoa...are those tracks big, or small?",
+          "zh": ""
+        },
+        {
+          "en": "Yeah, they're really big.",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Oh!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Whoa...are those tracks big, or small?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "But, I hope we don't find something scary!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "even",
+          "ipa": "",
+          "cn": "even"
+        },
+        {
+          "w": "tracks",
+          "ipa": "",
+          "cn": "tracks"
+        },
+        {
+          "w": "whoa",
+          "ipa": "",
+          "cn": "whoa"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "Oh no!!!",
+          "zh": ""
+        },
+        {
+          "en": "What is it!",
+          "zh": ""
+        },
+        {
+          "en": "It's a......",
+          "zh": ""
+        },
+        {
+          "en": "BEAR!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Oh no!!!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "What is it!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "A hungry, angry bear is trying to get us!!!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "it's",
+          "ipa": "",
+          "cn": "it's"
+        },
+        {
+          "w": "bear",
+          "ipa": "",
+          "cn": "bear"
+        },
+        {
+          "w": "doesn't",
+          "ipa": "",
+          "cn": "doesn't"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "ME Here comes Gyuri, skiing down the hill as fast as lightning!",
+          "zh": ""
+        },
+        {
+          "en": "Do you think he's stronger and faster than the bear?",
+          "zh": ""
+        },
+        {
+          "en": "Yeah, I think so, too!",
+          "zh": ""
+        },
+        {
+          "en": "Gyuri will save us from the bear!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "ME Here comes Gyuri, skiing down the hill as fast as lightning!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Do you think he's stronger and faster than the bear?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Gyuri will save us from the bear!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "here"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "comes"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Gyuri is going to lead us to safety!",
+          "zh": ""
+        },
+        {
+          "en": "Quick!",
+          "zh": ""
+        },
+        {
+          "en": "Follow him!",
+          "zh": ""
+        },
+        {
+          "en": "Hop on the rocks to cross the stream!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Gyuri is going to lead us to safety!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Is the bear still following us?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "I don't think so!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        },
+        {
+          "w": "going",
+          "ipa": "",
+          "cn": "going"
+        },
+        {
+          "w": "lead",
+          "ipa": "",
+          "cn": "lead"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "ME We're safe in our living room!",
+          "zh": ""
+        },
+        {
+          "en": "There are blankets!",
+          "zh": ""
+        },
+        {
+          "en": "There's a fire in the fireplace.",
+          "zh": ""
+        },
+        {
+          "en": "Let's get warm!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "ME We're safe in our living room!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Should we clean it now?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "You're always there when we need you!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "we're",
+          "ipa": "",
+          "cn": "we're"
+        },
+        {
+          "w": "safe",
+          "ipa": "",
+          "cn": "safe"
+        },
+        {
+          "w": "our",
+          "ipa": "",
+          "cn": "our"
+        }
+      ]
+    }
+  ]
+}

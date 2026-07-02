@@ -1,0 +1,616 @@
+{
+  "book": "Yum Yum",
+  "folder": "08_Yum Yum",
+  "pages": [
+    {
+      "id": "0-1",
+      "extendText": [
+        {
+          "en": "Where are we today?",
+          "zh": ""
+        },
+        {
+          "en": "I see apple trees!",
+          "zh": ""
+        },
+        {
+          "en": "And lots of little bushes in a row.",
+          "zh": ""
+        },
+        {
+          "en": "I wonder what they are?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Where are we today?",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Where are we today?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "It's a squirrel!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "today",
+          "ipa": "",
+          "cn": "today"
+        },
+        {
+          "w": "apple",
+          "ipa": "",
+          "cn": "apple"
+        },
+        {
+          "w": "trees",
+          "ipa": "",
+          "cn": "trees"
+        }
+      ]
+    },
+    {
+      "id": "2-3",
+      "extendText": [
+        {
+          "en": "Ducky, Jojo, and Teeny are looking out the window.",
+          "zh": ""
+        },
+        {
+          "en": "There are 4 trees.",
+          "zh": ""
+        },
+        {
+          "en": "Can you find the 3 trees with apples on them?",
+          "zh": ""
+        },
+        {
+          "en": "One, two, three...there they are!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Ducky, Jojo, and Teeny are looking out the window.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you find the 3 trees with apples on them?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "It's a beautiful day!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "ducky"
+        },
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "jojo"
+        },
+        {
+          "w": "teeny",
+          "ipa": "",
+          "cn": "teeny"
+        }
+      ]
+    },
+    {
+      "id": "4-5",
+      "extendText": [
+        {
+          "en": "Jojo climbed the apple tree!",
+          "zh": ""
+        },
+        {
+          "en": "He's picking apples!",
+          "zh": ""
+        },
+        {
+          "en": "The apples look juicy and crunchy!",
+          "zh": ""
+        },
+        {
+          "en": "Do you want a bite?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Jojo climbed the apple tree!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Do you want a bite?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Do you like apples, nuts, or carrots?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "jojo"
+        },
+        {
+          "w": "climbed",
+          "ipa": "",
+          "cn": "climbed"
+        },
+        {
+          "w": "apple",
+          "ipa": "",
+          "cn": "apple"
+        }
+      ]
+    },
+    {
+      "id": "6-7",
+      "extendText": [
+        {
+          "en": "First, they pick the apples!",
+          "zh": ""
+        },
+        {
+          "en": "Ducky stands on a ladder and reach, peach, reaches up high!",
+          "zh": ""
+        },
+        {
+          "en": "He pulls them off the branches and gives them to Jojo who tosses them into the basket.",
+          "zh": ""
+        },
+        {
+          "en": "Uh oh!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "First, they pick the apples!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Ducky stands on a ladder and reach, peach, reaches up high!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "The birds take the apples when Jojo and Ducky aren't paying attention!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "first",
+          "ipa": "",
+          "cn": "first"
+        },
+        {
+          "w": "pick",
+          "ipa": "",
+          "cn": "pick"
+        },
+        {
+          "w": "apples",
+          "ipa": "",
+          "cn": "apples"
+        }
+      ]
+    },
+    {
+      "id": "8-9",
+      "extendText": [
+        {
+          "en": "Teeny uses his sharp little beak to pick the nuts.",
+          "zh": ""
+        },
+        {
+          "en": "He drops the nuts to the ground.",
+          "zh": ""
+        },
+        {
+          "en": "Jojo quickly picks them up and throws them into the basket.",
+          "zh": ""
+        },
+        {
+          "en": "How many acorns can you see in the basket?",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Teeny uses his sharp little beak to pick the nuts.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "How many acorns can you see in the basket?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "How many acorns can you see in the basket?",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "teeny",
+          "ipa": "",
+          "cn": "teeny"
+        },
+        {
+          "w": "uses",
+          "ipa": "",
+          "cn": "uses"
+        },
+        {
+          "w": "his",
+          "ipa": "",
+          "cn": "his"
+        }
+      ]
+    },
+    {
+      "id": "10-11",
+      "extendText": [
+        {
+          "en": "Now Ducky is picking carrots!",
+          "zh": ""
+        },
+        {
+          "en": "He's pulling them right out of the ground!",
+          "zh": ""
+        },
+        {
+          "en": "Can you pull a carrot out, too? 1,2, 3...",
+          "zh": ""
+        },
+        {
+          "en": "POP!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Now Ducky is picking carrots!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Can you pull a carrot out, too? 1,2, 3...",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "The horse!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "ducky"
+        },
+        {
+          "w": "picking",
+          "ipa": "",
+          "cn": "picking"
+        },
+        {
+          "w": "carrots",
+          "ipa": "",
+          "cn": "carrots"
+        }
+      ]
+    },
+    {
+      "id": "12-13",
+      "extendText": [
+        {
+          "en": "Jojo, Teeny, and Ducky are all done picking the apples, nuts, and carrots.",
+          "zh": ""
+        },
+        {
+          "en": "Phew!",
+          "zh": ""
+        },
+        {
+          "en": "That was a lot of work!",
+          "zh": ""
+        },
+        {
+          "en": "Wait a minute...oh no!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Jojo, Teeny, and Ducky are all done picking the apples, nuts, and carrots.",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Look in the baskets!what do you see?!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Somebody took all of our food!!!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "jojo",
+          "ipa": "",
+          "cn": "jojo"
+        },
+        {
+          "w": "teeny",
+          "ipa": "",
+          "cn": "teeny"
+        },
+        {
+          "w": "ducky",
+          "ipa": "",
+          "cn": "ducky"
+        }
+      ]
+    },
+    {
+      "id": "14-15",
+      "extendText": [
+        {
+          "en": "Here comes Gyuri!",
+          "zh": ""
+        },
+        {
+          "en": "He's swinging from the branches like a monkey!",
+          "zh": ""
+        },
+        {
+          "en": "He always knows what to do!",
+          "zh": ""
+        },
+        {
+          "en": "I wonder what amazing things he'll do today!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Here comes Gyuri!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "He's swinging from the branches like a monkey!",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "I wonder what amazing things he'll do today!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "here",
+          "ipa": "",
+          "cn": "here"
+        },
+        {
+          "w": "comes",
+          "ipa": "",
+          "cn": "comes"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        }
+      ]
+    },
+    {
+      "id": "16-17",
+      "extendText": [
+        {
+          "en": "Gyuri uses his tail to shake the apples off the tree!",
+          "zh": ""
+        },
+        {
+          "en": "Shake, shake, shake !",
+          "zh": ""
+        },
+        {
+          "en": "He picks the nuts so fast that itlooks like he has 4 hands!",
+          "zh": ""
+        },
+        {
+          "en": "Pick, pick, pick!!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Gyuri uses his tail to shake the apples off the tree!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Shake, shake, shake !",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "Wow!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        },
+        {
+          "w": "uses",
+          "ipa": "",
+          "cn": "uses"
+        },
+        {
+          "w": "his",
+          "ipa": "",
+          "cn": "his"
+        }
+      ]
+    },
+    {
+      "id": "18-19",
+      "extendText": [
+        {
+          "en": "Thank you, Gyuri!",
+          "zh": ""
+        },
+        {
+          "en": "You saved us!",
+          "zh": ""
+        },
+        {
+          "en": "Who's eating an apple?",
+          "zh": ""
+        },
+        {
+          "en": "Jojo, Gyuri, and the bird!",
+          "zh": ""
+        }
+      ],
+      "guides": [
+        {
+          "step": "① 导读",
+          "action": "对照纸质书画面，先点「整页原音」听一遍",
+          "en": "Thank you, Gyuri!",
+          "zh": "",
+          "note": "点击英文可听发音（系统 TTS）"
+        },
+        {
+          "step": "② 互动",
+          "action": "指着画面邀请孩子回答或跟读",
+          "en": "Who's eating an apple?",
+          "zh": "",
+          "note": "不会说就一起听音频再试"
+        },
+        {
+          "step": "③ 跟读",
+          "action": "挑一句孩子最感兴趣的，重复 2～3 遍",
+          "en": "See you next time!",
+          "zh": "",
+          "note": "可配合拍腿或指图增加趣味"
+        }
+      ],
+      "vocab": [
+        {
+          "w": "thank",
+          "ipa": "",
+          "cn": "thank"
+        },
+        {
+          "w": "gyuri",
+          "ipa": "",
+          "cn": "gyuri"
+        },
+        {
+          "w": "saved",
+          "ipa": "",
+          "cn": "saved"
+        }
+      ]
+    }
+  ]
+}
